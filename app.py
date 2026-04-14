@@ -22,6 +22,7 @@ API_URLS = {
 }
 LABELS = {"EDC": "Ed Controls", "FW": "Flexwhere"}
 EXCEL_PATH = Path(__file__).parent / "data" / "NPS Dutchview.xlsx"
+EXCLUDED_DOMAINS = {"dutchview.com", "mailinator.com"}
 
 
 @st.cache_data(ttl=3600)
@@ -87,6 +88,7 @@ def load_product(prefix):
         return None
 
     resp = resp.drop_duplicates(subset=["EMAIL", "DATE"], keep="last")
+    resp = resp[~resp["DOMAIN"].str.lower().isin(EXCLUDED_DOMAINS)]
     resp = resp.sort_values("DATE").reset_index(drop=True)
 
     # Add time columns
@@ -492,6 +494,64 @@ with tab3:
         cust_display = cust_display[cust_display["Klant"].str.contains(search_cust, case=False, na=False)]
 
     st.dataframe(cust_display.reset_index(drop=True), width="stretch", height=400)
+
+    # --- Klant detail drill-down ---
+    st.markdown("---")
+    st.subheader("Klant Detail")
+    domain_list = cust_filtered["DOMAIN"].tolist()
+    selected_domain = st.selectbox(
+        "Selecteer een klant",
+        options=[""] + domain_list,
+        format_func=lambda x: "Kies een klant..." if x == "" else x,
+        key="selected_customer",
+    )
+
+    if selected_domain:
+        cust_resp = resp_filtered[resp_filtered["DOMAIN"] == selected_domain].copy()
+        cust_scored = cust_resp.dropna(subset=["SCORE"])
+
+        # KPI row for selected customer
+        c1, c2, c3, c4 = st.columns(4)
+        with c1:
+            metric_card("NPS", calc_nps(cust_scored["SCORE"]) if len(cust_scored) > 0 else 0)
+        with c2:
+            metric_card("Gem. Score", cust_scored["SCORE"].mean() if len(cust_scored) > 0 else 0, suffix="/10")
+        with c3:
+            metric_card("Responses", float(len(cust_scored)), suffix="")
+        with c4:
+            prom = (cust_scored["NPS_CAT"] == "Promoter (9-10)").sum() if len(cust_scored) > 0 else 0
+            detr = (cust_scored["NPS_CAT"] == "Detractor (0-6)").sum() if len(cust_scored) > 0 else 0
+            metric_card("Promoters / Detractors", float(prom), suffix=f" / {detr}")
+
+        # NPS trend for this customer over time
+        cust_monthly = cust_scored.groupby("MONTH")["SCORE"].apply(calc_nps).reset_index()
+        cust_monthly.columns = ["Maand", "NPS"]
+        if len(cust_monthly) > 1:
+            fig_cust = go.Figure()
+            fig_cust.add_trace(go.Scatter(
+                x=cust_monthly["Maand"], y=cust_monthly["NPS"],
+                mode="lines+markers", name="NPS",
+                line=dict(color="#3b82f6", width=2),
+            ))
+            fig_cust.update_layout(
+                title=f"NPS Trend — {selected_domain}",
+                template="plotly_dark", height=300,
+                xaxis_title="Maand", yaxis_title="NPS",
+                hovermode="x unified",
+            )
+            fig_cust.add_hline(y=0, line_dash="dot", line_color="gray", opacity=0.5)
+            st.plotly_chart(fig_cust, width="stretch")
+
+        # Responses table
+        st.markdown(f"**Responses van {selected_domain}**")
+        cust_show = cust_resp[["DATE", "SCORE", "NPS_CAT", "MESSAGE", "PLATFORM"]].sort_values("DATE", ascending=False)
+        cust_show = cust_show.rename(columns={
+            "DATE": "Datum", "SCORE": "Score", "NPS_CAT": "Categorie",
+            "MESSAGE": "Feedback", "PLATFORM": "Platform",
+        })
+        if "Feedback" in cust_show.columns:
+            cust_show["Feedback"] = cust_show["Feedback"].astype(str).replace("nan", "")
+        st.dataframe(cust_show.reset_index(drop=True), width="stretch", height=400)
 
 with tab4:
     st.subheader("Individuele Responses")
