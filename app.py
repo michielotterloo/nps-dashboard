@@ -99,8 +99,8 @@ def load_product(prefix):
     # Classify NPS category
     resp["NPS_CAT"] = pd.cut(
         resp["SCORE"],
-        bins=[-1, 6, 8, 10],
-        labels=["Detractor (0-6)", "Passive (7-8)", "Promoter (9-10)"],
+        bins=[-1, 5, 7, 10],
+        labels=["Detractor (0-5)", "Passive (6-7)", "Promoter (8-10)"],
     )
 
     # Build monthly aggregates from responses
@@ -121,8 +121,8 @@ def calc_nps(scores):
     scores = scores.dropna()
     if len(scores) == 0:
         return 0
-    promoters = (scores >= 9).sum()
-    detractors = (scores <= 6).sum()
+    promoters = (scores >= 8).sum()
+    detractors = (scores <= 5).sum()
     return (promoters - detractors) / len(scores) * 100
 
 
@@ -172,8 +172,8 @@ def build_customers(resp):
         .agg(
             Responses=("SCORE", "count"),
             Avg_Score=("SCORE", "mean"),
-            Promoters=("NPS_CAT", lambda x: (x == "Promoter (9-10)").sum()),
-            Detractors=("NPS_CAT", lambda x: (x == "Detractor (0-6)").sum()),
+            Promoters=("NPS_CAT", lambda x: (x == "Promoter (8-10)").sum()),
+            Detractors=("NPS_CAT", lambda x: (x == "Detractor (0-5)").sum()),
         )
         .reset_index()
     )
@@ -200,12 +200,13 @@ def metric_card(label, value, suffix="", delta=None, delta_label=""):
     if delta is not None:
         d_color = "#22c55e" if delta >= 0 else "#ef4444"
         arrow = "▲" if delta >= 0 else "▼"
-        delta_html = f'<div style="font-size:0.85rem;color:{d_color}">{arrow} {delta:+.1f} {delta_label}</div>'
+        delta_html = f'<div style="font-size:0.75rem;color:{d_color};white-space:nowrap">{arrow} {delta:+.1f} {delta_label}</div>'
+    val_str = f"{value:.0f}" if value == int(value) else f"{value:.1f}"
     st.markdown(
         f"""
-        <div style="background:#1e293b;border-radius:12px;padding:1.2rem;text-align:center;border-left:4px solid {color}">
-            <div style="font-size:0.85rem;color:#94a3b8;margin-bottom:0.3rem">{label}</div>
-            <div style="font-size:2rem;font-weight:700;color:{color}">{value:.1f}{suffix}</div>
+        <div style="background:#1e293b;border-radius:12px;padding:1rem;text-align:center;border-left:4px solid {color}">
+            <div style="font-size:0.8rem;color:#94a3b8;margin-bottom:0.2rem;white-space:nowrap">{label}</div>
+            <div style="font-size:1.8rem;font-weight:700;color:{color};white-space:nowrap">{val_str}{suffix}</div>
             {delta_html}
         </div>
         """,
@@ -282,7 +283,7 @@ with col1:
 with col2:
     metric_card("Gem. Score", avg_score, suffix="/10")
 with col3:
-    metric_card("Responses", total_scored, suffix="")
+    metric_card("Responses", float(total_scored), suffix="")
 with col4:
     metric_card("Response Rate", response_rate, suffix="%")
 
@@ -317,6 +318,7 @@ with tab1:
             fig.update_layout(
                 title="NPS Trend per Maand",
                 xaxis_title="Maand", yaxis_title="NPS Score",
+                yaxis=dict(range=[-100, 100]),
                 template="plotly_dark", height=450,
                 legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
                 hovermode="x unified",
@@ -362,6 +364,7 @@ with tab1:
         fig.update_layout(
             title="NPS Trend per Week",
             xaxis_title="Week", yaxis_title="NPS Score",
+            yaxis=dict(range=[-100, 100]),
             template="plotly_dark", height=450,
             hovermode="x unified",
         )
@@ -374,9 +377,9 @@ with tab2:
     with col1:
         cat_counts = scored["NPS_CAT"].value_counts()
         colors_map = {
-            "Promoter (9-10)": "#22c55e",
-            "Passive (7-8)": "#f59e0b",
-            "Detractor (0-6)": "#ef4444",
+            "Promoter (8-10)": "#22c55e",
+            "Passive (6-7)": "#f59e0b",
+            "Detractor (0-5)": "#ef4444",
         }
         fig_pie = px.pie(
             names=cat_counts.index,
@@ -519,8 +522,8 @@ with tab3:
         with c3:
             metric_card("Responses", float(len(cust_scored)), suffix="")
         with c4:
-            prom = (cust_scored["NPS_CAT"] == "Promoter (9-10)").sum() if len(cust_scored) > 0 else 0
-            detr = (cust_scored["NPS_CAT"] == "Detractor (0-6)").sum() if len(cust_scored) > 0 else 0
+            prom = (cust_scored["NPS_CAT"] == "Promoter (8-10)").sum() if len(cust_scored) > 0 else 0
+            detr = (cust_scored["NPS_CAT"] == "Detractor (0-5)").sum() if len(cust_scored) > 0 else 0
             metric_card("Promoters / Detractors", float(prom), suffix=f" / {detr}")
 
         # NPS trend for this customer over time
@@ -537,6 +540,7 @@ with tab3:
                 title=f"NPS Trend — {selected_domain}",
                 template="plotly_dark", height=300,
                 xaxis_title="Maand", yaxis_title="NPS",
+                yaxis=dict(range=[-100, 100]),
                 hovermode="x unified",
             )
             fig_cust.add_hline(y=0, line_dash="dot", line_color="gray", opacity=0.5)
@@ -560,8 +564,8 @@ with tab4:
     with col1:
         cat_filter = st.multiselect(
             "NPS Categorie",
-            ["Promoter (9-10)", "Passive (7-8)", "Detractor (0-6)"],
-            default=["Promoter (9-10)", "Passive (7-8)", "Detractor (0-6)"],
+            ["Promoter (8-10)", "Passive (6-7)", "Detractor (0-5)"],
+            default=["Promoter (8-10)", "Passive (6-7)", "Detractor (0-5)"],
         )
     with col2:
         has_message = st.checkbox("Alleen met feedback", value=False)

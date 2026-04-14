@@ -1,0 +1,6 @@
+.git
+.claude
+__pycache__
+*.pyc
+data/NPS Dutchview.xlsx
+.streamlit/secrets.toml
