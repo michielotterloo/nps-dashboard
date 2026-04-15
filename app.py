@@ -21,6 +21,7 @@ API_URLS = {
     "FW": "https://dutchview.flexwhere.com/api/v1/nps/report?product=FLEXWHERE",
 }
 LABELS = {"EDC": "Ed Controls", "FW": "Flexwhere"}
+NPS_TARGETS = {"EDC": 50, "FW": 32}
 EXCEL_PATH = Path(__file__).parent / "data" / "NPS Dutchview.xlsx"
 EXCLUDED_DOMAINS = {"dutchview.com", "mailinator.com"}
 
@@ -254,6 +255,14 @@ date_range = st.sidebar.select_slider(
     value=(months_available[0], months_available[-1]),
 )
 
+st.sidebar.markdown("---")
+st.sidebar.markdown(f"**🎯 NPS Target: ≥ {NPS_TARGETS[product]}**")
+if data is not None and len(data["monthly"]) > 0:
+    _mat = data["monthly"].iloc[-1]["MAT_NPS"]
+    _delta = _mat - NPS_TARGETS[product]
+    _icon = "✅" if _delta >= 0 else "⚠️"
+    st.sidebar.markdown(f"MAT NPS: **{_mat:.1f}** {_icon}")
+
 if st.sidebar.button("Ververs data"):
     st.cache_data.clear()
     st.rerun()
@@ -272,19 +281,26 @@ prev_scored = resp[resp["MONTH"] == prev_month].dropna(subset=["SCORE"])
 prev_nps = calc_nps(prev_scored["SCORE"])
 delta_nps = current_nps - prev_nps
 
+# MAT NPS from monthly data
+mat_nps = monthly.iloc[-1]["MAT_NPS"] if len(monthly) > 0 else current_nps
+target = NPS_TARGETS[product]
+target_delta = mat_nps - target
+
 total_responses = len(resp_filtered)
 total_scored = len(scored)
 response_rate = total_scored / total_responses * 100 if total_responses > 0 else 0
 avg_score = scored["SCORE"].mean() if len(scored) > 0 else 0
 
-col1, col2, col3, col4 = st.columns(4)
+col1, col2, col3, col4, col5 = st.columns(5)
 with col1:
     metric_card("NPS Score", current_nps, delta=delta_nps, delta_label="vs vorige maand")
 with col2:
-    metric_card("Gem. Score", avg_score, suffix="/10")
+    metric_card("MAT NPS", mat_nps, delta=target_delta, delta_label=f"vs target ({target})")
 with col3:
-    metric_card("Responses", float(total_scored), suffix="")
+    metric_card("Gem. Score", avg_score, suffix="/10")
 with col4:
+    metric_card("Responses", float(total_scored), suffix="")
+with col5:
     metric_card("Response Rate", response_rate, suffix="%")
 
 st.markdown("<br>", unsafe_allow_html=True)
@@ -324,6 +340,14 @@ with tab1:
                 hovermode="x unified",
             )
             fig.add_hline(y=0, line_dash="dot", line_color="gray", opacity=0.5)
+            # Target line
+            target = NPS_TARGETS[product]
+            fig.add_hline(
+                y=target, line_dash="dash", line_color="#22c55e", opacity=0.7,
+                annotation_text=f"Target ≥ {target}",
+                annotation_position="top left",
+                annotation_font_color="#22c55e",
+            )
             st.plotly_chart(fig, width="stretch")
 
             col_a, col_b = st.columns(2)
@@ -338,12 +362,40 @@ with tab1:
                 st.plotly_chart(fig_resp, width="stretch")
             with col_b:
                 if len(df_plot) > 1:
-                    latest = df_plot.iloc[-1]["MAT_NPS"]
+                    latest_mat = df_plot.iloc[-1]["MAT_NPS"]
+                    latest_month = df_plot.iloc[-1]["Month_NPS"]
+                    latest_quarter = df_plot.iloc[-1]["Quarter_NPS"]
+                    target = NPS_TARGETS[product]
+                    mat_delta = latest_mat - target
+                    mat_color = "#22c55e" if mat_delta >= 0 else "#ef4444"
+                    mat_arrow = "✅" if mat_delta >= 0 else "⚠️"
                     st.markdown(f"""
-                    **MAT NPS**: {latest:.1f}
-                    **Laatste maand NPS**: {df_plot.iloc[-1]['Month_NPS']:.1f}
-                    **Laatste kwartaal NPS**: {df_plot.iloc[-1]['Quarter_NPS']:.1f}
+                    **MAT NPS**: {latest_mat:.1f} {mat_arrow} (target: {target})
+
+                    **Laatste maand NPS**: {latest_month:.1f}
+
+                    **Laatste kwartaal NPS**: {latest_quarter:.1f}
                     """)
+
+                    # YoY comparison
+                    latest_month_label = df_plot.iloc[-1]["Month_Label"]
+                    yoy_month = latest_month_label[:4]
+                    yoy_target = str(int(yoy_month) - 1) + latest_month_label[4:]
+                    yoy_row = df_plot[df_plot["Month_Label"] == yoy_target]
+                    if len(yoy_row) > 0:
+                        yoy_nps = yoy_row.iloc[0]["Month_NPS"]
+                        yoy_delta = latest_month - yoy_nps
+                        yoy_color = "#22c55e" if yoy_delta >= 0 else "#ef4444"
+                        yoy_arrow = "▲" if yoy_delta >= 0 else "▼"
+                        st.markdown(
+                            f'<div style="background:#1e293b;border-radius:8px;padding:0.8rem;margin-top:0.5rem">'
+                            f'<span style="color:#94a3b8;font-size:0.8rem">Year-over-Year ({yoy_target})</span><br>'
+                            f'<span style="color:{yoy_color};font-size:1.2rem;font-weight:700">'
+                            f'{yoy_arrow} {yoy_delta:+.1f}</span>'
+                            f'<span style="color:#94a3b8;font-size:0.8rem"> ({yoy_nps:.1f} → {latest_month:.1f})</span>'
+                            f'</div>',
+                            unsafe_allow_html=True,
+                        )
     else:
         df_plot = weekly.copy()
         # Filter weeks within date range
@@ -369,6 +421,13 @@ with tab1:
             hovermode="x unified",
         )
         fig.add_hline(y=0, line_dash="dot", line_color="gray", opacity=0.5)
+        target = NPS_TARGETS[product]
+        fig.add_hline(
+            y=target, line_dash="dash", line_color="#22c55e", opacity=0.7,
+            annotation_text=f"Target ≥ {target}",
+            annotation_position="top left",
+            annotation_font_color="#22c55e",
+        )
         st.plotly_chart(fig, width="stretch")
 
 with tab2:
@@ -544,6 +603,12 @@ with tab3:
                 hovermode="x unified",
             )
             fig_cust.add_hline(y=0, line_dash="dot", line_color="gray", opacity=0.5)
+            fig_cust.add_hline(
+                y=NPS_TARGETS[product], line_dash="dash", line_color="#22c55e", opacity=0.7,
+                annotation_text=f"Target ≥ {NPS_TARGETS[product]}",
+                annotation_position="top left",
+                annotation_font_color="#22c55e",
+            )
             st.plotly_chart(fig_cust, width="stretch")
 
         # Responses table
