@@ -363,7 +363,7 @@ with col5:
 st.markdown("<br>", unsafe_allow_html=True)
 
 # --- TABS ---
-tab1, tab2, tab3, tab4 = st.tabs(["Trend", "Verdeling", "Klanten", "Responses"])
+tab1, tab2, tab3, tab5, tab4 = st.tabs(["Trend", "Verdeling", "Klanten", "Inzichten", "Responses"])
 
 with tab1:
     view = st.radio("Weergave", ["Maand", "Week"], horizontal=True, key="trend_view")
@@ -726,6 +726,71 @@ with tab3:
         if "Feedback" in cust_show.columns:
             cust_show["Feedback"] = cust_show["Feedback"].astype(str).replace("nan", "")
         st.dataframe(cust_show.reset_index(drop=True), width="stretch", height=400)
+
+with tab5:
+    st.subheader("Inzichten — Recente Feedback")
+    st.caption("Uitgebreide reacties (min. 20 tekens) van de afgelopen periode, gesorteerd op datum.")
+
+    feedback = scored[scored["MESSAGE"].notna()].copy()
+    feedback["MSG_STR"] = feedback["MESSAGE"].astype(str)
+    feedback = feedback[feedback["MSG_STR"].str.len() >= 20]
+    feedback = feedback.sort_values("DATE", ascending=False)
+
+    col_pos, col_neg = st.columns(2)
+
+    with col_pos:
+        st.markdown("### 🟢 Positieve Feedback")
+        st.caption("Promoters (score 8-10)")
+        pos = feedback[feedback["SCORE"] >= 8].head(15)
+        if len(pos) == 0:
+            st.info("Geen uitgebreide positieve feedback in deze periode.")
+        else:
+            for _, r in pos.iterrows():
+                score_color = "#22c55e"
+                date_str = r["DATE"].strftime("%d-%m-%Y") if pd.notna(r["DATE"]) else ""
+                customer = r.get("CUSTOMER", r.get("DOMAIN", ""))
+                st.markdown(
+                    f'<div style="background:#1e293b;border-radius:8px;padding:0.8rem;margin-bottom:0.5rem;border-left:3px solid {score_color}">'
+                    f'<div style="display:flex;justify-content:space-between;margin-bottom:0.3rem">'
+                    f'<span style="color:#94a3b8;font-size:0.75rem">{customer}</span>'
+                    f'<span style="color:{score_color};font-weight:700;font-size:0.8rem">{int(r["SCORE"])}/10</span>'
+                    f'</div>'
+                    f'<div style="color:#e2e8f0;font-size:0.85rem">{r["MSG_STR"]}</div>'
+                    f'<div style="color:#64748b;font-size:0.7rem;margin-top:0.3rem">{date_str}</div>'
+                    f'</div>',
+                    unsafe_allow_html=True,
+                )
+
+    with col_neg:
+        st.markdown("### 🔴 Negatieve Feedback")
+        st.caption("Detractors (score 0-5)")
+        neg = feedback[feedback["SCORE"] <= 5].head(15)
+        if len(neg) == 0:
+            st.info("Geen uitgebreide negatieve feedback in deze periode.")
+        else:
+            for _, r in neg.iterrows():
+                score_color = "#ef4444"
+                date_str = r["DATE"].strftime("%d-%m-%Y") if pd.notna(r["DATE"]) else ""
+                customer = r.get("CUSTOMER", r.get("DOMAIN", ""))
+                st.markdown(
+                    f'<div style="background:#1e293b;border-radius:8px;padding:0.8rem;margin-bottom:0.5rem;border-left:3px solid {score_color}">'
+                    f'<div style="display:flex;justify-content:space-between;margin-bottom:0.3rem">'
+                    f'<span style="color:#94a3b8;font-size:0.75rem">{customer}</span>'
+                    f'<span style="color:{score_color};font-weight:700;font-size:0.8rem">{int(r["SCORE"])}/10</span>'
+                    f'</div>'
+                    f'<div style="color:#e2e8f0;font-size:0.85rem">{r["MSG_STR"]}</div>'
+                    f'<div style="color:#64748b;font-size:0.7rem;margin-top:0.3rem">{date_str}</div>'
+                    f'</div>',
+                    unsafe_allow_html=True,
+                )
+
+    # Summary stats
+    st.markdown("---")
+    total_with_feedback = len(feedback)
+    total_pos = len(feedback[feedback["SCORE"] >= 8])
+    total_neg = len(feedback[feedback["SCORE"] <= 5])
+    total_passive = len(feedback[(feedback["SCORE"] >= 6) & (feedback["SCORE"] <= 7)])
+    st.caption(f"Totaal {total_with_feedback} uitgebreide reacties: {total_pos} positief, {total_passive} passief, {total_neg} negatief")
 
 with tab4:
     st.subheader("Individuele Responses")
