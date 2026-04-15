@@ -304,10 +304,12 @@ else:
     st.sidebar.warning("API offline — Excel data wordt gebruikt")
 
 months_available = sorted(resp["MONTH"].dropna().unique())
+# Default to last 12 months (MAT window)
+default_start = months_available[-12] if len(months_available) >= 12 else months_available[0]
 date_range = st.sidebar.select_slider(
     "Periode",
     options=months_available,
-    value=(months_available[0], months_available[-1]),
+    value=(default_start, months_available[-1]),
 )
 
 st.sidebar.markdown("---")
