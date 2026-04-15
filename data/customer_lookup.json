@@ -1,0 +1,6342 @@
+{
+  "duravermeer.nl": {
+    "name": "Dura Vermeer Groep",
+    "owner": "Babs Verheij"
+  },
+  "vanoord.com": {
+    "name": "VAN OORD",
+    "owner": "Inge Rouwenhorst"
+  },
+  "draaijerpartners.nl": {
+    "name": "Draaijer + Partners",
+    "owner": "Robert Greidanus"
+  },
+  "hoornstra-bouw.nl": {
+    "name": "Hoornstra Bouw Doesburg",
+    "owner": "Babs Verheij"
+  },
+  "busterbouwcontrol.nl": {
+    "name": "Buster Bouwcontrol",
+    "owner": "Robert Greidanus"
+  },
+  "hegeman.com": {
+    "name": "Hegeman Bouw & Infra",
+    "owner": "Niels Verwoest"
+  },
+  "unibouw.eu": {
+    "name": "Unibouw",
+    "owner": "Nathalie Pereboom"
+  },
+  "tibn.nl": {
+    "name": "TIBN",
+    "owner": "Niels Verwoest"
+  },
+  "heijmans.nl": {
+    "name": "Heijmans Groep",
+    "owner": "Robert Greidanus"
+  },
+  "tobuild.nl": {
+    "name": "To Build Projects B.V.",
+    "owner": "Babs Verheij"
+  },
+  "ballast-nedam.nl": {
+    "name": "Ballast-Nedam",
+    "owner": "Robert Greidanus"
+  },
+  "volkerwessels.com": {
+    "name": "VolkerWessels Hoofkantoor",
+    "owner": "Johan Pijpers"
+  },
+  "adsgroep.nl": {
+    "name": "ADS Groep",
+    "owner": "Robert Greidanus"
+  },
+  "croonwolterendros.nl": {
+    "name": "Croonwolter&dros | TBI",
+    "owner": "Robert Greidanus"
+  },
+  "berghege.nl": {
+    "name": "Berghege Bouwbedrijf BV",
+    "owner": "Nathalie Pereboom"
+  },
+  "umcg.nl": {
+    "name": "Universitair Medisch Centrum Groningen (UMCG)",
+    "owner": "Robert Greidanus"
+  },
+  "dekraan.nl": {
+    "name": "De Kraan installatietechniek",
+    "owner": "Inge Rouwenhorst"
+  },
+  "beckerundhenze.de": {
+    "name": "Becker und Henze",
+    "owner": "Mathias Wolf"
+  },
+  "batenburg.nl": {
+    "name": "Batenburg Techniek B.V.",
+    "owner": "Nathalie Pereboom"
+  },
+  "famegroep.nl": {
+    "name": "HEVOFAME Groep",
+    "owner": "Robert Greidanus"
+  },
+  "plegt-vos.nl": {
+    "name": "Plegt-Vos Bouwgroep BV",
+    "owner": "Robert Greidanus"
+  },
+  "tenbrinke.com": {
+    "name": "Ten Brinke Zuid",
+    "owner": "Unassigned"
+  },
+  "nijhuis.nl": {
+    "name": "Nijhuis Bouw B.V.",
+    "owner": "Johan Pijpers"
+  },
+  "deraad.nl": {
+    "name": "De Raad Makelaars",
+    "owner": "Babs Verheij"
+  },
+  "fidero.nl": {
+    "name": "Fidero",
+    "owner": "Robert Greidanus"
+  },
+  "portix.nl": {
+    "name": "Portix B.V.",
+    "owner": "Niels Verwoest"
+  },
+  "vandevenbv.nl": {
+    "name": "Van de Ven Bouw en Ontwikkeling B.V. (VW)",
+    "owner": "Niels Verwoest"
+  },
+  "hendriks-groep.nl": {
+    "name": "Hendriks groep bv",
+    "owner": "Unknown"
+  },
+  "devriesverburg.nl": {
+    "name": "Bouwbedrijf De Vries en Verburg B.V.",
+    "owner": "Babs Verheij"
+  },
+  "vanderpoelterneuzen.nl": {
+    "name": "Aannemersbedrijf Van der Poel bv (VW)",
+    "owner": "Niels Verwoest"
+  },
+  "hurks.nl": {
+    "name": "Hurks Bouw",
+    "owner": "Robert Greidanus"
+  },
+  "hsb-volendam.nl": {
+    "name": "HSB Bouw BV",
+    "owner": "Robert Greidanus"
+  },
+  "ehbs-knecht.de": {
+    "name": "EHBS Knecht GmbH & Co. KG",
+    "owner": "Mathias Wolf"
+  },
+  "vanrhijnbouw.nl": {
+    "name": "Van Rhijn Bouw",
+    "owner": "Robert Greidanus"
+  },
+  "giesberswijchen.nl": {
+    "name": "Giesbers Wijchen",
+    "owner": "Nathalie Pereboom"
+  },
+  "reinbouw.nl": {
+    "name": "Reinbouw B.V.",
+    "owner": "Nathalie Pereboom"
+  },
+  "degrootgroep.nl": {
+    "name": "De Groot Installatiegroep",
+    "owner": "Lilian Lubberink"
+  },
+  "kdbv.nl": {
+    "name": "K_Dekker Bouw & Infra",
+    "owner": "Robert Greidanus"
+  },
+  "concocio.eu": {
+    "name": "Concocio Advies & Bouwmanagement B.V.",
+    "owner": "Peter Romeijn"
+  },
+  "hanab.nl": {
+    "name": "Hanab Installation Technology / Homij Utrecht",
+    "owner": "Nathalie Pereboom"
+  },
+  "onderhoudplus.nl": {
+    "name": "Janssen de Jong OnderhoudPlus Oost",
+    "owner": "Robert Greidanus"
+  },
+  "dzap.nl": {
+    "name": "DZAP",
+    "owner": "Robert Greidanus"
+  },
+  "verwol.nl": {
+    "name": "Verwol Projectafbouw BV",
+    "owner": "Niels Verwoest"
+  },
+  "akarchitekten.com": {
+    "name": "AK Architekten | Ingenieure",
+    "owner": "Selcuk Kavakpinar"
+  },
+  "celsiusbenelux.nl": {
+    "name": "Celsius Benelux B.V.",
+    "owner": "Babs Verheij"
+  },
+  "ecoplusbouw.nl": {
+    "name": "ECO+Bouw (= FAILLIET)",
+    "owner": "Niels Verwoest"
+  },
+  "bouwplantoetsers.nl": {
+    "name": "bouwplantoetsers.nl",
+    "owner": "Robert Greidanus"
+  },
+  "woltersbv.nl": {
+    "name": "Wolters Vastgoedonderhoud",
+    "owner": "Babs Verheij"
+  },
+  "minimax.nl": {
+    "name": "Minimax brandbeveiliging",
+    "owner": "Robert Greidanus"
+  },
+  "vanaarledelaat.nl": {
+    "name": "Van Aarle De Laat",
+    "owner": "Lilian Lubberink"
+  },
+  "sfi.nl": {
+    "name": "Scheer & Foppen Installatietechniek",
+    "owner": "Babs Verheij"
+  },
+  "circet.be": {
+    "name": "circet.be",
+    "owner": "Johan Pijpers"
+  },
+  "vanrennes.nl": {
+    "name": "Installatiebedrijf Van Rennes",
+    "owner": "Unknown"
+  },
+  "veenemanbouw.nl": {
+    "name": "Bouwonderneming Veeneman",
+    "owner": "Nathalie Pereboom"
+  },
+  "wierdenenborgen.nl": {
+    "name": "Woningstichting Wierden En Borgen",
+    "owner": "Robert Greidanus"
+  },
+  "systabo.nl": {
+    "name": "Systabo ",
+    "owner": "Nathalie Pereboom"
+  },
+  "bpz.nl": {
+    "name": "BPZ",
+    "owner": "Robert Greidanus"
+  },
+  "vpgalu.nl": {
+    "name": "V.P.G. Aluminium Ramen & Geveltechniek B.V.",
+    "owner": "Inge Rouwenhorst"
+  },
+  "marku.nl": {
+    "name": "Marku Bouw BV",
+    "owner": "Robert Greidanus"
+  },
+  "duprie.nl": {
+    "name": "Du Prie Bouw & Ontwikkeling BV",
+    "owner": "Inge Rouwenhorst"
+  },
+  "ibsconsultants.nl": {
+    "name": "IBS Consultants B.V.",
+    "owner": "Inge Rouwenhorst"
+  },
+  "heembouw.nl": {
+    "name": "Heembouw Roelofsarendveen BV",
+    "owner": "Nathalie Pereboom"
+  },
+  "kreunenbouw.nl": {
+    "name": "Kreunen Bouw",
+    "owner": "Lilian Lubberink"
+  },
+  "philips.com": {
+    "name": "Philips",
+    "owner": "Nathalie Pereboom"
+  },
+  "addirco.nl": {
+    "name": "Addirco Bouwburo B.V.",
+    "owner": "Robert Greidanus"
+  },
+  "keysystems.nl": {
+    "name": "DTC Keysystems Nederland",
+    "owner": "Robert Greidanus"
+  },
+  "mst.nl": {
+    "name": "Medisch Spectrum Twente (MST)",
+    "owner": "Robert Greidanus"
+  },
+  "hekker.nl": {
+    "name": "Hekker interieurbouw BV",
+    "owner": "Inge Rouwenhorst"
+  },
+  "vandergeestschilderspecialisten.nl": {
+    "name": "Van der Geest Schilderspecialisten",
+    "owner": "Inge Rouwenhorst"
+  },
+  "acutus.nl": {
+    "name": "Acutus B.V.",
+    "owner": "Lilian Lubberink"
+  },
+  "focusbouwmanagers.nl": {
+    "name": "Focus Bouwmanagers",
+    "owner": "Peter Romeijn"
+  },
+  "wiederaufbau.de": {
+    "name": "Baugenossenschaft Wiederaufbau eG",
+    "owner": "Selcuk Kavakpinar"
+  },
+  "vanagtmaal.nl": {
+    "name": "Van Agtmaal BV",
+    "owner": "Niels Verwoest"
+  },
+  "deltafibernetwerk.nl": {
+    "name": "Delta Fiber Netwerk",
+    "owner": "Johan Pijpers"
+  },
+  "oldenburger.com": {
+    "name": "Abstrium",
+    "owner": "Mathias Wolf"
+  },
+  "s-pod.nl": {
+    "name": "S-pod Benelux B.V.",
+    "owner": "Lilian Lubberink"
+  },
+  "beren.nl": {
+    "name": "De Beren Franchise B.V.",
+    "owner": "Babs Verheij"
+  },
+  "snetselaar.nl": {
+    "name": "Snetselaar Constructieve Ingenieurs",
+    "owner": "Lilian Lubberink"
+  },
+  "ask-romein.com": {
+    "name": "ASK Romein = FAILLIET",
+    "owner": "Unknown"
+  },
+  "hollandertechniek.nl": {
+    "name": "Hollander techniek",
+    "owner": "Nathalie Pereboom"
+  },
+  "herlingselectrotechniek.nl": {
+    "name": "Herlings Elektro Techniek bv",
+    "owner": "Robert Greidanus"
+  },
+  "aswgroep.nl": {
+    "name": "ASW gevelbouw",
+    "owner": "Inge Rouwenhorst"
+  },
+  "barten.nl": {
+    "name": "Barten Groep",
+    "owner": "Babs Verheij"
+  },
+  "lindhorst.nl": {
+    "name": "Lindhorst Huisvestingadviseurs",
+    "owner": "Robert Greidanus"
+  },
+  "imj.nl": {
+    "name": "Ingenieursburo Meijer & Joustra bv",
+    "owner": "Inge Rouwenhorst"
+  },
+  "vanwijnen.nl": {
+    "name": "Van Wijnen Amsterdam B.V. (voorheen Van Wijnen Midden Weesp)",
+    "owner": "Niels Verwoest"
+  },
+  "gensbouw.nl": {
+    "name": "G&S Bouw B.V.",
+    "owner": "Niels Verwoest"
+  },
+  "middelwateringbouw.nl": {
+    "name": "Middelwateringbouw",
+    "owner": "Niels Verwoest"
+  },
+  "murre-devisser.nl": {
+    "name": "Murre- De Visser Brandpreventie BV",
+    "owner": "Robert Greidanus"
+  },
+  "dreso.com": {
+    "name": "Drees & Sommer",
+    "owner": "Mathias Wolf"
+  },
+  "deurplus.com": {
+    "name": "Deurplus",
+    "owner": "Robert Greidanus"
+  },
+  "vb-saueressig.de": {
+    "name": "VB SAUERESSIG Brandschutzplanung",
+    "owner": "Selcuk Kavakpinar"
+  },
+  "goossentepas.nl": {
+    "name": "Goossen Te Pas",
+    "owner": "Nathalie Pereboom"
+  },
+  "gebrmeijer.nl": {
+    "name": "Bouwbedrijf gebr. Meijer",
+    "owner": "Inge Rouwenhorst"
+  },
+  "winkelmanengineering.nl": {
+    "name": "Winkelman Engineering & Consultancy",
+    "owner": "Robert Greidanus"
+  },
+  "mbbtwente.nl": {
+    "name": "MBB Twente",
+    "owner": "Babs Verheij"
+  },
+  "frieslandcampina.com": {
+    "name": "FrieslandCampina",
+    "owner": "Robert Greidanus"
+  },
+  "rbv-bv.nl": {
+    "name": "Buildon (Tomark Bouw) (RBV BV)",
+    "owner": "Robert Greidanus"
+  },
+  "stamendekoning.nl": {
+    "name": "Stam + De Koning Bouw bv",
+    "owner": "Niels Verwoest"
+  },
+  "tala.nl": {
+    "name": "Tala",
+    "owner": "Inge Rouwenhorst"
+  },
+  "hare.com": {
+    "name": "William Hare Group Limited",
+    "owner": "Rutger-Jan Loenen"
+  },
+  "equans.com": {
+    "name": "Equans",
+    "owner": "Sunil CJ"
+  },
+  "nieman.nl": {
+    "name": "Nieman",
+    "owner": "Robert Greidanus"
+  },
+  "vandelftgroep.nl": {
+    "name": "Van Delft Groep",
+    "owner": "Inge Rouwenhorst"
+  },
+  "dijkxhoornbouw.nl": {
+    "name": "Dijkxhoorn Bouw",
+    "owner": "Nathalie Pereboom"
+  },
+  "elk.nl": {
+    "name": "Elk Utrecht",
+    "owner": "Robert Greidanus"
+  },
+  "visserensmitbouw.nl": {
+    "name": "Visser & Smit Bouw Rotterdam (VW)",
+    "owner": "Nathalie Pereboom"
+  },
+  "byldis.com": {
+    "name": "Byldis",
+    "owner": "Robert Greidanus"
+  },
+  "vanlosser.nl": {
+    "name": "Van Losser Groep (VLO)",
+    "owner": "Babs Verheij"
+  },
+  "amsterdam.nl": {
+    "name": "Gemeente Amsterdam FW",
+    "owner": "Unknown"
+  },
+  "vriesbouw.eu": {
+    "name": "Vriesbouw",
+    "owner": "Robert Greidanus"
+  },
+  "hrson.nl": {
+    "name": "VB Groep",
+    "owner": "Robert Greidanus"
+  },
+  "tizo.nl": {
+    "name": "BouwmaatschappijTizo",
+    "owner": "Unassigned"
+  },
+  "lodema.nl": {
+    "name": "Lodema Elektrotechniek",
+    "owner": "Niels Verwoest"
+  },
+  "buro-brandbeheersing.nl": {
+    "name": "Buro Brandbeheersing",
+    "owner": "Robert Greidanus"
+  },
+  "isero.nl": {
+    "name": "Isero",
+    "owner": "Unknown"
+  },
+  "designjd.co.uk": {
+    "name": "Design JD",
+    "owner": "Rutger-Jan Loenen"
+  },
+  "groothuisbouwgroep.nl": {
+    "name": "Groothuis Bouwgroep",
+    "owner": "Nathalie Pereboom"
+  },
+  "viiagroningen.nl": {
+    "name": "VIIA Groningen",
+    "owner": "Unknown"
+  },
+  "eu.jll.com": {
+    "name": "Jones Lang LaSalle, IP, Inc.",
+    "owner": "Unknown"
+  },
+  "mensinkbouwbedrijf.nl": {
+    "name": "Mensink Bouwbedrijf",
+    "owner": "Inge Rouwenhorst"
+  },
+  "placevalue.de": {
+    "name": "Essedum GmbH",
+    "owner": "Mathias Wolf"
+  },
+  "metadecor.nl": {
+    "name": "Metadecor",
+    "owner": "Babs Verheij"
+  },
+  "eteck.nl": {
+    "name": "Eteck",
+    "owner": "Nathalie Pereboom"
+  },
+  "cornelissenbouw.nl": {
+    "name": "Cornelissen Aannemingsbedrijf BV",
+    "owner": "Robert Greidanus"
+  },
+  "cbh-engineering.nl": {
+    "name": "Castermans Bertram Holten b.v.",
+    "owner": "Inge Rouwenhorst"
+  },
+  "vanmiltenburg.nl": {
+    "name": "Aannemingsbedrijf Van Miltenburg",
+    "owner": "Robert Greidanus"
+  },
+  "giesbersservicebouw.nl": {
+    "name": "Giesbers  Groep BV",
+    "owner": "Nathalie Pereboom"
+  },
+  "leeuwarden.nl": {
+    "name": "Gemeente Leeuwarden ED Controls",
+    "owner": "Robert Greidanus"
+  },
+  "woodteq.nl": {
+    "name": "Woodteq",
+    "owner": "Lilian Lubberink"
+  },
+  "bjks.de": {
+    "name": "BJKS Architekten und Ingenieure",
+    "owner": "Mathias Wolf"
+  },
+  "eigenwijsbouw.nl": {
+    "name": "Eigenwijs Bouw",
+    "owner": "Inge Rouwenhorst"
+  },
+  "emergo.nl": {
+    "name": "Emergo Houtconstructies",
+    "owner": "Niels Verwoest"
+  },
+  "burglandbouw.nl": {
+    "name": "Burgland Bouw BV",
+    "owner": "Babs Verheij"
+  },
+  "vd-sluis.nl": {
+    "name": "Van der Sluis Technische Bedrijven",
+    "owner": "Nathalie Pereboom"
+  },
+  "alphaplan.nl": {
+    "name": "Alphaplan adviseurs in bouwen",
+    "owner": "Robert Greidanus"
+  },
+  "bincx.nl": {
+    "name": "Bincx B.V.",
+    "owner": "Inge Rouwenhorst"
+  },
+  "heilijgers.nl": {
+    "name": "Heilijgers",
+    "owner": "Robert Greidanus"
+  },
+  "hoovos.nl": {
+    "name": "HooVos",
+    "owner": "Robert Greidanus"
+  },
+  "ulcgroep.nl": {
+    "name": "ULC Groep b.v.",
+    "owner": "Nathalie Pereboom"
+  },
+  "hbbouw.nl": {
+    "name": "H&B BOUW",
+    "owner": "Unknown"
+  },
+  "jankrediet.nl": {
+    "name": "Jan Krediet",
+    "owner": "Lilian Lubberink"
+  },
+  "vandenpol.com": {
+    "name": "Van den Pol Elektrotechniek",
+    "owner": "Unknown"
+  },
+  "mertens-weert.nl": {
+    "name": "Mertens Bouwbedrijf",
+    "owner": "Niels Verwoest"
+  },
+  "aatech.nl": {
+    "name": "AA Installatie Groep",
+    "owner": "Unknown"
+  },
+  "vanlithbouw.nl": {
+    "name": "Van Lith Bouw",
+    "owner": "Nathalie Pereboom"
+  },
+  "wbc.nl": {
+    "name": "WBC Bouwgroep",
+    "owner": "Robert Greidanus"
+  },
+  "molenwaardhangensluitwerk.nl": {
+    "name": "Adviesbureau Molenwaard hang- en sluitwerk",
+    "owner": "Unknown"
+  },
+  "klimaat-cirkel.nl": {
+    "name": "Klimaat Cirkel",
+    "owner": "Inge Rouwenhorst"
+  },
+  "klimaatservice.nl": {
+    "name": "Klimaatservice Holland BV",
+    "owner": "Babs Verheij"
+  },
+  "stebru.nl": {
+    "name": "Stebru",
+    "owner": "Robert Greidanus"
+  },
+  "geusbouw.nl": {
+    "name": "De Geus Bouw",
+    "owner": "Niels Verwoest"
+  },
+  "vdmeijs.nl": {
+    "name": "Van der Meijs BV",
+    "owner": "Robert Greidanus"
+  },
+  "tofgroup.nl": {
+    "name": "TOF Group",
+    "owner": "Inge Rouwenhorst"
+  },
+  "mateboer.nl": {
+    "name": "Mateboer Bouw",
+    "owner": "Robert Greidanus"
+  },
+  "action.com": {
+    "name": "Action Service & Distributie Europe",
+    "owner": "Johan Pijpers"
+  },
+  "klimaatgroepholland.nl": {
+    "name": "Klimaatgroep Holland",
+    "owner": "Inge Rouwenhorst"
+  },
+  "glosec.nl": {
+    "name": "Glosec",
+    "owner": "Robert Greidanus"
+  },
+  "trebbe.nl": {
+    "name": "Trebbe",
+    "owner": "Robert Greidanus"
+  },
+  "tsbouwvastgoed.nl": {
+    "name": "Ter Steege Bouw Vastgoed Rijssen BV",
+    "owner": "Nathalie Pereboom"
+  },
+  "lurvinkafbouw.nl": {
+    "name": "Lurvink Afbouw B.V.",
+    "owner": ""
+  },
+  "dijkhambouw.nl": {
+    "name": "Dijkham Bouw BV",
+    "owner": "Robert Greidanus"
+  },
+  "edinburgh.gov.uk": {
+    "name": "The City of Edinburgh Council",
+    "owner": "Rutger-Jan Loenen"
+  },
+  "biltz.nl": {
+    "name": "Biltz",
+    "owner": "Niels Verwoest"
+  },
+  "vakonbau.de": {
+    "name": "VAKON Baugesellschaft mbH",
+    "owner": "Mathias Wolf"
+  },
+  "bolidt.com": {
+    "name": "Bolidt",
+    "owner": "Peter Romeijn"
+  },
+  "ibbkondor.nl": {
+    "name": "IBB Kondor",
+    "owner": "Robert Greidanus"
+  },
+  "dandara.com": {
+    "name": "Dandara",
+    "owner": "Rutger-Jan Loenen"
+  },
+  "hemubo.nl": {
+    "name": "Hemubo Bouw BV",
+    "owner": "Robert Greidanus"
+  },
+  "bouter.nl": {
+    "name": "Bouter",
+    "owner": "Lilian Lubberink"
+  },
+  "circet-benelux.eu": {
+    "name": "Circet Nederland BV (HQ)",
+    "owner": "Johan Pijpers"
+  },
+  "vandijnsen.nl": {
+    "name": "Van Dijnsen Installatiewerken",
+    "owner": "Nathalie Pereboom"
+  },
+  "dhg.nl": {
+    "name": "DHG (David Hart Beheer)",
+    "owner": "Niels Verwoest"
+  },
+  "ditt.nl": {
+    "name": "Ditt Officemakers NL",
+    "owner": "Babs Verheij"
+  },
+  "deerns.com": {
+    "name": "Deerns",
+    "owner": "Niels Verwoest"
+  },
+  "toekomstgroep.nl": {
+    "name": "ToekomstGroep",
+    "owner": "Robert Greidanus"
+  },
+  "oskam-bunnik.nl": {
+    "name": "BOUWBEDRIJF OSKAM - BUNNIK B.V.",
+    "owner": "Unknown"
+  },
+  "sigra.de": {
+    "name": "Endreß Ingenieurgesellschaft mbH",
+    "owner": "Mathias Wolf"
+  },
+  "veiligheid-direct.nl": {
+    "name": "Veiligheid Direct",
+    "owner": "Lilian Lubberink"
+  },
+  "vaessenbv.nl": {
+    "name": "Vaessen Algemeen Bouwbedrijf BV",
+    "owner": "Babs Verheij"
+  },
+  "knockx.nl": {
+    "name": "Knockx",
+    "owner": "Inge Rouwenhorst"
+  },
+  "blominterieurs.nl": {
+    "name": "Blom Interieurs",
+    "owner": "Robert Greidanus"
+  },
+  "schaay-av.nl": {
+    "name": "Schaay-AV",
+    "owner": "Lilian Lubberink"
+  },
+  "twentecisolatie.nl": {
+    "name": "Twentec Isolatie B.V.",
+    "owner": "Lilian Lubberink"
+  },
+  "hulstflier.nl": {
+    "name": "HulstFlier installateurs B.V. - Elburg",
+    "owner": "Unknown"
+  },
+  "vastbau.de": {
+    "name": "vastbau.de",
+    "owner": "Mathias Wolf"
+  },
+  "tuv.nl": {
+    "name": "TÜV Nederland",
+    "owner": "Robert Greidanus"
+  },
+  "aalbertsbouw.nl": {
+    "name": "Aalberts BV",
+    "owner": "Robert Greidanus"
+  },
+  "unbrick.nl": {
+    "name": "Unbrick",
+    "owner": "Unknown"
+  },
+  "qbuild.nl": {
+    "name": "QBuild",
+    "owner": "Robert Greidanus"
+  },
+  "vestingbouw.nl": {
+    "name": "Vesting Bouw",
+    "owner": "Peter Romeijn"
+  },
+  "bommhardt.de": {
+    "name": "Gebr. Bommhardt GmbH & Co. KG",
+    "owner": "Selcuk Kavakpinar"
+  },
+  "deger.nl": {
+    "name": "Deger B.V.",
+    "owner": "Niels Verwoest"
+  },
+  "dhl.com": {
+    "name": "DHL",
+    "owner": "Unknown"
+  },
+  "dvtadvies.nl": {
+    "name": "DVT Advies",
+    "owner": "Robert Greidanus"
+  },
+  "tesgroep.nl": {
+    "name": "TES Installatietechniek",
+    "owner": "Robert Greidanus"
+  },
+  "wilmink-oosterveld.nl": {
+    "name": "Wilmink-Oosterveld Projecten (Bouwbedrijf Wilmink Oosterveld)",
+    "owner": "Peter Romeijn"
+  },
+  "nibag.nl": {
+    "name": "Nibag Groep BV",
+    "owner": "Robert Greidanus"
+  },
+  "smeetsbouw.nl": {
+    "name": "Smeets Bouw",
+    "owner": "Robert Greidanus"
+  },
+  "mubiflex.nl": {
+    "name": "Mubiflex",
+    "owner": "Inge Rouwenhorst"
+  },
+  "brandsbouw.nl": {
+    "name": "Brands Bouwgroep B.V.",
+    "owner": "Robert Greidanus"
+  },
+  "bulsink.com": {
+    "name": "Bulsink Group B.V.",
+    "owner": "Robert Greidanus"
+  },
+  "unica.nl": {
+    "name": "Unica Groep",
+    "owner": "Robert Greidanus"
+  },
+  "lont.nl": {
+    "name": "Lont",
+    "owner": "Nathalie Pereboom"
+  },
+  "intos.nl": {
+    "name": "INTOS",
+    "owner": "Inge Rouwenhorst"
+  },
+  "bbvrolijk.nl": {
+    "name": "Bouwbedrijf Vrolijk B.V.",
+    "owner": "Babs Verheij"
+  },
+  "bouw.jajo.com": {
+    "name": "Janssen de Jong Groep",
+    "owner": "Robert Greidanus"
+  },
+  "tgm.nl": {
+    "name": "TGM - Technisch Gevelbouw Management",
+    "owner": "Niels Verwoest"
+  },
+  "cbbarnhem.nl": {
+    "name": "Centraal Bureau Bouwbegeleiding",
+    "owner": "Robert Greidanus"
+  },
+  "dsprojekten.nl": {
+    "name": "DS Projekten",
+    "owner": "Robert Greidanus"
+  },
+  "degilden.nl": {
+    "name": "De Gilden Groep",
+    "owner": "Robert Greidanus"
+  },
+  "mvhadviseurs.nl": {
+    "name": "MVH Adviseurs",
+    "owner": "Robert Greidanus"
+  },
+  "gea.com": {
+    "name": "GEA Proces Engineering A/S Denmark (Soeborg)",
+    "owner": "Johan Pijpers"
+  },
+  "straehle.de": {
+    "name": "Straehle",
+    "owner": "Mathias Wolf"
+  },
+  "struktonworksphere.nl": {
+    "name": "SPIE-WS Projecten",
+    "owner": "Robert Greidanus"
+  },
+  "schuttebouw.nl": {
+    "name": "Schutte bouw & ontwikkeling",
+    "owner": "Unknown"
+  },
+  "leenhoutsoostburg.nl": {
+    "name": "Leenhouts' Aannemings-Bedrijf BV",
+    "owner": "Niels Verwoest"
+  },
+  "hdgroep.nl": {
+    "name": "HD Groep",
+    "owner": "Lilian Lubberink"
+  },
+  "sbm-groep.nl": {
+    "name": "SBM Bouw & Vastgoedmanagers",
+    "owner": "Nathalie Pereboom"
+  },
+  "barthgroep.nl": {
+    "name": "Barth Installatietechniek",
+    "owner": "Babs Verheij"
+  },
+  "haafkes.nl": {
+    "name": "Aannemersbedrijf Haafkes - Deventer",
+    "owner": "Niels Verwoest"
+  },
+  "bouwbedrijfkreeft.nl": {
+    "name": "Kreeft Bouw",
+    "owner": "Robert Greidanus"
+  },
+  "kolen.nl": {
+    "name": "Kolen Groep",
+    "owner": "Inge Rouwenhorst"
+  },
+  "omexom.com": {
+    "name": "Omexom",
+    "owner": "Babs Verheij"
+  },
+  "niemeijer-installatietechniek.nl": {
+    "name": "Niemeijer Installatietechniek B.V.",
+    "owner": "Robert Greidanus"
+  },
+  "massetsolutions.nl": {
+    "name": "MASSET",
+    "owner": "Robert Greidanus"
+  },
+  "gsyard.nl": {
+    "name": "GS Yard = FAILLIET",
+    "owner": "Lilian Lubberink"
+  },
+  "akor.nl": {
+    "name": "AKOR B.V.",
+    "owner": "Nathalie Pereboom"
+  },
+  "swbv.nl": {
+    "name": "SW Vastgoed Verbetering Hoogeveen",
+    "owner": "Robert Greidanus"
+  },
+  "ouwehandbouw.nl": {
+    "name": "Ouwehand Bouw",
+    "owner": "Robert Greidanus"
+  },
+  "coare.nl": {
+    "name": "Coare",
+    "owner": "Robert Greidanus"
+  },
+  "vanpanhuisbouw.nl": {
+    "name": "Van Panhuis Bouw",
+    "owner": "Robert Greidanus"
+  },
+  "avecodebondt.nl": {
+    "name": "Aveco de Bondt Hoofdkantoor",
+    "owner": "Babs Verheij"
+  },
+  "jorritsma-groep.nl": {
+    "name": "Jorritsma Bouw BV",
+    "owner": "Nathalie Pereboom"
+  },
+  "heerhugowaard.nl": {
+    "name": "Gemeente Dijk en Waard",
+    "owner": "Robert Greidanus"
+  },
+  "kin.nl": {
+    "name": "Kin Installatietechniek",
+    "owner": "Robert Greidanus"
+  },
+  "abdenninger.de": {
+    "name": "Abdenninger NEU",
+    "owner": "Unknown"
+  },
+  "hoogeslagbouw.nl": {
+    "name": "Bouwbedrijf Hoogeslag",
+    "owner": "Niels Verwoest"
+  },
+  "bpd.nl": {
+    "name": "BPD Hoofdkantoor",
+    "owner": "Robert Greidanus"
+  },
+  "jonckbv.com": {
+    "name": "Jonck BV",
+    "owner": "Peter Romeijn"
+  },
+  "loeschblitzschutzbau.de": {
+    "name": "Lösch Blitzschutzbau GmbH & Co KG",
+    "owner": "Mathias Wolf"
+  },
+  "balakbeton.nl": {
+    "name": "Balak Beton Nederland B.V.",
+    "owner": "Robert Greidanus"
+  },
+  "hr.nl": {
+    "name": "Hogeschool Rotterdam",
+    "owner": "Robert Greidanus"
+  },
+  "qubusdroomhuizen.nl": {
+    "name": "Qubus droomhuizen",
+    "owner": "Lilian Lubberink"
+  },
+  "reijmbrandpreventie.nl": {
+    "name": "Reijm Brandpreventie",
+    "owner": "Inge Rouwenhorst"
+  },
+  "igsbv.nl": {
+    "name": "igsbv.nl",
+    "owner": "Unknown"
+  },
+  "ierselbv.nl": {
+    "name": "Van Iersel Geveltechniek",
+    "owner": "Niels Verwoest"
+  },
+  "adsr.nl": {
+    "name": "Aan de Stegge Roosendaal",
+    "owner": "Robert Greidanus"
+  },
+  "vandorp.eu": {
+    "name": "Van Dorp Installaties Moederbedrijf",
+    "owner": "Nathalie Pereboom"
+  },
+  "keldermanbouw.nl": {
+    "name": "Kelderman Bouw BV",
+    "owner": "Nathalie Pereboom"
+  },
+  "witwognum.nl": {
+    "name": "Aannemingsbedrijf Wit Wognum B.V.",
+    "owner": "Babs Verheij"
+  },
+  "kuijpers.com": {
+    "name": "Kuijpers HQ",
+    "owner": "Babs Verheij"
+  },
+  "dezeeuwtelecom.nl": {
+    "name": "De Zeeuw Telecom",
+    "owner": "Peter Romeijn"
+  },
+  "bam.nl": {
+    "name": "BAM",
+    "owner": "Robert Greidanus"
+  },
+  "verdouw.nu": {
+    "name": "Verdouw Bouwproducten",
+    "owner": "Niels Verwoest"
+  },
+  "jongen.com": {
+    "name": "Jongen Bouwpartners Landgraaf VW",
+    "owner": "Niels Verwoest"
+  },
+  "ikazia.nl": {
+    "name": "Ikazia Ziekenhuis Rotterdam",
+    "owner": "Robert Greidanus"
+  },
+  "directbouw.nl": {
+    "name": "Adapteo B.V. (vh Directbouw)",
+    "owner": "Niels Verwoest"
+  },
+  "julia.eu": {
+    "name": "Julia",
+    "owner": "Babs Verheij"
+  },
+  "denoudengroep.com": {
+    "name": "Den Ouden Groep",
+    "owner": "Nathalie Pereboom"
+  },
+  "dvp.nl": {
+    "name": "DVP Diepenhorst de Vos en Partners",
+    "owner": "Robert Greidanus"
+  },
+  "kubus-group.com": {
+    "name": "Kubus Planung GmbH & Co. Kg",
+    "owner": "Selcuk Kavakpinar"
+  },
+  "wur.nl": {
+    "name": "Wageningen University & Research",
+    "owner": "Nathalie Pereboom"
+  },
+  "adst.nl": {
+    "name": "Aan de Stegge Twello",
+    "owner": "Nathalie Pereboom"
+  },
+  "vanderendebv.nl": {
+    "name": "Bouw- en Aannemingsbedrijf van der Ende BV",
+    "owner": "Inge Rouwenhorst"
+  },
+  "workinn.nl": {
+    "name": "Workinn",
+    "owner": "Robert Greidanus"
+  },
+  "rutgers-bv.nl": {
+    "name": "Installatiebureau Rutgers bv",
+    "owner": "Babs Verheij"
+  },
+  "bosmanbedrijven.nl": {
+    "name": "Bosman Bedrijven B.V.",
+    "owner": "Babs Verheij"
+  },
+  "preco.nl": {
+    "name": "Preco",
+    "owner": "Inge Rouwenhorst"
+  },
+  "breman.nl": {
+    "name": "Breman Woningrenovatie - Zwolle",
+    "owner": "Nathalie Pereboom"
+  },
+  "vorsselmans.be": {
+    "name": "Vorsselmans",
+    "owner": "Robert Greidanus"
+  },
+  "bbcbouwmanagement.nl": {
+    "name": "BBC Bouwmanagement",
+    "owner": "Nathalie Pereboom"
+  },
+  "cbre.nl": {
+    "name": "CBRE B.V.",
+    "owner": "Niels Verwoest"
+  },
+  "kwadam.nl": {
+    "name": "Kwadam",
+    "owner": "Unknown"
+  },
+  "brinkstaalbouw.nl": {
+    "name": "Van den Brink Staalbouw",
+    "owner": "Lilian Lubberink"
+  },
+  "wurks.nl": {
+    "name": "Wurks",
+    "owner": "Peter Romeijn"
+  },
+  "hollandsystemen.nl": {
+    "name": "Holland Systemen Elektr Beveil DEN Haag",
+    "owner": "Unknown"
+  },
+  "regiobouw.nl": {
+    "name": "Regiobouw Haarlemmermeer",
+    "owner": "Inge Rouwenhorst"
+  },
+  "vdhengel.nl": {
+    "name": "Bouwbedrijf Van Den Hengel BV",
+    "owner": "Robert Greidanus"
+  },
+  "nsecure.nl": {
+    "name": "Nsecure",
+    "owner": "Nathalie Pereboom"
+  },
+  "dacorumcontracts.com": {
+    "name": "dacorumcontracts.com",
+    "owner": "Unknown"
+  },
+  "iq-brandschutz.de": {
+    "name": "Iq-Brandschutz",
+    "owner": "Mathias Wolf"
+  },
+  "rijndorp.com": {
+    "name": "Rijndorp Installatie",
+    "owner": ""
+  },
+  "stone-projects.nl": {
+    "name": "Stone Projects",
+    "owner": "Robert Greidanus"
+  },
+  "kormelinkbouw.nl": {
+    "name": "Kormelink Bouw",
+    "owner": "Nathalie Pereboom"
+  },
+  "vinkprojects.com": {
+    "name": "Vink Projects",
+    "owner": "Babs Verheij"
+  },
+  "traanbergpartners.nl": {
+    "name": "Traanberg Partners",
+    "owner": "Lilian Lubberink"
+  },
+  "boele.nl": {
+    "name": "Boele & van Eesteren",
+    "owner": "Nathalie Pereboom"
+  },
+  "wijnveen-alu.nl": {
+    "name": "Wijnveen Aluminiumbouw BV",
+    "owner": "Lilian Lubberink"
+  },
+  "adriaanvanerk.nl": {
+    "name": "Adriaan Van Erk Bouw",
+    "owner": "Robert Greidanus"
+  },
+  "koninklijkewoudenberg.nl": {
+    "name": "Koninklijke Woudenberg Maastricht",
+    "owner": "Robert Greidanus"
+  },
+  "groupepvcp.com": {
+    "name": "Groupe PVCP",
+    "owner": "Robert Greidanus"
+  },
+  "ctc-itsolutions.nl": {
+    "name": "CTC IT Solutions",
+    "owner": "Niels Verwoest"
+  },
+  "europa-center.de": {
+    "name": "EUROPA-CENTER",
+    "owner": "Selcuk Kavakpinar"
+  },
+  "novideur.nl": {
+    "name": "Novideur BV",
+    "owner": "Robert Greidanus"
+  },
+  "vastint.eu": {
+    "name": "Vastint",
+    "owner": "Niels Verwoest"
+  },
+  "zweersbouw.nl": {
+    "name": "Zweersbouw B.V.",
+    "owner": "Babs Verheij"
+  },
+  "leenders-zijderveld.nl": {
+    "name": "Leenders & van Zijderveld B.V.",
+    "owner": "Robert Greidanus"
+  },
+  "webo.nl": {
+    "name": "WEBO",
+    "owner": "Nathalie Pereboom"
+  },
+  "woongoedzvl.nl": {
+    "name": "Woongoed Zeeuws Vlaanderen",
+    "owner": "Niels Verwoest"
+  },
+  "haafkesgoor.nl": {
+    "name": "Haafkes bouwondernemers Goor",
+    "owner": "Niels Verwoest"
+  },
+  "b-invented.com": {
+    "name": "B-invented B.V.",
+    "owner": "Lilian Lubberink"
+  },
+  "klokbouw.nl": {
+    "name": "KlokGroep",
+    "owner": "Robert Greidanus"
+  },
+  "utwente.nl": {
+    "name": "Universiteit Twente",
+    "owner": "Robert Greidanus"
+  },
+  "degrootenvisser.nl": {
+    "name": "De Groot & Visser BV",
+    "owner": "Nathalie Pereboom"
+  },
+  "wkba.nl": {
+    "name": "Wim Kramer Bouwmanagement & Advies",
+    "owner": "Lilian Lubberink"
+  },
+  "innq.nl": {
+    "name": "InnQ Installaties B.V.",
+    "owner": "Nathalie Pereboom"
+  },
+  "linthorst.com": {
+    "name": "Failliet/Linthorst Bouwgroep BV",
+    "owner": "Unassigned"
+  },
+  "averesch.nl": {
+    "name": "Averesch BV",
+    "owner": "Lilian Lubberink"
+  },
+  "forbuilding.nl": {
+    "name": "FOR Building",
+    "owner": "Unassigned"
+  },
+  "fekmetaal.nl": {
+    "name": "Fek metaal",
+    "owner": "Robert Greidanus"
+  },
+  "guts-instal.com": {
+    "name": "guts-instal.com",
+    "owner": "Unknown"
+  },
+  "cruxin.nl": {
+    "name": "Croonwolter & Dros Cruxin",
+    "owner": "Robert Greidanus"
+  },
+  "machielsbuildingsolutions.be": {
+    "name": "Machiels Building Solutions",
+    "owner": "Robert Greidanus"
+  },
+  "neco.nl": {
+    "name": "Neco Staalbouw BV",
+    "owner": "Robert Greidanus"
+  },
+  "partoutdesign.nl": {
+    "name": "Partout Design (= failliet)",
+    "owner": "Unknown"
+  },
+  "bikbouw.nl": {
+    "name": "BIK Bouw",
+    "owner": "Inge Rouwenhorst"
+  },
+  "vanhees.com": {
+    "name": "Van Hees Elektrotechniek & ICT",
+    "owner": ""
+  },
+  "rensen.nu": {
+    "name": "Rensen",
+    "owner": "Niels Verwoest"
+  },
+  "lumc.nl": {
+    "name": "Leids Universitair Medisch Centrum (LUMC) - FW",
+    "owner": "Arthur Dommers"
+  },
+  "m3e.nl": {
+    "name": "M3E",
+    "owner": "Peter Romeijn"
+  },
+  "wijcotechnics.nl": {
+    "name": "Wijco Technics",
+    "owner": "Inge Rouwenhorst"
+  },
+  "roodenburg.nl": {
+    "name": "Roodenburg",
+    "owner": "Peter Romeijn"
+  },
+  "techniplan.nl": {
+    "name": "Techniplan Adviseurs",
+    "owner": "Lilian Lubberink"
+  },
+  "winkelstechniek.nl": {
+    "name": "Winkels Techniek B.V.",
+    "owner": "Inge Rouwenhorst"
+  },
+  "maasdam.nl": {
+    "name": "Maasdam",
+    "owner": "Niels Verwoest"
+  },
+  "roozenvanhoppe.nl": {
+    "name": "Roozen van Hoppe Bouw en Ontwikkeling",
+    "owner": "Robert Greidanus"
+  },
+  "integra-groep.com": {
+    "name": "Integra Groep",
+    "owner": "Inge Rouwenhorst"
+  },
+  "brandzorg.nl": {
+    "name": "Brandzorg",
+    "owner": "Robert Greidanus"
+  },
+  "besix.nl": {
+    "name": "Besix Nederland BV",
+    "owner": "Robert Greidanus"
+  },
+  "heutinkgroep.nl": {
+    "name": "Heutinkgroep",
+    "owner": "Nathalie Pereboom"
+  },
+  "dewit-drunen.nl": {
+    "name": "Aannemingsbedrijf De Wit Drunen",
+    "owner": "Robert Greidanus"
+  },
+  "tamsen-maritim.de": {
+    "name": "TAMSEN MARITIM",
+    "owner": "Selcuk Kavakpinar"
+  },
+  "kbm.nl": {
+    "name": "KBM Groep",
+    "owner": "Nathalie Pereboom"
+  },
+  "sweco.nl": {
+    "name": "Sweco Nederland",
+    "owner": "Niels Verwoest"
+  },
+  "berkvens.nl": {
+    "name": "Berkvens Deursystemen",
+    "owner": "Robert Greidanus"
+  },
+  "ravanleeuwen.nl": {
+    "name": "R.A. van Leeuwen",
+    "owner": "Robert Greidanus"
+  },
+  "meerdanbouwen.nl": {
+    "name": "Aannemingsbedrijf G. Bruijnes B.V.",
+    "owner": "Inge Rouwenhorst"
+  },
+  "vitriwand.nl": {
+    "name": "Vitriwand Systeemwanden",
+    "owner": "Babs Verheij"
+  },
+  "kroondekoning.nl": {
+    "name": "Kroon & De Koning (VW)",
+    "owner": "Nathalie Pereboom"
+  },
+  "bouwkwaliteitcoach.nl": {
+    "name": "Videler Advies & Management B.V.",
+    "owner": "Inge Rouwenhorst"
+  },
+  "scotch-soda.com": {
+    "name": "Scotch & Soda",
+    "owner": "Niels Verwoest"
+  },
+  "mourikbouw.nl": {
+    "name": "van Mourik Bouw",
+    "owner": "Nathalie Pereboom"
+  },
+  "fs-karlsruhe.de": {
+    "name": "Büro für konstruktiven Ingenieurbau",
+    "owner": "Mathias Wolf"
+  },
+  "vsee.nl": {
+    "name": "Vsee Search Marketing",
+    "owner": ""
+  },
+  "wierdatechniek.nl": {
+    "name": "Wierda Projecttechniek",
+    "owner": "Inge Rouwenhorst"
+  },
+  "roggebandbouw.nl": {
+    "name": "Roggeband Bouw",
+    "owner": "Peter Romeijn"
+  },
+  "sdr.nl": {
+    "name": "SDR Elektrotechniek",
+    "owner": "Unassigned"
+  },
+  "activeschiphol.nl": {
+    "name": "Active Bouwlogistiek & Support",
+    "owner": "Babs Verheij"
+  },
+  "4building.nl": {
+    "name": "4Building b.v.",
+    "owner": "Robert Greidanus"
+  },
+  "redbuilding.nl": {
+    "name": "RED building",
+    "owner": "Inge Rouwenhorst"
+  },
+  "cbra.nl": {
+    "name": "CBRA Brandbeveiliging",
+    "owner": "Robert Greidanus"
+  },
+  "s-w.nl": {
+    "name": "S&W Bouwkundig Ingenieurs",
+    "owner": "Robert Greidanus"
+  },
+  "bab-apeldoorn.nl": {
+    "name": "BAB Apeldoorn bouwkundig adviesbureau",
+    "owner": "Inge Rouwenhorst"
+  },
+  "devisserbouwenonderhoud.eu": {
+    "name": "De Visser Bouw & Onderhoud",
+    "owner": "Inge Rouwenhorst"
+  },
+  "c-job.com": {
+    "name": "C-Job Naval Architects",
+    "owner": "Inge Rouwenhorst"
+  },
+  "hstechniek.nl": {
+    "name": "HS Techniek BV",
+    "owner": "Robert Greidanus"
+  },
+  "temminkbouwtoezicht.nl": {
+    "name": "Temmink Bouwtoezicht & Begeleiding",
+    "owner": "Lilian Lubberink"
+  },
+  "vdrbouwgroep.nl": {
+    "name": "VDR Bouwgroep",
+    "owner": "Nathalie Pereboom"
+  },
+  "bestcon.nl": {
+    "name": "Bestcon",
+    "owner": "Inge Rouwenhorst"
+  },
+  "interboor-midsland.nl": {
+    "name": "Interboor Midsland",
+    "owner": "Robert Greidanus"
+  },
+  "iob.nl": {
+    "name": "Ingenieursbureau IOB",
+    "owner": "Inge Rouwenhorst"
+  },
+  "zaanderwijk.nl": {
+    "name": "Elk | Zaanderwijk De Goorn",
+    "owner": "Robert Greidanus"
+  },
+  "team4.nl": {
+    "name": "Team 4 architecten",
+    "owner": "Robert Greidanus"
+  },
+  "senl.nl": {
+    "name": "Schulte & Lestraden",
+    "owner": "Niels Verwoest"
+  },
+  "hekstra.nl": {
+    "name": "Hekstra",
+    "owner": "Peter Romeijn"
+  },
+  "schuurmansas.nl": {
+    "name": "Schuurmans afbouwsystemen",
+    "owner": "Robert Greidanus"
+  },
+  "jansman.nl": {
+    "name": "Jansman Bouw",
+    "owner": "Babs Verheij"
+  },
+  "siriusbeheer.nl": {
+    "name": "siriusbeheer.nl",
+    "owner": ""
+  },
+  "knaapbouwbedrijf.nl": {
+    "name": "Knaap Bouwbedrijf bv",
+    "owner": "Niels Verwoest"
+  },
+  "karbouw.nl": {
+    "name": "Karbouw Bouwonderneming Amersfoort",
+    "owner": "Nathalie Pereboom"
+  },
+  "gejamont.nl": {
+    "name": "Gejamont",
+    "owner": "Inge Rouwenhorst"
+  },
+  "takke.eu": {
+    "name": "Takke",
+    "owner": "Nathalie Pereboom"
+  },
+  "taylorgroep.nl": {
+    "name": "Taylor Elektrotechniek B.V",
+    "owner": "Babs Verheij"
+  },
+  "veerhuis.eu": {
+    "name": "Veerhuis Bouwsystemen B.V",
+    "owner": "Unknown"
+  },
+  "drostebouwgroep.nl": {
+    "name": "Bouwcombinatie Oude Wolbers – Droste VOF",
+    "owner": "Robert Greidanus"
+  },
+  "oliva-fenster.de": {
+    "name": "OLIVA GmbH Fenster und Türen",
+    "owner": "Selcuk Kavakpinar"
+  },
+  "bhvcentrumfriesland.nl": {
+    "name": "BHV Centrum Friesland",
+    "owner": "Inge Rouwenhorst"
+  },
+  "behoud.nl": {
+    "name": "Behoud",
+    "owner": "Robert Greidanus"
+  },
+  "rijksvastgoedbedrijf.nl": {
+    "name": "Rijksvastgoedbedrijf Curacao",
+    "owner": "Nathalie Pereboom"
+  },
+  "bokhorst.com": {
+    "name": "Bokhorst Installatietechniek",
+    "owner": "Inge Rouwenhorst"
+  },
+  "niesternsander.com": {
+    "name": "Niestern Sander Nieuwbouw B.v. (vh Niestern Sander Scheepsbouw)",
+    "owner": "Robert Greidanus"
+  },
+  "flq.nl": {
+    "name": "flq.nl",
+    "owner": "Inge Rouwenhorst"
+  },
+  "w4y.nl": {
+    "name": "W4Y",
+    "owner": "Babs Verheij"
+  },
+  "geelen-beton.nl": {
+    "name": "Geelen Beton",
+    "owner": ""
+  },
+  "fixplan.eu": {
+    "name": "Fixplan",
+    "owner": "Robert Greidanus"
+  },
+  "blitta.nl": {
+    "name": "Blitta",
+    "owner": "Niels Verwoest"
+  },
+  "dekkerkozijnprojecten.nl": {
+    "name": "Dekker Kozijnprojecten",
+    "owner": "Inge Rouwenhorst"
+  },
+  "gemeentelangedijk.nl": {
+    "name": "Gemeente langedijk",
+    "owner": "Robert Greidanus"
+  },
+  "kernbouw.nl": {
+    "name": "Kernbouw",
+    "owner": "Robert Greidanus"
+  },
+  "afbouwned.com": {
+    "name": "Afbouwned BV",
+    "owner": "Inge Rouwenhorst"
+  },
+  "vandersteeg.nl": {
+    "name": "Van der Steeg Ontwikkelen en Bouwen",
+    "owner": "Lilian Lubberink"
+  },
+  "elkorgroep.nl": {
+    "name": "Elkor Groep",
+    "owner": "Niels Verwoest"
+  },
+  "brink.nl": {
+    "name": "Brink",
+    "owner": "Robert Greidanus"
+  },
+  "prohuis.nl": {
+    "name": "Prohuis Bouwmanagement BV",
+    "owner": "Inge Rouwenhorst"
+  },
+  "mih-gmbh.de": {
+    "name": "MIH GmbH",
+    "owner": "Mathias Wolf"
+  },
+  "boxtelbv.nl": {
+    "name": "AANNEMINGSBEDRIJF JA VAN BOXTEL B.V.",
+    "owner": "Peter Romeijn"
+  },
+  "dejagerbouwadvies.nl": {
+    "name": "De Jager Bouwadvies",
+    "owner": "Robert Greidanus"
+  },
+  "kraakbv.nl": {
+    "name": "Kraak Bouwtechnisch Managementburo B.V.",
+    "owner": "Inge Rouwenhorst"
+  },
+  "bouwbedrijfboot.nl": {
+    "name": "Bouwbedrijf Boot",
+    "owner": "Robert Greidanus"
+  },
+  "wdevrij.nl": {
+    "name": "W. de Vrij Akoestiek B.V.",
+    "owner": ""
+  },
+  "hagaziekenhuis.nl": {
+    "name": "Haga Ziekenhuis",
+    "owner": "Robert Greidanus"
+  },
+  "zgt.nl": {
+    "name": "Ziekenhuis Groep Twente (ZGT)",
+    "owner": "Robert Greidanus"
+  },
+  "dwa.nl": {
+    "name": "DWA Installatie- en Energieadvies",
+    "owner": "Robert Greidanus"
+  },
+  "vandenheuvelbouw.nl": {
+    "name": "Bouwbedrijf van den Heuvel Helmond B.V.",
+    "owner": "Lilian Lubberink"
+  },
+  "wijbengagroep.nl": {
+    "name": "Wijbenga Architecten en Adviseurs",
+    "owner": "Robert Greidanus"
+  },
+  "debonthvanhulten.nl": {
+    "name": "de Bonth van Hulten",
+    "owner": "Niels Verwoest"
+  },
+  "oranjedak.nl": {
+    "name": "Oranjedak",
+    "owner": ""
+  },
+  "elementsnetherlands.nl": {
+    "name": "Elements Netherlands = FAILLIET",
+    "owner": "Unknown"
+  },
+  "endenburg.nl": {
+    "name": "Endenburg",
+    "owner": "Unknown"
+  },
+  "rothuizen-architecten.nl": {
+    "name": "Rothuizen Architecten en Adviseurs B.V.",
+    "owner": "Robert Greidanus"
+  },
+  "waal.nl": {
+    "name": "Waal",
+    "owner": "Nathalie Pereboom"
+  },
+  "kessel.nl": {
+    "name": "Van Kessel Sport en Cultuurtechniek VW",
+    "owner": "Niels Verwoest"
+  },
+  "nijsmellinghe.nl": {
+    "name": "Nij Smellinghe",
+    "owner": "Unknown"
+  },
+  "canda.com": {
+    "name": "C&A",
+    "owner": "Babs Verheij"
+  },
+  "steegman.nl": {
+    "name": "Steegman",
+    "owner": "Unknown"
+  },
+  "de-alliantie.nl": {
+    "name": "de Alliantie",
+    "owner": "Babs Verheij"
+  },
+  "giesbersrotterdam.nl": {
+    "name": "Giesbers Rotterdam",
+    "owner": "Nathalie Pereboom"
+  },
+  "maatfeelinghome.nl": {
+    "name": "Maat Feeling Home (Caravan Centrum Gerrit Maat BV)",
+    "owner": "Inge Rouwenhorst"
+  },
+  "hominesbouw.nl": {
+    "name": "Homines Bouw",
+    "owner": "Babs Verheij"
+  },
+  "vanzantenbouw.nl": {
+    "name": "Van Zanten Bouw JaJo West",
+    "owner": "Robert Greidanus"
+  },
+  "vuurboom.nl": {
+    "name": "Vuurboom BV",
+    "owner": "Peter Romeijn"
+  },
+  "vanvugt-projecten.nl": {
+    "name": "Van Vugt Bouwadvies B.V. (Van Vugt Projecten)",
+    "owner": "Niels Verwoest"
+  },
+  "anera.eu": {
+    "name": "Anera BV",
+    "owner": "Babs Verheij"
+  },
+  "tbshipyards.com": {
+    "name": "Thecla Bodewes Shipyards",
+    "owner": "Robert Greidanus"
+  },
+  "nieuwenhuisbouw.nl": {
+    "name": "Nieuwenhuis Bouw",
+    "owner": "Nathalie Pereboom"
+  },
+  "lomans.nl": {
+    "name": "Lomans",
+    "owner": "Inge Rouwenhorst"
+  },
+  "om-team2.nl": {
+    "name": "Team 2 Studio voor de bouwkunst",
+    "owner": "Robert Greidanus"
+  },
+  "rever.nl": {
+    "name": "Rever Interieurprojecten",
+    "owner": "Niels Verwoest"
+  },
+  "stabielmanagement.nl": {
+    "name": "Stabiel Management B.V. (Prefab Beton)",
+    "owner": "Robert Greidanus"
+  },
+  "steggink.nl": {
+    "name": "Bouwbedrijf Steggink",
+    "owner": "Inge Rouwenhorst"
+  },
+  "akerbouw.nl": {
+    "name": "Akerbouw",
+    "owner": "Nathalie Pereboom"
+  },
+  "utrecht.nl": {
+    "name": "Gemeente Utrecht",
+    "owner": "Babs Verheij"
+  },
+  "putter.nl": {
+    "name": "Aannemersbedrijf J.M. Putter",
+    "owner": "Niels Verwoest"
+  },
+  "rendon.nl": {
+    "name": "Rendon onderhoud en renovatie",
+    "owner": "Robert Greidanus"
+  },
+  "dendubbelden.nl": {
+    "name": "Aannemersbedrijf Den Dubbelden bv",
+    "owner": "Inge Rouwenhorst"
+  },
+  "bertensbouw.nl": {
+    "name": "Aannemingsbedrijf Bertens Bouw B.V. (FRS Group)",
+    "owner": "Robert Greidanus"
+  },
+  "fitis-online.de": {
+    "name": "Fitis",
+    "owner": "Unknown"
+  },
+  "neoo.nl": {
+    "name": "Neoo",
+    "owner": "Lilian Lubberink"
+  },
+  "klaassen.com": {
+    "name": "Klaassen BouwGroep b.v.",
+    "owner": "Babs Verheij"
+  },
+  "spikkerbouw.nl": {
+    "name": "Spikker Bouw B.V.",
+    "owner": "Inge Rouwenhorst"
+  },
+  "installatietechniekraalte.nl": {
+    "name": "Installatie Techniek Raalte",
+    "owner": "Inge Rouwenhorst"
+  },
+  "hanszijp.nl": {
+    "name": "Hans Zijp Bouwbegeleiding",
+    "owner": "Inge Rouwenhorst"
+  },
+  "vandaalenbouw.nl": {
+    "name": "Van Daalen Bouw BV",
+    "owner": "Babs Verheij"
+  },
+  "tilburg.nl": {
+    "name": "Gemeente Tilburg (Ed Controls)",
+    "owner": "Robert Greidanus"
+  },
+  "verhoeven-vv.nl": {
+    "name": "Verhoeven Vastgoedverbeteraars Arnhem",
+    "owner": "Inge Rouwenhorst"
+  },
+  "bobgroep.nl": {
+    "name": "Bakels en Ouwerkerk Bouwgroep B.V.",
+    "owner": "Niels Verwoest"
+  },
+  "technoproject.nl": {
+    "name": "Technoproject",
+    "owner": "Niels Verwoest"
+  },
+  "weil-der-stadt.de": {
+    "name": "Stadtverwaltung Weil der Stadt",
+    "owner": "Mathias Wolf"
+  },
+  "interplanbouwsupport.nl": {
+    "name": "Interplan Bouwsupport B.V.",
+    "owner": "Robert Greidanus"
+  },
+  "afvalzorg.nl": {
+    "name": "Afvalzorg",
+    "owner": "Babs Verheij"
+  },
+  "slokker.nl": {
+    "name": "Slokker Aannemersbedrijf",
+    "owner": "Inge Rouwenhorst"
+  },
+  "heembeton.nl": {
+    "name": "MBS Groep",
+    "owner": "Inge Rouwenhorst"
+  },
+  "fletcher.nl": {
+    "name": "Fletcher Hotels Nederland",
+    "owner": "Robert Greidanus"
+  },
+  "btbnet.nl": {
+    "name": "BTB Bouwbegeleiding",
+    "owner": "Robert Greidanus"
+  },
+  "bouwteamp-o.nl": {
+    "name": "Bouwteam P&O",
+    "owner": "Peter Romeijn"
+  },
+  "neptunemarine.com": {
+    "name": "Neptune Marine",
+    "owner": "Unknown"
+  },
+  "bouwenmetkooi.nl": {
+    "name": "Bouwbedrijf Kooi Appingedam",
+    "owner": "Nathalie Pereboom"
+  },
+  "ascom.com": {
+    "name": "Ascom",
+    "owner": "Unknown"
+  },
+  "fresenius-kabi.com": {
+    "name": "Fresenius-kabi",
+    "owner": "Inge Rouwenhorst"
+  },
+  "smitsvanburgst.nl": {
+    "name": "Smits van Burgst (Zoetermeer)",
+    "owner": "Robert Greidanus"
+  },
+  "p-inst.nl": {
+    "name": "Peters Installatietechniek (HDF beheer)",
+    "owner": "Babs Verheij"
+  },
+  "jgtimmer.nl": {
+    "name": "JG Timmer",
+    "owner": "Robert Greidanus"
+  },
+  "mansveld.nl": {
+    "name": "Mansveld Projecten & Services B.V.",
+    "owner": "Babs Verheij"
+  },
+  "probouwadvies.nl": {
+    "name": "ProBouwadvies",
+    "owner": "Lilian Lubberink"
+  },
+  "testilburg.nl": {
+    "name": "Plesk",
+    "owner": "Unknown"
+  },
+  "blueskybuilding.com": {
+    "name": "Blue Sky Building",
+    "owner": "Rutger-Jan Loenen"
+  },
+  "immensbv.nl": {
+    "name": "Immens Installatietechniek BV",
+    "owner": "Inge Rouwenhorst"
+  },
+  "mutsaertsnatuursteen.nl": {
+    "name": "Mutsaerts Natuursteen",
+    "owner": "Lilian Lubberink"
+  },
+  "csc-industries.com": {
+    "name": "CSC industries",
+    "owner": "Peter Romeijn"
+  },
+  "zwartwoud.nl": {
+    "name": "Zwartwoud Groningen B.V.",
+    "owner": "Inge Rouwenhorst"
+  },
+  "vbplus.nl": {
+    "name": "VB+ Vastgoed Groep",
+    "owner": "Babs Verheij"
+  },
+  "rgs.nl": {
+    "name": "RGS Groep B.V.",
+    "owner": "Lilian Lubberink"
+  },
+  "vdleij.nl": {
+    "name": "Van der Leij Bouwbedrijven",
+    "owner": "Sunil CJ"
+  },
+  "abcnova.nl": {
+    "name": "abcnova",
+    "owner": "Unassigned"
+  },
+  "rdgontwerp.nl": {
+    "name": "RDG Ontwerp & Advies",
+    "owner": "Lilian Lubberink"
+  },
+  "stevensvandijck.nl": {
+    "name": "Stevens Van Dijck",
+    "owner": "Robert Greidanus"
+  },
+  "aspen.com.tr": {
+    "name": "Aspen Yapi Zemin",
+    "owner": "Rutger-Jan Loenen"
+  },
+  "olderikkert.nl": {
+    "name": "Olde Rikkert",
+    "owner": "Nathalie Pereboom"
+  },
+  "kuipersenkoersbouw.nl": {
+    "name": "Kuipers & Koers bouw",
+    "owner": "Unknown"
+  },
+  "vestia.nl": {
+    "name": "Vestia",
+    "owner": "Unknown"
+  },
+  "eekhoutbouw.nl": {
+    "name": "Eekhout Vito",
+    "owner": "Niels Verwoest"
+  },
+  "eissink.nl": {
+    "name": "Eissink Plafond- en Wandsystemen",
+    "owner": "Inge Rouwenhorst"
+  },
+  "happyspaces.nl": {
+    "name": "Happy Spaces B.V.",
+    "owner": "Inge Rouwenhorst"
+  },
+  "dvpsmartconcepts.nl": {
+    "name": "DVP Smart Concepts",
+    "owner": "Robert Greidanus"
+  },
+  "temmink.nl": {
+    "name": "Temmink Bouwprojekten B.V.",
+    "owner": "Inge Rouwenhorst"
+  },
+  "leebo.nl": {
+    "name": "Leebo Intelligente Bouwsystemen  BV",
+    "owner": "Babs Verheij"
+  },
+  "staton.nl": {
+    "name": "Staton Bouw",
+    "owner": "Niels Verwoest"
+  },
+  "ardio.nl": {
+    "name": "Ardio",
+    "owner": "Inge Rouwenhorst"
+  },
+  "groningen.nl": {
+    "name": "Gemeente Groningen (Flexwhere) ",
+    "owner": "Arthur Dommers"
+  },
+  "cammeraatbouw.nl": {
+    "name": "Cammeraatbouw",
+    "owner": "Unknown"
+  },
+  "willbo.nl": {
+    "name": "willbo.nl",
+    "owner": "Unknown"
+  },
+  "turntown.com": {
+    "name": "Turner and Townsend NL",
+    "owner": "Niels Verwoest"
+  },
+  "prommenz.nl": {
+    "name": "Prommenz",
+    "owner": "Unknown"
+  },
+  "mainstaetegroep.nl": {
+    "name": "Mainstaete Vastgoedservice",
+    "owner": "Robert Greidanus"
+  },
+  "intermaris.nl": {
+    "name": "Intermaris (FlexWhere)",
+    "owner": "Arthur Dommers"
+  },
+  "geyer-blitzschutzbau.de": {
+    "name": "Blitzschutzbau Geyer GmbH",
+    "owner": "Selcuk Kavakpinar"
+  },
+  "bf-projektgruppe.de": {
+    "name": "BF Projektgruppe GmbH",
+    "owner": "Mathias Wolf"
+  },
+  "roompotprojects.nl": {
+    "name": "Roompot Projects B.V.",
+    "owner": "Robert Greidanus"
+  },
+  "eilersafbouw.nl": {
+    "name": "Eilers Afbouw BV",
+    "owner": "Inge Rouwenhorst"
+  },
+  "mgmmontagebv.com": {
+    "name": "mgmmontagebv.com",
+    "owner": "Unknown"
+  },
+  "bouwbedrijf-deboer.nl": {
+    "name": "Bouwbedrijf de Boer",
+    "owner": "Unknown"
+  },
+  "lenferink.com": {
+    "name": "Lenferink vastgoedonderhoud Zwolle",
+    "owner": "Niels Verwoest"
+  },
+  "idbbouw.nl": {
+    "name": "IDB Bouw B.V.",
+    "owner": "Inge Rouwenhorst"
+  },
+  "medux.nl": {
+    "name": "Medux",
+    "owner": "Inge Rouwenhorst"
+  },
+  "bouwxs.nl": {
+    "name": "BouwXS bv",
+    "owner": "Unknown"
+  },
+  "hr-bouwmanagement.nl": {
+    "name": "HR Bouwmanagement",
+    "owner": "Inge Rouwenhorst"
+  },
+  "damstra.nl": {
+    "name": "Koninklijke Damstra Installatietechniek Driezum",
+    "owner": "Nathalie Pereboom"
+  },
+  "vadezi.nl": {
+    "name": "VadeZi",
+    "owner": "Lilian Lubberink"
+  },
+  "prefab-leidingen.nl": {
+    "name": "Wilsta prefableiding",
+    "owner": "Inge Rouwenhorst"
+  },
+  "duteco.nl": {
+    "name": "DUTECO Installatiegroep",
+    "owner": "Peter Romeijn"
+  },
+  "nhsurvey.be": {
+    "name": "NH+ Survey.be",
+    "owner": "Lilian Lubberink"
+  },
+  "meuleman-investements.com": {
+    "name": "Steck B.V. (vh. Meuleman Investments)",
+    "owner": "Inge Rouwenhorst"
+  },
+  "bouwbedrijfschrijver.nl": {
+    "name": "Bouwbedrijf Schrijver",
+    "owner": "Inge Rouwenhorst"
+  },
+  "vertiv.com": {
+    "name": "Vertiv",
+    "owner": "Niels Verwoest"
+  },
+  "objectum.nl": {
+    "name": "Objectum B.V.",
+    "owner": "Peter Romeijn"
+  },
+  "duwo.nl": {
+    "name": "DUWO",
+    "owner": "Niels Verwoest"
+  },
+  "inteco.nl": {
+    "name": "Inteco",
+    "owner": "Canan Toylular"
+  },
+  "cladding.nl": {
+    "name": "Cladding Partners BV",
+    "owner": "Sunil CJ"
+  },
+  "segesta.nl": {
+    "name": "Segesta Wonen",
+    "owner": "Babs Verheij"
+  },
+  "esdec.com": {
+    "name": "Panelclaw (vh. Esdec / Enstall)",
+    "owner": "Inge Rouwenhorst"
+  },
+  "mslcabling.com": {
+    "name": "MSL cabling",
+    "owner": "Rutger-Jan Loenen"
+  },
+  "microlab.nl": {
+    "name": "Microlab",
+    "owner": "Inge Rouwenhorst"
+  },
+  "ferussmit.com": {
+    "name": "Ferus Smit",
+    "owner": "Robert Greidanus"
+  },
+  "bouwbedrijfiden.nl": {
+    "name": "Bouwbedrijf Iden",
+    "owner": "Inge Rouwenhorst"
+  },
+  "voskampgroep.nl": {
+    "name": "Voskamp Groep",
+    "owner": "Robert Greidanus"
+  },
+  "tue.nl": {
+    "name": "Eindhoven University of Technology",
+    "owner": "Unknown"
+  },
+  "liberein.nl": {
+    "name": "Liberein",
+    "owner": "Robert Greidanus"
+  },
+  "prorail.nl": {
+    "name": "ProRail | EdC",
+    "owner": "Robert Greidanus"
+  },
+  "woonforte.nl": {
+    "name": "Woonforte",
+    "owner": "Niels Verwoest"
+  },
+  "harwig.nl": {
+    "name": "Harwig Installatietechniek",
+    "owner": "Inge Rouwenhorst"
+  },
+  "tademagroningen.nl": {
+    "name": "Bouwbedrijf Tadema",
+    "owner": "Babs Verheij"
+  },
+  "beno.nl": {
+    "name": "BenO Projectafbouw",
+    "owner": "Niels Verwoest"
+  },
+  "buhlergroup.com": {
+    "name": "Buhler AG",
+    "owner": "Mathias Wolf"
+  },
+  "bsm-highlights.com": {
+    "name": "Bernhard Schulte Shipmanagement BSM (De) GmbH & Co. KG (MS Amera Shipping Ltd)",
+    "owner": "Mathias Wolf"
+  },
+  "minerva.nl": {
+    "name": "Minerva Development",
+    "owner": "Lilian Lubberink"
+  },
+  "dames2.nl": {
+    "name": "Dames2",
+    "owner": "Inge Rouwenhorst"
+  },
+  "blu-3.co.uk": {
+    "name": "blu-3",
+    "owner": "Rutger-Jan Loenen"
+  },
+  "rvbgroep.nl": {
+    "name": "RVB Groep",
+    "owner": "Robert Greidanus"
+  },
+  "hbebouw.nl": {
+    "name": "HBE Bouw",
+    "owner": "Babs Verheij"
+  },
+  "basbreskens.nl": {
+    "name": "BAS Breskens (Aannemingsbedrijf Schoote B.V.)",
+    "owner": "Inge Rouwenhorst"
+  },
+  "saliena.eu": {
+    "name": "CTPlan SIA (vh Saliena Construction SIA)",
+    "owner": "Rutger-Jan Loenen"
+  },
+  "lambweston.eu": {
+    "name": "LambWeston (LW Innovation Center)",
+    "owner": "Inge Rouwenhorst"
+  },
+  "architectenaandemaas.com": {
+    "name": "Architecten aan de Maas",
+    "owner": "Lilian Lubberink"
+  },
+  "bouwadviesdebraal.nl": {
+    "name": "Bouwkundig Adviesbureau de Braal",
+    "owner": "Robert Greidanus"
+  },
+  "kbenm.nl": {
+    "name": "Kbenm",
+    "owner": "Unknown"
+  },
+  "deschrijver.nl": {
+    "name": "De Schrijver Vastgoedonderhoud",
+    "owner": "Babs Verheij"
+  },
+  "apoprojekt.de": {
+    "name": "apoprojekt",
+    "owner": "Selcuk Kavakpinar"
+  },
+  "bieker.ag": {
+    "name": "Bieker AG",
+    "owner": "Mathias Wolf"
+  },
+  "gemeentehw.nl": {
+    "name": "Gemeente Hoeksche Waard",
+    "owner": "Unknown"
+  },
+  "devriesleeuwarden.nl": {
+    "name": "Bouwbedrijf de Vries Leeuwarden bv",
+    "owner": "Robert Greidanus"
+  },
+  "b-righturbanliving.com": {
+    "name": "B-Right Urban Living",
+    "owner": "Inge Rouwenhorst"
+  },
+  "facedo.nl": {
+    "name": "Facedo",
+    "owner": "Niels Verwoest"
+  },
+  "projectis.nl": {
+    "name": "Projectis Bouwmanagement",
+    "owner": "Lilian Lubberink"
+  },
+  "weijman.nl": {
+    "name": "Weijman Vastgoed Onderhoud",
+    "owner": "Robert Greidanus"
+  },
+  "ijbgroep.nl": {
+    "name": "IJB Groep",
+    "owner": "Babs Verheij"
+  },
+  "innocentdrinks.com": {
+    "name": "Innocent drinks (Fresh Trading Manufacturing B.V)",
+    "owner": "Robert Greidanus"
+  },
+  "fenestro.nl": {
+    "name": "Fenestro Gevelbeheer BV",
+    "owner": "Niels Verwoest"
+  },
+  "medemblik.nl": {
+    "name": "Gemeente Medemblik",
+    "owner": "Inge Rouwenhorst"
+  },
+  "hevo.nl": {
+    "name": "HEVO",
+    "owner": "Robert Greidanus"
+  },
+  "ctbouw.nl": {
+    "name": "CTB",
+    "owner": "Niels Verwoest"
+  },
+  "heinrich-schmid.de": {
+    "name": "Malerwerkstätten Heinrich Schmid GmbH & Co. KG",
+    "owner": "Unknown"
+  },
+  "merosch.nl": {
+    "name": "Merosch",
+    "owner": "Unknown"
+  },
+  "hoekstrawestra.nl": {
+    "name": "H&W - Hoekstra & Westra totaalbouw bv.",
+    "owner": "Peter Romeijn"
+  },
+  "gbaw.nl": {
+    "name": "GBAW",
+    "owner": "Unknown"
+  },
+  "hoogendoornbv.nl": {
+    "name": "Sanitair-Installatie Hoogendoorn BV",
+    "owner": "Lilian Lubberink"
+  },
+  "balkonhekken.nl": {
+    "name": "balkonhekken.nl",
+    "owner": "Unknown"
+  },
+  "holmrisb8.com": {
+    "name": "Holmris B8",
+    "owner": "Lilian Lubberink"
+  },
+  "hoffmandme.nl": {
+    "name": "HoffmanDME Techniek BV",
+    "owner": "Unassigned"
+  },
+  "onderwaater.nu": {
+    "name": "Onderwaater Architecten Ingenieurs",
+    "owner": "Lilian Lubberink"
+  },
+  "jdbgroep.nl": {
+    "name": "JDB Groep",
+    "owner": "Unknown"
+  },
+  "kovo.nl": {
+    "name": "KOVO",
+    "owner": "Unknown"
+  },
+  "hiensch.nl": {
+    "name": "Hiensch Engineering B.V.",
+    "owner": "Inge Rouwenhorst"
+  },
+  "energietechniekbv.nl": {
+    "name": "Energie Techniek B.V.",
+    "owner": "Unknown"
+  },
+  "novoferm.nl": {
+    "name": "Novoferm GmbH",
+    "owner": "Niels Verwoest"
+  },
+  "brandmeester.org": {
+    "name": "Brandmeester BV",
+    "owner": "Unknown"
+  },
+  "triple-group.nl": {
+    "name": "Triple Group",
+    "owner": "Inge Rouwenhorst"
+  },
+  "noormanadvies.nl": {
+    "name": "Noorman bouw- en milieu- advies",
+    "owner": "Robert Greidanus"
+  },
+  "marsaki.nl": {
+    "name": "Marsaki",
+    "owner": ""
+  },
+  "aartsenco.nl": {
+    "name": "Aarts & Co",
+    "owner": "Lilian Lubberink"
+  },
+  "landkreis-heilbronn.de": {
+    "name": "Landratsamt Heilbronn",
+    "owner": "Mathias Wolf"
+  },
+  "degraafafbouw.nl": {
+    "name": "De Graaf Afbouw",
+    "owner": "Inge Rouwenhorst"
+  },
+  "ubm-development.com": {
+    "name": "UBM Development",
+    "owner": "Unknown"
+  },
+  "archikon.nl": {
+    "name": "Archikon Architecten",
+    "owner": "Inge Rouwenhorst"
+  },
+  "zwarts.nl": {
+    "name": "Zwarts Premium bouwers",
+    "owner": "Inge Rouwenhorst"
+  },
+  "vofnoord.nl": {
+    "name": "vofnoord.nl",
+    "owner": "Sunil CJ"
+  },
+  "lokat.nl": {
+    "name": "Lokat 3.0",
+    "owner": "Inge Rouwenhorst"
+  },
+  "aldowa.nl": {
+    "name": "Aldowa",
+    "owner": "Inge Rouwenhorst"
+  },
+  "swz.nl": {
+    "name": "Woningstichting SWZ",
+    "owner": "Robert Greidanus"
+  },
+  "freschrealestate.nl": {
+    "name": "FRESCH Real Estate",
+    "owner": "Unknown"
+  },
+  "vandenhelderbv.nl": {
+    "name": "Van den Helder b.v.",
+    "owner": "Lilian Lubberink"
+  },
+  "bjtbouw.nl": {
+    "name": "BJT Bouw",
+    "owner": "Inge Rouwenhorst"
+  },
+  "noblebouw.nl": {
+    "name": "Noble Bouw",
+    "owner": "Niels Verwoest"
+  },
+  "bcssteel.eu": {
+    "name": "Buig Centrale Steenbergen",
+    "owner": "Sunil CJ"
+  },
+  "huurman-leiden.nl": {
+    "name": "Bouwbedrijf Huurman Leiden B.V.",
+    "owner": "Niels Verwoest"
+  },
+  "garde-technischadvies.nl": {
+    "name": "Van der Garde Technisch Advies",
+    "owner": "Inge Rouwenhorst"
+  },
+  "smitsvastgoedzorg.nl": {
+    "name": "Smits vastgoedzorg",
+    "owner": "Niels Verwoest"
+  },
+  "markkantadvies.nl": {
+    "name": "Markkant Advies & Projectmanagement B.V.",
+    "owner": "Inge Rouwenhorst"
+  },
+  "bayernfm.de": {
+    "name": "bayernfm.de",
+    "owner": "Mathias Wolf"
+  },
+  "haworth.com": {
+    "name": "Haworth Benelux",
+    "owner": "Babs Verheij"
+  },
+  "gevelsendaken.nl": {
+    "name": "Kettlitz Gevel- en Dakadvies B.V.",
+    "owner": "Inge Rouwenhorst"
+  },
+  "pb-lothka.de": {
+    "name": "Planungsbüro Lothka GmbH",
+    "owner": "Mathias Wolf"
+  },
+  "terberg.eu": {
+    "name": "Terberg",
+    "owner": "Niels Verwoest"
+  },
+  "magicman.co.uk": {
+    "name": "Magicman Group",
+    "owner": "Nathalie Pereboom"
+  },
+  "scholtens.eu": {
+    "name": "Scholtens Groep",
+    "owner": ""
+  },
+  "vgprojects.com": {
+    "name": "V.G. Projects b.v.",
+    "owner": "Inge Rouwenhorst"
+  },
+  "bertramholten.nl": {
+    "name": "bertramholten.nl",
+    "owner": "Unassigned"
+  },
+  "vwinfra.nl": {
+    "name": "VolkerWessels Infrastructuur (FW)",
+    "owner": "Arthur Dommers"
+  },
+  "knolbouw.nl": {
+    "name": "Knol Bouw",
+    "owner": "Nathalie Pereboom"
+  },
+  "gbsarchitecten.nl": {
+    "name": "BAU GBS Architecten",
+    "owner": "Inge Rouwenhorst"
+  },
+  "bkaklaver4.nl": {
+    "name": "bkaklaver4.nl",
+    "owner": "Unknown"
+  },
+  "cosunbeetcompany.com": {
+    "name": "Cosun Beet",
+    "owner": "Unknown"
+  },
+  "aannemerdrijvers.nl": {
+    "name": "Aannemersbedrijf M.P. Drijvers B.V.",
+    "owner": "Lilian Lubberink"
+  },
+  "geigergruppe.de": {
+    "name": "Wilhelm Geiger GmbH & Co. KG",
+    "owner": "Unassigned"
+  },
+  "tmfunderingen.nl": {
+    "name": "TMFunderingen B.V.",
+    "owner": "Inge Rouwenhorst"
+  },
+  "caspronk.nl": {
+    "name": "Cas Pronk Bouwgroep B.V.",
+    "owner": "Peter Romeijn"
+  },
+  "somhuisvesting.nl": {
+    "name": "O-M-D Facility B.V. (SOM huisvesting b.v.)",
+    "owner": "Inge Rouwenhorst"
+  },
+  "homesfactory.nl": {
+    "name": "Homes Factory B.V.",
+    "owner": "Robert Greidanus"
+  },
+  "polybouw.nl": {
+    "name": "Polybouw Aluminium B.V.",
+    "owner": "Robert Greidanus"
+  },
+  "b-gen.co.uk": {
+    "name": "B-Gen",
+    "owner": "Rutger-Jan Loenen"
+  },
+  "kochadviesgroep.nl": {
+    "name": "KOCH Ingenieurs en Architecten",
+    "owner": "Inge Rouwenhorst"
+  },
+  "kaufland.de": {
+    "name": "Kaufland",
+    "owner": "Unknown"
+  },
+  "bvrgroep.nl": {
+    "name": "BVR Groep B.V.",
+    "owner": "Robert Greidanus"
+  },
+  "hermandegroot.nl": {
+    "name": "Herman De Groot",
+    "owner": "Inge Rouwenhorst"
+  },
+  "zaanstad.nl": {
+    "name": "Gemeente Zaanstad - FW",
+    "owner": "Arthur Dommers"
+  },
+  "colliers.com": {
+    "name": "Colliers Design & Development",
+    "owner": "Nathalie Pereboom"
+  },
+  "woonstadrotterdam.nl": {
+    "name": "EdC - Woonstad Rotterdam",
+    "owner": "Nathalie Pereboom"
+  },
+  "borne.nl": {
+    "name": "Gemeente Borne",
+    "owner": ""
+  },
+  "wemake.nl": {
+    "name": "WeMake Projects B.V.",
+    "owner": "Robert Greidanus"
+  },
+  "mjbgroep.nl": {
+    "name": "MJB Groep",
+    "owner": "Lilian Lubberink"
+  },
+  "bbsq.nl": {
+    "name": "Bouwkundig Bureau Status Quo",
+    "owner": "Inge Rouwenhorst"
+  },
+  "strabag.com": {
+    "name": "STRABAG SE",
+    "owner": "Unknown"
+  },
+  "riton.nl": {
+    "name": "Riton Luchtkanalen B.V.",
+    "owner": "Lilian Lubberink"
+  },
+  "tempelbouw.nl": {
+    "name": "Tempel Bouw",
+    "owner": "Babs Verheij"
+  },
+  "wits.nl": {
+    "name": "Wits Noord",
+    "owner": "Niels Verwoest"
+  },
+  "vluchtelingenwerk.nl": {
+    "name": "VluchtelingenWerk Nederland",
+    "owner": "Arthur Dommers"
+  },
+  "unibaugewerbebau.de": {
+    "name": "Unibau Gewerbebau GmbH",
+    "owner": "Selcuk Kavakpinar"
+  },
+  "komen-bouw.nl": {
+    "name": "Komen Bouw",
+    "owner": "Robert Greidanus"
+  },
+  "mfgroup.com": {
+    "name": "MF Shipping Group",
+    "owner": "Robert Greidanus"
+  },
+  "mwpo.nl": {
+    "name": "MWPO 's-Hertogenbosch",
+    "owner": "Robert Greidanus"
+  },
+  "jaspersbouwmanagement.nl": {
+    "name": "jaspersbouwmanagement.nl",
+    "owner": "Inge Rouwenhorst"
+  },
+  "hubacher.gmbh": {
+    "name": "HUBACHER",
+    "owner": "Unknown"
+  },
+  "kernarchitecten.com": {
+    "name": "Kern Architecten",
+    "owner": "Inge Rouwenhorst"
+  },
+  "bryd.nl": {
+    "name": "Bryd Bouwmanagement",
+    "owner": "Inge Rouwenhorst"
+  },
+  "huismanbouwmanagement.nl": {
+    "name": "Huisman Bouwmanagement",
+    "owner": "Inge Rouwenhorst"
+  },
+  "breed.nl": {
+    "name": "Breedveld & Schröder",
+    "owner": "Robert Greidanus"
+  },
+  "allsafe.nl": {
+    "name": "AllSafe",
+    "owner": "Inge Rouwenhorst"
+  },
+  "bouwbedrijfgervas.nl": {
+    "name": "Bouwbedrijf Gervas",
+    "owner": "Inge Rouwenhorst"
+  },
+  "veermanenkemper.nl": {
+    "name": "Veerman en Kemper Afbouw BV",
+    "owner": "Babs Verheij"
+  },
+  "paasbv.com": {
+    "name": "Paas BV",
+    "owner": "Robert Greidanus"
+  },
+  "atreus.de": {
+    "name": "Atreus GmbH",
+    "owner": "Arthur Dommers"
+  },
+  "buehr.de": {
+    "name": "Buehr",
+    "owner": "Sarah Scheller"
+  },
+  "rovitech.nl": {
+    "name": "Rovitech",
+    "owner": "Inge Rouwenhorst"
+  },
+  "intertec-components.de": {
+    "name": "Intertec Components GmbH",
+    "owner": "Wiebe Mensink"
+  },
+  "noordoostpolder.nl": {
+    "name": "Gemeente Noordoostpolder",
+    "owner": "Arthur Dommers"
+  },
+  "nwo.nl": {
+    "name": "NWO",
+    "owner": "Arthur Dommers"
+  },
+  "dichtbijkinderopvang.nl": {
+    "name": "Dichtbij Kinderopvang",
+    "owner": "Arthur Dommers"
+  },
+  "vm-d.nl": {
+    "name": "Van Mierlo Dinkq B.V.",
+    "owner": "Robert Greidanus"
+  },
+  "vialis.nl": {
+    "name": "Vialis",
+    "owner": "Nathalie Pereboom"
+  },
+  "gbbmaastricht.nl": {
+    "name": "GBB Maastricht",
+    "owner": "Niels Verwoest"
+  },
+  "hhdelfland.nl": {
+    "name": "Hoogheemraadschap van Delfland",
+    "owner": "Arthur Dommers"
+  },
+  "nunspeet.nl": {
+    "name": "Gemeente Nunspeet",
+    "owner": "Arthur Dommers"
+  },
+  "vu.nl": {
+    "name": "Vrije Universiteit Amsterdam (VU)",
+    "owner": "Babs Verheij"
+  },
+  "flexwhere.com": {
+    "name": "Flexwhere",
+    "owner": "Arthur Dommers"
+  },
+  "woontij.nl": {
+    "name": "Stichting Woontij",
+    "owner": "Lilian Lubberink"
+  },
+  "allianz.be": {
+    "name": "Allianz Benelux",
+    "owner": "Arthur Dommers"
+  },
+  "fipra.com": {
+    "name": "FIPRA",
+    "owner": "Arthur Dommers"
+  },
+  "saberbv.nl": {
+    "name": "Saber Brandveiligheid",
+    "owner": "Lilian Lubberink"
+  },
+  "statovgm.nl": {
+    "name": "Stato Vastgoed",
+    "owner": "Inge Rouwenhorst"
+  },
+  "soest.nl": {
+    "name": "Gemeente Soest",
+    "owner": "Arthur Dommers"
+  },
+  "derbg.nl": {
+    "name": "Regionale Belasting Groep",
+    "owner": "Arthur Dommers"
+  },
+  "bruil.nl": {
+    "name": "Bruil Prefab Printing",
+    "owner": "Lilian Lubberink"
+  },
+  "weststellingwerf.nl": {
+    "name": "Gemeente Weststellingwerf (OWO samenwerking)",
+    "owner": "Arthur Dommers"
+  },
+  "softwareone.com": {
+    "name": "SoftwareOne Netherlands BV",
+    "owner": "Arthur Dommers"
+  },
+  "vabafbouwgroep.nl": {
+    "name": "VAB Afbouwgroep",
+    "owner": "Robert Greidanus"
+  },
+  "smeetsbma.nl": {
+    "name": "Smeets bouwmanagement en advies",
+    "owner": "Inge Rouwenhorst"
+  },
+  "tno.nl": {
+    "name": "TNO Leiden - EdC ",
+    "owner": "Babs Verheij"
+  },
+  "goldbeck.de": {
+    "name": "Goldbeck GmbH",
+    "owner": "Sarah Scheller"
+  },
+  "ecorys.com": {
+    "name": "Ecorys Nederland B.V.",
+    "owner": "Arthur Dommers"
+  },
+  "hih.de": {
+    "name": "HIH",
+    "owner": "Unassigned"
+  },
+  "mobilis.nl": {
+    "name": "TBI Infra Mobilis",
+    "owner": "Robert Greidanus"
+  },
+  "treetek.nl": {
+    "name": "Treetek",
+    "owner": "Niels Verwoest"
+  },
+  "inexarchitecten.nl": {
+    "name": "iNeX architecten",
+    "owner": "Inge Rouwenhorst"
+  },
+  "ggdgelderlandzuid.nl": {
+    "name": "GGD Gelderland-Zuid / Veiligheidsregio Gelderland-Zuid (VRGZ) - FW",
+    "owner": "Arthur Dommers"
+  },
+  "suttonsgroup.com": {
+    "name": "Suttons group (FW)",
+    "owner": "Arthur Dommers"
+  },
+  "draisma.nl": {
+    "name": "Draisma Bouw",
+    "owner": "Robert Greidanus"
+  },
+  "bouwmijhendriks.nl": {
+    "name": "BV Bouwmij Hendriks",
+    "owner": "Sunil CJ"
+  },
+  "rutges.nl": {
+    "name": "Rutges Vernieuwt",
+    "owner": "Robert Greidanus"
+  },
+  "global.leaseweb.com": {
+    "name": "Leaseweb Deutschland GmbH",
+    "owner": "Arthur Dommers"
+  },
+  "wijdeta.nl": {
+    "name": "Wijdeta",
+    "owner": "Lilian Lubberink"
+  },
+  "livingstone.org": {
+    "name": "Livingstone",
+    "owner": "Sunil CJ"
+  },
+  "bvbouwmanagement.nl": {
+    "name": "BVBouwmanagement",
+    "owner": "Inge Rouwenhorst"
+  },
+  "firefly.online": {
+    "name": "Firefly",
+    "owner": ""
+  },
+  "rocmn.nl": {
+    "name": "ROC Midden Nederland",
+    "owner": "Robert van der Veen"
+  },
+  "vanwaning.nl": {
+    "name": "Van Waning",
+    "owner": "Robert Greidanus"
+  },
+  "rockfield.nl": {
+    "name": "Rockfield",
+    "owner": "Unknown"
+  },
+  "heijkant.nl": {
+    "name": "Van den Heijkant",
+    "owner": "Robert Greidanus"
+  },
+  "schipper.nl": {
+    "name": "Schipper Vloeren",
+    "owner": "Unknown"
+  },
+  "vanderveldebv.nl": {
+    "name": "Van der Velde BV",
+    "owner": "Robert Greidanus"
+  },
+  "reim-reimers.de": {
+    "name": "Reim & Reimers Ingenieure",
+    "owner": "Unknown"
+  },
+  "heras.nl": {
+    "name": "Heras",
+    "owner": "Niels Verwoest"
+  },
+  "erasmusmc.nl": {
+    "name": "Erasmus Medisch Centrum Rotterdam - FW",
+    "owner": "Arthur Dommers"
+  },
+  "trias-advies.nl": {
+    "name": "Trias Advies & Energiemanagement",
+    "owner": "Lilian Lubberink"
+  },
+  "buildingfortomorrow.nl": {
+    "name": "Building for Tomorrow",
+    "owner": "Inge Rouwenhorst"
+  },
+  "rmkyachts.com": {
+    "name": "RMK Marine A.S.",
+    "owner": "Rutger-Jan Loenen"
+  },
+  "program.nl": {
+    "name": "Progam Bouwmanagement BV",
+    "owner": "Robert Greidanus"
+  },
+  "ghz.nl": {
+    "name": "Groene Hart Ziekenhuis",
+    "owner": "Robert Greidanus"
+  },
+  "brugmansgroep.nl": {
+    "name": "Brugmans Groep",
+    "owner": "Niels Verwoest"
+  },
+  "schoofs-gruppe.de": {
+    "name": "Schoofs Immobilien GmbH",
+    "owner": "Mathias Wolf"
+  },
+  "visionaldesign.nl": {
+    "name": "Visional Design",
+    "owner": "Inge Rouwenhorst"
+  },
+  "dekokbouwgroep.nl": {
+    "name": "De Kok Bouwgroep",
+    "owner": ""
+  },
+  "delangenvdberg.nl": {
+    "name": "De Langen & van den Berg",
+    "owner": "Nathalie Pereboom"
+  },
+  "sein.nl": {
+    "name": "Sein",
+    "owner": "Arthur Dommers"
+  },
+  "urw.com": {
+    "name": "Unibail-Rodamco-Westfield",
+    "owner": "Lilian Lubberink"
+  },
+  "lamein.com": {
+    "name": "Aannemersbedrijf Lamein",
+    "owner": "Niels Verwoest"
+  },
+  "mensonides.nl": {
+    "name": "Mensonides Installatie",
+    "owner": "Unknown"
+  },
+  "intermontage.nl": {
+    "name": "Intermontage",
+    "owner": "Inge Rouwenhorst"
+  },
+  "b-too.nl": {
+    "name": "B-TOO",
+    "owner": "Inge Rouwenhorst"
+  },
+  "aandestegge.org": {
+    "name": "Aan de Stegge Nederland B.V.",
+    "owner": "Unknown"
+  },
+  "coenhagedoorn.nl": {
+    "name": "Coen Hagedoorn Bouwgroep",
+    "owner": "Robert Greidanus"
+  },
+  "stf-gruppe.de": {
+    "name": "STF Gruppe GmbH",
+    "owner": "Arthur Dommers"
+  },
+  "niemangroep.nl": {
+    "name": "Nieman Groep",
+    "owner": "Robert Greidanus"
+  },
+  "engberink.nl": {
+    "name": "Engberink",
+    "owner": "Inge Rouwenhorst"
+  },
+  "maasmond.nl": {
+    "name": "Maasmond Nederland B.V.",
+    "owner": "Inge Rouwenhorst"
+  },
+  "frenk-bv.nl": {
+    "name": "Frenk BV",
+    "owner": "Inge Rouwenhorst"
+  },
+  "drietech-verhoef.nl": {
+    "name": "Drietech & Verhoef Ingenieursbureau BV",
+    "owner": "Inge Rouwenhorst"
+  },
+  "de.leaseweb.com": {
+    "name": "LeaseWeb",
+    "owner": "Sarah Scheller"
+  },
+  "rdgg.nl": {
+    "name": "Reinier de Graaf Gasthuis",
+    "owner": "Robert Greidanus"
+  },
+  "jandenul.com": {
+    "name": "Jan De Nul Group NV - Houben NV (Tijdelijke maatschap)",
+    "owner": "Robert Greidanus"
+  },
+  "dijkhof.com": {
+    "name": "Trappen en Treden Dijkhof B.V.",
+    "owner": "Unknown"
+  },
+  "venemarestauratie.nl": {
+    "name": "Venema Gevelrenovatie",
+    "owner": "Lilian Lubberink"
+  },
+  "planungsunion.de": {
+    "name": "Planungsunion Energie-und Gebäudetechnik GmbH",
+    "owner": "Mathias Wolf"
+  },
+  "venseprojecten.nl": {
+    "name": "Vense Projecten",
+    "owner": "Inge Rouwenhorst"
+  },
+  "skilton.nl": {
+    "name": "Skilton B.V.",
+    "owner": "Lilian Lubberink"
+  },
+  "inris.nl": {
+    "name": "Inris B.V.",
+    "owner": ""
+  },
+  "versluisgroep.nl": {
+    "name": "Versluisgroep",
+    "owner": "Lilian Lubberink"
+  },
+  "plooijer.nl": {
+    "name": "plooijer",
+    "owner": "Unknown"
+  },
+  "wj-projects.nl": {
+    "name": "WJ Projects",
+    "owner": "Canan Toylular"
+  },
+  "dekockbetonbouw.nl": {
+    "name": "De Kock Betonbouw",
+    "owner": "Inge Rouwenhorst"
+  },
+  "scheenstrabv.nl": {
+    "name": "Bouwbedrijf Scheenstra",
+    "owner": "Inge Rouwenhorst"
+  },
+  "augustus.berlin": {
+    "name": "Augustus Management & Architecture GmbH",
+    "owner": "Selcuk Kavakpinar"
+  },
+  "bouwkundigspecialisten.nl": {
+    "name": "Bouwkundig specialisten",
+    "owner": "Inge Rouwenhorst"
+  },
+  "carparks.nl": {
+    "name": "Continental Car Parks",
+    "owner": "Nathalie Pereboom"
+  },
+  "ermelo.nl": {
+    "name": "Gemeente Ermelo",
+    "owner": "Unknown"
+  },
+  "grausbouw.nl": {
+    "name": "GrausBouw",
+    "owner": "Niels Verwoest"
+  },
+  "bim4all.com": {
+    "name": "BIM4ALL",
+    "owner": "Inge Rouwenhorst"
+  },
+  "catharinaziekenhuis.nl": {
+    "name": "Catharina Ziekenhuis",
+    "owner": "Unknown"
+  },
+  "woonbron.nl": {
+    "name": "Woonbron",
+    "owner": "Niels Verwoest"
+  },
+  "dantax.dk": {
+    "name": "Dantax",
+    "owner": "Arthur Dommers"
+  },
+  "waalwijk.nl": {
+    "name": "Gemeente Waalwijk",
+    "owner": "Arthur Dommers"
+  },
+  "aldautomotive.com": {
+    "name": "Ayvens (voorheen ALD Automotive)",
+    "owner": "Wiebe Mensink"
+  },
+  "rijnland.net": {
+    "name": "Hoogheemraadschap van Rijnland",
+    "owner": "Unknown"
+  },
+  "brabantsedelta.nl": {
+    "name": "Waterschap Brabantse Delta",
+    "owner": "Arthur Dommers"
+  },
+  "solvinity.com": {
+    "name": "Solvinity",
+    "owner": "Arthur Dommers"
+  },
+  "zevenaar.nl": {
+    "name": "Gemeente Zevenaar",
+    "owner": "Arthur Dommers"
+  },
+  "midden-groningen.nl": {
+    "name": "Midden-Groningen",
+    "owner": "Arthur Dommers"
+  },
+  "stichtsevecht.nl": {
+    "name": "Gemeente Stichtse Vecht",
+    "owner": "Unknown"
+  },
+  "selbstbestimmt.be": {
+    "name": "Dienststelle für selbstbestimmtes Leben",
+    "owner": "Arthur Dommers"
+  },
+  "zonmw.nl": {
+    "name": "ZonMw",
+    "owner": "Arthur Dommers"
+  },
+  "vlaardingen.nl": {
+    "name": "Gemeente Vlaardingen",
+    "owner": "Arthur Dommers"
+  },
+  "odijsselland.nl": {
+    "name": "Omgevingsdienst IJsselland",
+    "owner": "Arthur Dommers"
+  },
+  "westerwolde.nl": {
+    "name": "Gemeente Westerwolde",
+    "owner": "Arthur Dommers"
+  },
+  "denhelder.nl": {
+    "name": "Gemeente Den Helder",
+    "owner": "Arthur Dommers"
+  },
+  "lawfirm.at": {
+    "name": "GPK Pegger Kofler & Partner",
+    "owner": "Sarah Scheller"
+  },
+  "bkingenieurs.nl": {
+    "name": "BK ingenieurs",
+    "owner": "Arthur Dommers"
+  },
+  "procon-it.de": {
+    "name": "Procon IT",
+    "owner": "Sarah Scheller"
+  },
+  "defryskemarren.nl": {
+    "name": "Gemeente De Fryske Marren",
+    "owner": "Wiebe Mensink"
+  },
+  "gorinchem.nl": {
+    "name": "Gemeente Gorinchem",
+    "owner": "Unknown"
+  },
+  "ikanda.be": {
+    "name": "Ikanda",
+    "owner": "Unknown"
+  },
+  "medtronic.com": {
+    "name": "Medtronic",
+    "owner": "Arthur Dommers"
+  },
+  "meerinzicht.nl": {
+    "name": "Meerinzicht",
+    "owner": "Arthur Dommers"
+  },
+  "hardenberg.nl": {
+    "name": "Gemeente Hardenberg",
+    "owner": "Robert Greidanus"
+  },
+  "rotterdam.nl": {
+    "name": "Rotterdam City Council",
+    "owner": "Unknown"
+  },
+  "afier.com": {
+    "name": "Afier",
+    "owner": "Arthur Dommers"
+  },
+  "gasterra.nl": {
+    "name": "GasTerra",
+    "owner": "Unknown"
+  },
+  "deventer.nl": {
+    "name": "Gemeente Deventer",
+    "owner": "Peter Romeijn"
+  },
+  "mundipharma.de": {
+    "name": "Mundipharma",
+    "owner": "Arthur Dommers"
+  },
+  "drenthe.nl": {
+    "name": "Provincie Drenthe",
+    "owner": "Arthur Dommers"
+  },
+  "nijkerk.eu": {
+    "name": "Gemeente Nijkerk",
+    "owner": "Unknown"
+  },
+  "ineg-energie.de": {
+    "name": "IngenieurNetzwerk Energie eg",
+    "owner": "Arthur Dommers"
+  },
+  "vangoghmuseum.nl": {
+    "name": "Van Gogh Museum",
+    "owner": "Unknown"
+  },
+  "meijers.nl": {
+    "name": "Meijers Assurantien",
+    "owner": "Unknown"
+  },
+  "thegreenery.com": {
+    "name": "The Greenery",
+    "owner": "Unknown"
+  },
+  "poundwise.nl": {
+    "name": "Poundwise Financial Coaching",
+    "owner": "Wiebe Mensink"
+  },
+  "heerde.nl": {
+    "name": "Gemeente Heerde",
+    "owner": "Arthur Dommers"
+  },
+  "rud-zeeland.nl": {
+    "name": "RUD Zeeland",
+    "owner": "Arthur Dommers"
+  },
+  "woerden.nl": {
+    "name": "Gemeente Woerden",
+    "owner": "Arthur Dommers"
+  },
+  "zinl.nl": {
+    "name": "Zorginstituut Nederland  ZINL",
+    "owner": "Arthur Dommers"
+  },
+  "oosterhoffgroup.eu": {
+    "name": "Oosterhoff",
+    "owner": "Babs Verheij"
+  },
+  "caop.nl": {
+    "name": "CAOP",
+    "owner": "Arthur Dommers"
+  },
+  "zeist.nl": {
+    "name": "Gemeente Zeist",
+    "owner": "Wiebe Mensink"
+  },
+  "bnets.sr": {
+    "name": "BNETS",
+    "owner": "Unknown"
+  },
+  "hilversum.nl": {
+    "name": "Hilversum Mediastad",
+    "owner": "Arthur Dommers"
+  },
+  "dictu.nl": {
+    "name": "DICTU",
+    "owner": "Unknown"
+  },
+  "vhs-aktuell.de": {
+    "name": "vhs",
+    "owner": "Unknown"
+  },
+  "rekenkamer.nl": {
+    "name": "Algemene Rekenkamer",
+    "owner": "Arthur Dommers"
+  },
+  "stroomopwaarts.nl": {
+    "name": "Stroomopwaarts",
+    "owner": "Arthur Dommers"
+  },
+  "bghu.nl": {
+    "name": "BghU",
+    "owner": "Arthur Dommers"
+  },
+  "robidus.nl": {
+    "name": "Robidus",
+    "owner": "Unknown"
+  },
+  "kifid.nl": {
+    "name": "Kifid",
+    "owner": "Unknown"
+  },
+  "wil-lekstroom.nl": {
+    "name": "wil-lekstroom.nl",
+    "owner": "Arthur Dommers"
+  },
+  "lbpsight.nl": {
+    "name": "LBP Sight",
+    "owner": "Arthur Dommers"
+  },
+  "nederbetuwe.nl": {
+    "name": "Gemeente Neder-Betuwe",
+    "owner": "Arthur Dommers"
+  },
+  "nationaleombudsman.nl": {
+    "name": "Nationale Ombudsman",
+    "owner": "Arthur Dommers"
+  },
+  "kwf.nl": {
+    "name": "KWF Kankerbestrijding",
+    "owner": "Unknown"
+  },
+  "synatix.com": {
+    "name": "Synatix",
+    "owner": "Unknown"
+  },
+  "jeras.nl": {
+    "name": "Jeras",
+    "owner": "Unknown"
+  },
+  "celsias.nl": {
+    "name": "Celsias",
+    "owner": "Babs Verheij"
+  },
+  "vanwijlen.eu": {
+    "name": "VanWijlenBV",
+    "owner": "Unknown"
+  },
+  "willemsen-installatie.nl": {
+    "name": "Willemsen installatie",
+    "owner": "Unknown"
+  },
+  "dons-troost.nl": {
+    "name": "Aannemersbedrijf Dons en Troost",
+    "owner": "Robert Greidanus"
+  },
+  "bi-smart.nl": {
+    "name": "BINX Smartility",
+    "owner": "Niels Verwoest"
+  },
+  "skinsforbuildings.com": {
+    "name": "Ridder Skins For Buildings",
+    "owner": "Unknown"
+  },
+  "gerco.com": {
+    "name": "Gerco Brandpreventie B.V. (vh. Applicom)",
+    "owner": "Robert Greidanus"
+  },
+  "plangarant.nl": {
+    "name": "PlanGarant",
+    "owner": "Robert Greidanus"
+  },
+  "unipe.nl": {
+    "name": "Unipé Afbouw",
+    "owner": "Inge Rouwenhorst"
+  },
+  "vwbouw.nl": {
+    "name": "vwbouw.nl",
+    "owner": "Unknown"
+  },
+  "lithos.nl": {
+    "name": "Lithos",
+    "owner": "Niels Verwoest"
+  },
+  "volkerrail.nl": {
+    "name": "Volker Rail",
+    "owner": "Arthur Dommers"
+  },
+  "spaansen.nl": {
+    "name": "Spaansen",
+    "owner": "Lilian Lubberink"
+  },
+  "eneco.com": {
+    "name": "Eneco Warmteproductie Utrecht",
+    "owner": "Niels Verwoest"
+  },
+  "montfortbouw.nl": {
+    "name": "Bouwbedrijf Van Montfort B.V.",
+    "owner": "Robert Greidanus"
+  },
+  "buildingservices.nl": {
+    "name": "Building Services",
+    "owner": "Inge Rouwenhorst"
+  },
+  "shunter.nl": {
+    "name": "ALSTOM Traction",
+    "owner": "Unknown"
+  },
+  "vmi-group.com": {
+    "name": "VMI Group",
+    "owner": "Unknown"
+  },
+  "treant.nl": {
+    "name": "Treant",
+    "owner": "Robert Greidanus"
+  },
+  "schock.nl": {
+    "name": "Schöck Nederland",
+    "owner": "Unknown"
+  },
+  "lagemaat-heerde.nl": {
+    "name": "Lagemaat BV",
+    "owner": "Unknown"
+  },
+  "hci.pt": {
+    "name": "HCI Construções",
+    "owner": "Unassigned"
+  },
+  "nikkels.nl": {
+    "name": "Nikkels bouwbedrijf",
+    "owner": "Robert Greidanus"
+  },
+  "mastermate.nl": {
+    "name": "Mastermate",
+    "owner": "Niels Verwoest"
+  },
+  "oostingh.nl": {
+    "name": "Oostingh Staalbouw BV",
+    "owner": "Unknown"
+  },
+  "abstractmanagement.nl": {
+    "name": "abstractmanagement",
+    "owner": "Inge Rouwenhorst"
+  },
+  "hercuton.com": {
+    "name": "Hercuton",
+    "owner": "Robert Greidanus"
+  },
+  "vanderhorstaannemers.nl": {
+    "name": "Van der Horst Aannemers",
+    "owner": ""
+  },
+  "lentyard.feadship.nl": {
+    "name": "Feadship",
+    "owner": "Unknown"
+  },
+  "umcutrecht.nl": {
+    "name": "UMC Utrecht (FW)",
+    "owner": "Arthur Dommers"
+  },
+  "timmervaassen.nl": {
+    "name": "Failliet/Bouw- en Aannemingsbedrijf Timmer Vaassen B.V.",
+    "owner": "Inge Rouwenhorst"
+  },
+  "smitsbouwbedrijf.nl": {
+    "name": "Smit's Bouwbedrijf",
+    "owner": ""
+  },
+  "samenwerking.org": {
+    "name": "Amsterdamsche Coöperatieve Woningvereeniging “Samenwerking” BA",
+    "owner": "Robert Greidanus"
+  },
+  "kerstenretail.nl": {
+    "name": "Kersten Retail",
+    "owner": "Unknown"
+  },
+  "vervoort.nl": {
+    "name": "Vervoort meubelen",
+    "owner": ""
+  },
+  "horsman.nl": {
+    "name": "Bouwgroep Horsman & co",
+    "owner": "Niels Verwoest"
+  },
+  "wijnenbouw.com": {
+    "name": "Wijnen Bouw",
+    "owner": "Robert Greidanus"
+  },
+  "bprc.nl": {
+    "name": "BPRC",
+    "owner": "Unknown"
+  },
+  "duijnhovenbouw.nl": {
+    "name": "Duijnhoven Bouw",
+    "owner": ""
+  },
+  "nab-bliksembeveiliging.nl": {
+    "name": "NAB Bliksembeveiliging BV",
+    "owner": "Babs Verheij"
+  },
+  "vangalen.com": {
+    "name": "Van Dorp Projecten BV (voorheen Van Galen)",
+    "owner": "Nathalie Pereboom"
+  },
+  "bbn.nl": {
+    "name": "BBN Adviseurs",
+    "owner": ""
+  },
+  "dirkdiepeveen.nl": {
+    "name": "Dirk Diepeveen Isolatiebedrijf en Brandwerende Afwerkingen B.V.",
+    "owner": "Robert Greidanus"
+  },
+  "vhbinfra.nl": {
+    "name": "Vhbinfra",
+    "owner": "Unknown"
+  },
+  "mcart.nl": {
+    "name": "Mcart",
+    "owner": "Inge Rouwenhorst"
+  },
+  "contare.nl": {
+    "name": "Contare",
+    "owner": ""
+  },
+  "janssenaannemers.nl": {
+    "name": "Janssen Aannemers",
+    "owner": "Robert Greidanus"
+  },
+  "lafargeholcim.com": {
+    "name": "LafargeHolcim",
+    "owner": "Unknown"
+  },
+  "zincre.com": {
+    "name": "Zincre",
+    "owner": "Unknown"
+  },
+  "dynniq.com": {
+    "name": "Dynniq",
+    "owner": "Unknown"
+  },
+  "desireedek.nl": {
+    "name": "Desiree Dek Property Management",
+    "owner": "Lilian Lubberink"
+  },
+  "schildersbedrijfhoek.nl": {
+    "name": "Schildersbedrijf Hoek",
+    "owner": "Lilian Lubberink"
+  },
+  "victoriabouw.nl": {
+    "name": "Handelsonderneming Victoria Bouw B.V.",
+    "owner": "Robert Greidanus"
+  },
+  "vanzoelen.nl": {
+    "name": "Van Zoelen BV",
+    "owner": "Nathalie Pereboom"
+  },
+  "koopmans.nl": {
+    "name": "Koopmans Bouw Enschede",
+    "owner": "Robert Greidanus"
+  },
+  "eu.equinix.com": {
+    "name": "Equinix",
+    "owner": "Robert Greidanus"
+  },
+  "compofloor.nl": {
+    "name": "Compofloor",
+    "owner": ""
+  },
+  "dijkoraad-viavesta.nl": {
+    "name": "Dijkoraad Viavesta B.V.",
+    "owner": ""
+  },
+  "jvz.nl": {
+    "name": "JVZ Ingenieurs",
+    "owner": "Inge Rouwenhorst"
+  },
+  "u-build.nl": {
+    "name": "U-build Realisatie B.V.",
+    "owner": "Babs Verheij"
+  },
+  "dagrobv.nl": {
+    "name": "DAGRO BV",
+    "owner": "Lilian Lubberink"
+  },
+  "kpms.nl": {
+    "name": "KPMS",
+    "owner": "Babs Verheij"
+  },
+  "bmmgroep.nl": {
+    "name": "BMM groep",
+    "owner": "Lilian Lubberink"
+  },
+  "naturalis.nl": {
+    "name": "Naturalis Biodiversity Center",
+    "owner": "Robert Greidanus"
+  },
+  "firegroup.nl": {
+    "name": "Firegroup",
+    "owner": "Unknown"
+  },
+  "bodewesshipyards.nl": {
+    "name": "Royal Bodewes",
+    "owner": "Robert Greidanus"
+  },
+  "thinkwonen.nl": {
+    "name": "Think Wonen (Failliet)",
+    "owner": ""
+  },
+  "europapark.de": {
+    "name": "Europa-Park GmbH & Co. KG - Mack KG",
+    "owner": "Mathias Wolf"
+  },
+  "wildlands.nl": {
+    "name": "WILDLANDS",
+    "owner": "Unknown"
+  },
+  "hillen-roosen.nl": {
+    "name": "Hillen & Roosen",
+    "owner": "Robert Greidanus"
+  },
+  "lvdwal.nl": {
+    "name": "Aannemingsbedrijf L. v.d. Wal en Zn BV",
+    "owner": "Robert Greidanus"
+  },
+  "bloemendalbouw.nl": {
+    "name": "Bloemendal Bouw",
+    "owner": "Inge Rouwenhorst"
+  },
+  "grunsvengroep.nl": {
+    "name": "Van Grunsven Groep",
+    "owner": "Robert Greidanus"
+  },
+  "vanderhulstbouwbedrijf.nl": {
+    "name": "Van der Hulst Bouwbedrijf",
+    "owner": "Robert Greidanus"
+  },
+  "sempergreen.com": {
+    "name": "Sempergreen Group",
+    "owner": "Unknown"
+  },
+  "betsemabouwgroep.nl": {
+    "name": "Betsema Bouwgroep",
+    "owner": "Unknown"
+  },
+  "cec-int.com": {
+    "name": "CEC Curacao NV.",
+    "owner": "Babs Verheij"
+  },
+  "vandijk-dakwerken.nl": {
+    "name": "van Dijk Dakwerken BV",
+    "owner": "Inge Rouwenhorst"
+  },
+  "dormakaba.com": {
+    "name": "Dormakaba",
+    "owner": "Unknown"
+  },
+  "rbplus.nl": {
+    "name": "RB+",
+    "owner": "Lilian Lubberink"
+  },
+  "binneveld.com": {
+    "name": "Binneveld Bouw & Infra Management",
+    "owner": "Lilian Lubberink"
+  },
+  "arton-bv.nl": {
+    "name": "Arton",
+    "owner": "Niels Verwoest"
+  },
+  "rinoas.nl": {
+    "name": "Unica Building Services Goes (voormalig Synto BV)",
+    "owner": "Robert Greidanus"
+  },
+  "logchies.nl": {
+    "name": "Logchies",
+    "owner": "Niels Verwoest"
+  },
+  "westlandsvastgoed.nl": {
+    "name": "westlandsvastgoed.nl",
+    "owner": "Unassigned"
+  },
+  "smtbv.nl": {
+    "name": "SMT Bouw & Vastgoed",
+    "owner": "Sunil CJ"
+  },
+  "aero-dynamiek.nl": {
+    "name": "Aero-Dynamiek",
+    "owner": "Unassigned"
+  },
+  "vddonk.nl": {
+    "name": "Spie Nederland",
+    "owner": "Robert Greidanus"
+  },
+  "peinemann.nl": {
+    "name": "Peinemann Project Logistiek",
+    "owner": "Babs Verheij"
+  },
+  "infestos.com": {
+    "name": "Infestos",
+    "owner": "Unknown"
+  },
+  "leerkes.nl": {
+    "name": "E.T.I. Leerkes BV",
+    "owner": "Niels Verwoest"
+  },
+  "vanettekoven.com": {
+    "name": "vanettekoven.com",
+    "owner": "Unknown"
+  },
+  "bakker-sl.nl": {
+    "name": "Bakker Sliedrecht & Bakker Repair+Services",
+    "owner": "Unknown"
+  },
+  "burgy.nl": {
+    "name": "BURGY Bouwbedrijf",
+    "owner": "Robert Greidanus"
+  },
+  "4some.nl": {
+    "name": "4Some Technisch Beheer",
+    "owner": "Inge Rouwenhorst"
+  },
+  "nlbouwmeesters.nl": {
+    "name": "NL bouwmeesters",
+    "owner": "Inge Rouwenhorst"
+  },
+  "convoi.com": {
+    "name": "Convoi International B.V. (vh Convoi Nederland B.V.)",
+    "owner": "Robert Greidanus"
+  },
+  "pentarho.nl": {
+    "name": "Penta Rho",
+    "owner": "Lilian Lubberink"
+  },
+  "pjansen.nl": {
+    "name": "P. Jansen Installatietechniek B.V.",
+    "owner": ""
+  },
+  "bouwgroep-peters.nl": {
+    "name": "Bouwgroep Peters",
+    "owner": "Unknown"
+  },
+  "carlebur.nl": {
+    "name": "Aannemingsbedrijf Carlebur B.V.",
+    "owner": "Inge Rouwenhorst"
+  },
+  "mvrbouwmanagement.nl": {
+    "name": "MVR bouwmanagement",
+    "owner": "Robert Greidanus"
+  },
+  "oude-wolbers.nl": {
+    "name": "Oude Wolbers",
+    "owner": "Robert Greidanus"
+  },
+  "engelmanarchitecten.nl": {
+    "name": "Engelman Architecten",
+    "owner": "Robert Greidanus"
+  },
+  "meyerbeheer.nl": {
+    "name": "Meyer Beheer B.V.",
+    "owner": ""
+  },
+  "hermetico.nl": {
+    "name": "Hermetico bv",
+    "owner": "Unknown"
+  },
+  "buntegrondwerken.nl": {
+    "name": "Kollen Groep BV",
+    "owner": "Inge Rouwenhorst"
+  },
+  "lokinstallatietechniek.nl": {
+    "name": "Lok Installatietechniek",
+    "owner": ""
+  },
+  "c2n.nl": {
+    "name": "C2N",
+    "owner": ""
+  },
+  "hetvastgoedbureau.nl": {
+    "name": "HVB Vastgoed",
+    "owner": "Inge Rouwenhorst"
+  },
+  "grayspace.nl": {
+    "name": "Grayspace",
+    "owner": ""
+  },
+  "geelen.nl": {
+    "name": "Geelen Vastgoed & Bouw",
+    "owner": "Niels Verwoest"
+  },
+  "salverda.nl": {
+    "name": "Salverda Bouw",
+    "owner": "Babs Verheij"
+  },
+  "royal-aware.com": {
+    "name": "Royal A-ware",
+    "owner": "Niels Verwoest"
+  },
+  "nieman-valk.nl": {
+    "name": "Nieman-Valk Technisch Adviesbureau",
+    "owner": "Robert Greidanus"
+  },
+  "bureaubouwkunde.nl": {
+    "name": "Bureau Bouwkunde Nederland",
+    "owner": "Lilian Lubberink"
+  },
+  "tg.nl": {
+    "name": "Twynstra Gudde",
+    "owner": ""
+  },
+  "aventus.nl": {
+    "name": "Aventus",
+    "owner": "Robert van der Veen"
+  },
+  "bschepens.nl": {
+    "name": "B. Schepens B.V.",
+    "owner": "Unknown"
+  },
+  "rde.it": {
+    "name": "Rizzani de Eccher",
+    "owner": "Rutger-Jan Loenen"
+  },
+  "alhako.nl": {
+    "name": "Alhako",
+    "owner": ""
+  },
+  "facilicom.nl": {
+    "name": "Facilicom",
+    "owner": "Unassigned"
+  },
+  "archipunt.nl": {
+    "name": "Archipunt B.V.",
+    "owner": "Unknown"
+  },
+  "midvast.nl": {
+    "name": "Midvast",
+    "owner": ""
+  },
+  "bohemen.nl": {
+    "name": "Bohemen",
+    "owner": "Robert Greidanus"
+  },
+  "tuin-denhelder.nl": {
+    "name": "Aannemingsbedrijf A. Tuin Den Helder B.V.",
+    "owner": "Inge Rouwenhorst"
+  },
+  "haantechniek.nl": {
+    "name": "Haan Techniek",
+    "owner": "Inge Rouwenhorst"
+  },
+  "dycore.nl": {
+    "name": "Dycore",
+    "owner": "Inge Rouwenhorst"
+  },
+  "vattentorn.nl": {
+    "name": "Vattentorn",
+    "owner": "Lilian Lubberink"
+  },
+  "novumnetwork.nl": {
+    "name": "Novum Network",
+    "owner": ""
+  },
+  "skow.nl": {
+    "name": "skow.nl",
+    "owner": "Inge Rouwenhorst"
+  },
+  "hetbouwadvies.nl": {
+    "name": "Het Bouwadvies",
+    "owner": "Unknown"
+  },
+  "hofmann-haus.com": {
+    "name": "Hofmann Haus GmbH",
+    "owner": "Mathias Wolf"
+  },
+  "firesolutions.cegelec.com": {
+    "name": "Cegelec Centre Est S.A.",
+    "owner": "Rutger-Jan Loenen"
+  },
+  "hbbgroep.nl": {
+    "name": "HBB Groep",
+    "owner": "Robert Greidanus"
+  },
+  "brecon.nl": {
+    "name": "SRBA Controlled Environment B.V. (voorheen Brecon)",
+    "owner": "Robert Greidanus"
+  },
+  "feuchterinterplan.de": {
+    "name": "Feuchter Interplan",
+    "owner": "Mathias Wolf"
+  },
+  "bca-brandveilig.nl": {
+    "name": "Brand Compartimentering en Afdichtingen B.V. (BCA)",
+    "owner": "Robert Greidanus"
+  },
+  "coppensbouwmanagement.nl": {
+    "name": "Coppens Bouwmanagement BV",
+    "owner": "Unknown"
+  },
+  "vanwonen.com": {
+    "name": "VanWonen",
+    "owner": ""
+  },
+  "welvaarts.nl": {
+    "name": "Welvaarts",
+    "owner": "Robert Greidanus"
+  },
+  "pelecon.nl": {
+    "name": "PELECON",
+    "owner": "Babs Verheij"
+  },
+  "kuypers.nl": {
+    "name": "Kuypers Zorg voor Vastgoed",
+    "owner": "Inge Rouwenhorst"
+  },
+  "uitvoerdermetpassie.nl": {
+    "name": "Uitvoerder met passie",
+    "owner": "Inge Rouwenhorst"
+  },
+  "kotug.com": {
+    "name": "KOTUG International",
+    "owner": "Unknown"
+  },
+  "netter-bauart.de": {
+    "name": "Netter Bauart",
+    "owner": "Unknown"
+  },
+  "borrenbergs.nl": {
+    "name": "Borrenbergs",
+    "owner": "Peter Romeijn"
+  },
+  "iav.de": {
+    "name": "IAV Gruppe",
+    "owner": "Selcuk Kavakpinar"
+  },
+  "meandermc.nl": {
+    "name": "Meander Medisch Centrum",
+    "owner": "Peter Romeijn"
+  },
+  "regentadvies.nl": {
+    "name": "Regent Vastgoed Management en Advies B.V.",
+    "owner": "Lilian Lubberink"
+  },
+  "timek.nl": {
+    "name": "Timek",
+    "owner": ""
+  },
+  "het4kant.nl": {
+    "name": "Het4Kant Beheer B.V.",
+    "owner": "Inge Rouwenhorst"
+  },
+  "wkb-nederland.nl": {
+    "name": "WKB Nederland",
+    "owner": "Robert Greidanus"
+  },
+  "betonwerk-werste.de": {
+    "name": "Betonwerk Werste GmbH",
+    "owner": "Selcuk Kavakpinar"
+  },
+  "nioz.nl": {
+    "name": "NIOZ",
+    "owner": "Unknown"
+  },
+  "hbmanagement.net": {
+    "name": "HB Management",
+    "owner": "Unknown"
+  },
+  "timmerbedrijfjanboss.nl": {
+    "name": "Timmerbedrijf Jan Boss BV",
+    "owner": "Inge Rouwenhorst"
+  },
+  "bots.nl": {
+    "name": "Bots Bouwgroep",
+    "owner": ""
+  },
+  "theoboons.be": {
+    "name": "Theo Boons",
+    "owner": "Peter Romeijn"
+  },
+  "dgw.nl": {
+    "name": "De Goede Woning",
+    "owner": "Inge Rouwenhorst"
+  },
+  "accoladezorg.nl": {
+    "name": "Accolade Zorg",
+    "owner": "Unknown"
+  },
+  "breijer.nl": {
+    "name": "BREIJER",
+    "owner": "Unknown"
+  },
+  "jaarbeurs.nl": {
+    "name": "Jaarbeurs Utrecht",
+    "owner": "Robert Greidanus"
+  },
+  "fallerhochdrei.de": {
+    "name": "Faller",
+    "owner": "Unknown"
+  },
+  "ledro.nl": {
+    "name": "Van der Lecq en Droogers",
+    "owner": "Niels Verwoest"
+  },
+  "vrpm.nl": {
+    "name": "Van Ree Projectmanagement bv",
+    "owner": "Inge Rouwenhorst"
+  },
+  "vanderkruijs.nl": {
+    "name": "Schildersbedrijf- & Onderhoudsbedrijf van der Kruijs B.V.",
+    "owner": "Inge Rouwenhorst"
+  },
+  "bijsterbouw.nl": {
+    "name": "Bijster bouw",
+    "owner": "Inge Rouwenhorst"
+  },
+  "recnederland.nl": {
+    "name": "recnederland.nl",
+    "owner": "Unknown"
+  },
+  "jari.wisbytankers.se": {
+    "name": "Wisby Tankers AB / Wisby Shipmanagement AB",
+    "owner": "Robert Greidanus"
+  },
+  "igb.ag": {
+    "name": "igb Aktiengesellschaft",
+    "owner": "Mathias Wolf"
+  },
+  "dreefbeheer.nl": {
+    "name": "Dreef Beheer B.V.",
+    "owner": "Inge Rouwenhorst"
+  },
+  "ibdoebelt.de": {
+    "name": "Stefan Döbelt",
+    "owner": "Unknown"
+  },
+  "jmustersprojecten.nl": {
+    "name": "J. Musters Projecten",
+    "owner": "Inge Rouwenhorst"
+  },
+  "switchenergy.nl": {
+    "name": "Switch Energy",
+    "owner": ""
+  },
+  "bceemnes.nl": {
+    "name": "Bouwcombinatie Eemnes",
+    "owner": "Inge Rouwenhorst"
+  },
+  "cmc.cw": {
+    "name": "Curaçao Medical Center",
+    "owner": "Unknown"
+  },
+  "vezavastgoed.nl": {
+    "name": "VEZA vastgoed",
+    "owner": "Unknown"
+  },
+  "brm-brandschutz.de": {
+    "name": "BRM GmbH",
+    "owner": "Mathias Wolf"
+  },
+  "binnemagroep.nl": {
+    "name": "Binnema Groep",
+    "owner": ""
+  },
+  "brand-preventie.nl": {
+    "name": "Brandpreventie MIB BV",
+    "owner": "Unknown"
+  },
+  "rentema.nl": {
+    "name": "rentema.nl",
+    "owner": "Unassigned"
+  },
+  "k-plus.nl": {
+    "name": "K+ Adviesgroep B.V.",
+    "owner": "Lilian Lubberink"
+  },
+  "me-architekten.de": {
+    "name": "me-architekten.de",
+    "owner": "Unknown"
+  },
+  "rebprojects.com": {
+    "name": "REB Projects",
+    "owner": "Robert Greidanus"
+  },
+  "vanheesvastgoed.nl": {
+    "name": "Van Hees Vastgoed Advies B.V.",
+    "owner": "Inge Rouwenhorst"
+  },
+  "hormann.nl": {
+    "name": "Hörmann Nederland BV",
+    "owner": "Niels Verwoest"
+  },
+  "bouwcenternobel.nl": {
+    "name": "Bouwcenter Nobel | Keukens, Sanitair en Tuin",
+    "owner": "Unknown"
+  },
+  "tbi-l2t.nl": {
+    "name": "tbi-l2t.nl",
+    "owner": "Sunil CJ"
+  },
+  "klokholding.nl": {
+    "name": "KlokHolding",
+    "owner": "Robert Greidanus"
+  },
+  "havensteder.nl": {
+    "name": "Havensteder",
+    "owner": "Inge Rouwenhorst"
+  },
+  "suikerunie.com": {
+    "name": "Suikerunie",
+    "owner": "Unknown"
+  },
+  "cornisol.com": {
+    "name": "Cornisol",
+    "owner": "Unassigned"
+  },
+  "corendonhotels.com": {
+    "name": "Corendon Hotels & Resorts",
+    "owner": ""
+  },
+  "hydrotopworks.nl": {
+    "name": "Hydrotopworks",
+    "owner": "Robert Greidanus"
+  },
+  "dasbv.nl": {
+    "name": "Das Bouwsystemen",
+    "owner": "Inge Rouwenhorst"
+  },
+  "cameloteurope.com": {
+    "name": "Camelot Europe Netherlands",
+    "owner": "Unknown"
+  },
+  "morrenbouw.nl": {
+    "name": "Morrenbouw",
+    "owner": "Robert Greidanus"
+  },
+  "bchurksvanwijnen.nl": {
+    "name": "bchurksvanwijnen.nl",
+    "owner": "Unknown"
+  },
+  "uwoon.nl": {
+    "name": "Woningcorporatie uwoon Harderwijk",
+    "owner": "Peter Romeijn"
+  },
+  "enjoybuilding.com": {
+    "name": "Enjoy Building",
+    "owner": "Inge Rouwenhorst"
+  },
+  "ttb.gmbh": {
+    "name": "ttb.gmbh",
+    "owner": "Unknown"
+  },
+  "dhps.nl": {
+    "name": "DHPS",
+    "owner": "Unassigned"
+  },
+  "zueblin-nederland.com": {
+    "name": "ZÜBLIN Nederland",
+    "owner": "Unknown"
+  },
+  "mboutrecht.nl": {
+    "name": "MBO Utrecht",
+    "owner": "Robert van der Veen"
+  },
+  "integral.co.uk": {
+    "name": "Integral UK",
+    "owner": "Unassigned"
+  },
+  "bv3projectsupport.nl": {
+    "name": "BV3 projectsupport",
+    "owner": "Unknown"
+  },
+  "claiconsult.eu": {
+    "name": "claiconsult.eu",
+    "owner": ""
+  },
+  "niiexp.com": {
+    "name": "niiexp.com",
+    "owner": "Unknown"
+  },
+  "zener.nl": {
+    "name": "ZENER",
+    "owner": "Unknown"
+  },
+  "svt.de": {
+    "name": "svt Holding",
+    "owner": "Selcuk Kavakpinar"
+  },
+  "munnikbouwmanagement.nl": {
+    "name": "Munnik Bouwmanagement bv",
+    "owner": "Inge Rouwenhorst"
+  },
+  "antoniusziekenhuis.nl": {
+    "name": "St. Antonius Ziekenhuis",
+    "owner": "Peter Romeijn"
+  },
+  "homeprofs.nl": {
+    "name": "Homeprofs",
+    "owner": ""
+  },
+  "kurmann-holzbau.de": {
+    "name": "Kurmann Hausbau GmbH",
+    "owner": "Mathias Wolf"
+  },
+  "bouwbedrijftuin.nl": {
+    "name": "Bouwbedrijf Tuin B.V",
+    "owner": "Robert Greidanus"
+  },
+  "aannemingsbedrijfvdvlist.nl": {
+    "name": "Aannemingsbedrijf van der Vlist",
+    "owner": "Babs Verheij"
+  },
+  "wirtgen.de": {
+    "name": "Wirtgen GmbH",
+    "owner": "Mathias Wolf"
+  },
+  "hoefnagels.com": {
+    "name": "Hoefnagels Fire Safety",
+    "owner": "Inge Rouwenhorst"
+  },
+  "ihmg.eu": {
+    "name": "International Hotel Management Group",
+    "owner": "Unknown"
+  },
+  "beentjesgww.nl": {
+    "name": "Gebr. Beentjes GWW BV",
+    "owner": "Inge Rouwenhorst"
+  },
+  "vst-fs.nl": {
+    "name": "vst-fs.nl",
+    "owner": ""
+  },
+  "web.de.de": {
+    "name": "de.de - Das Deutschlandportal",
+    "owner": "Sarah Scheller"
+  },
+  "ocs-steelcase.nl": {
+    "name": "OCS Workplaces BV",
+    "owner": "Inge Rouwenhorst"
+  },
+  "mmc.nl": {
+    "name": "Maxima Medisch Centrum",
+    "owner": ""
+  },
+  "quadrance.nl": {
+    "name": "Quadrance",
+    "owner": "Unknown"
+  },
+  "idealprojects.nl": {
+    "name": "Ideal Projects B.V.",
+    "owner": "Unknown"
+  },
+  "straman.nl": {
+    "name": "STRAMAN",
+    "owner": "Robert Greidanus"
+  },
+  "lowikbouw.nl": {
+    "name": "Lowik Bouw",
+    "owner": "Niels Verwoest"
+  },
+  "dongit.eu": {
+    "name": "DongIT",
+    "owner": "Unknown"
+  },
+  "goforzero.nl": {
+    "name": "Go4Zero Advies & Engineering B.V.",
+    "owner": "Inge Rouwenhorst"
+  },
+  "gkbgroep.nl": {
+    "name": "GKB Groep BV",
+    "owner": "Niels Verwoest"
+  },
+  "frankzwickel.de": {
+    "name": "Frank Zwickel Architektur",
+    "owner": "Mathias Wolf"
+  },
+  "groenewoldbouw.nl": {
+    "name": "GroenewoldBouw",
+    "owner": "Robert Greidanus"
+  },
+  "clavis.cc": {
+    "name": "Stichting Clavis",
+    "owner": "Inge Rouwenhorst"
+  },
+  "vanbaaren-aannemers.nl": {
+    "name": "Van Baaren Aannemers",
+    "owner": "Robert Greidanus"
+  },
+  "coolengroep.nl": {
+    "name": "Coolen Groep",
+    "owner": "Robert Greidanus"
+  },
+  "leurinkbouw.nl": {
+    "name": "leurinkbouw.nl",
+    "owner": "Unknown"
+  },
+  "gewoonarchitecten.nl": {
+    "name": "geWOON architecten",
+    "owner": "Inge Rouwenhorst"
+  },
+  "bessels.com": {
+    "name": "Bessels architecten & ingenieurs",
+    "owner": "Inge Rouwenhorst"
+  },
+  "amsta.nl": {
+    "name": "AMSTA",
+    "owner": "Inge Rouwenhorst"
+  },
+  "dezorggroep.nl": {
+    "name": "De Zorggroep Noord en Midden Limburg",
+    "owner": "Inge Rouwenhorst"
+  },
+  "brunner.nl": {
+    "name": "Brunner Projektmeubelen",
+    "owner": "Niels Verwoest"
+  },
+  "aivn.nl": {
+    "name": "AIVN",
+    "owner": "Robert Greidanus"
+  },
+  "gilsbso.nl": {
+    "name": "Gils Bouwservice & Onderhoud",
+    "owner": "Robert Greidanus"
+  },
+  "enlbouwmanagement.nl": {
+    "name": "ENL Bouwmanagement",
+    "owner": "Inge Rouwenhorst"
+  },
+  "scalda.nl": {
+    "name": "Scalda",
+    "owner": "Niels Verwoest"
+  },
+  "coskun-kollegen.de": {
+    "name": "coskun-kollegen.de",
+    "owner": "Unknown"
+  },
+  "sijperda-hardy.nl": {
+    "name": "Sijperda-Hardy",
+    "owner": "Inge Rouwenhorst"
+  },
+  "koestr.nl": {
+    "name": "Koestr Onderhoud B.V",
+    "owner": "Robert Greidanus"
+  },
+  "m-trix.nl": {
+    "name": "M-TRiX Installatie Adviseurs",
+    "owner": "Inge Rouwenhorst"
+  },
+  "horstmanngroup.de": {
+    "name": "Horstmann Group",
+    "owner": "Unknown"
+  },
+  "thuisinbouwen.nl": {
+    "name": "Thuis in bouwen (HMU & Olsthoorn Bouw & Ontwikkeling B.V.)",
+    "owner": "Robert Greidanus"
+  },
+  "isb-projekt.com": {
+    "name": "ISB Consulting GmbH",
+    "owner": "Mathias Wolf"
+  },
+  "cammeraatvof.nl": {
+    "name": "Cammeraat Bouw BV",
+    "owner": "Unknown"
+  },
+  "plan-bee.nl": {
+    "name": "Plan Bee Onderhoud en Advies B.V.",
+    "owner": "Inge Rouwenhorst"
+  },
+  "klimax.nl": {
+    "name": "Klimax installatiebedrijven",
+    "owner": ""
+  },
+  "wijchenbouw.nl": {
+    "name": "wijchenbouw.nl",
+    "owner": "Unknown"
+  },
+  "deblondebouwbegeleiding.nl": {
+    "name": "De Blonde Bouwbegeleiding B.V.",
+    "owner": "Lilian Lubberink"
+  },
+  "alba-bpm.de": {
+    "name": "alba Bau",
+    "owner": "Unknown"
+  },
+  "dekkerelektrotechniek.com": {
+    "name": "Dekker Elektrotechniek B.V.",
+    "owner": "Inge Rouwenhorst"
+  },
+  "bouwbedrijfotter.nl": {
+    "name": "Bouwbedrijf Otter",
+    "owner": "Inge Rouwenhorst"
+  },
+  "bouwbedrijfvanderkolkbv.nl": {
+    "name": "Bouwbedrijf van der Kolk Emmeloord b.v.",
+    "owner": "Nathalie Pereboom"
+  },
+  "jous.nl": {
+    "name": "JOUS Architecten",
+    "owner": "Inge Rouwenhorst"
+  },
+  "massivhaus-rheinlahn.de": {
+    "name": "Massivhaus Rhein Lahn",
+    "owner": "Mathias Wolf"
+  },
+  "bosmanvanzaal.com": {
+    "name": "Bosman van Zaal",
+    "owner": "Robert Greidanus"
+  },
+  "070vastgoed.nl": {
+    "name": "070 Vastgoed",
+    "owner": ""
+  },
+  "vandenkommer.nl": {
+    "name": "Piet-Jan van den Kommer BV",
+    "owner": "Unknown"
+  },
+  "ysl.nl": {
+    "name": "IJsselland Ziekenhuis",
+    "owner": "Robert Greidanus"
+  },
+  "timbor.nl": {
+    "name": "Timbor",
+    "owner": ""
+  },
+  "hdsr.nl": {
+    "name": "HDSR",
+    "owner": "Unknown"
+  },
+  "loosbetonreparaties.nl": {
+    "name": "Loos Betonreparaties",
+    "owner": "Inge Rouwenhorst"
+  },
+  "alpha-deuren.nl": {
+    "name": "Alpha Deuren",
+    "owner": "Robert Greidanus"
+  },
+  "arcadis.nl": {
+    "name": "Arcadis",
+    "owner": "Unassigned"
+  },
+  "scheepswerfdekaap.nl": {
+    "name": "B.V. Scheepswerf 'De Kaap'",
+    "owner": "Unknown"
+  },
+  "keysercraft.nl": {
+    "name": "Keyser Craft",
+    "owner": "Unknown"
+  },
+  "becontrol.nl": {
+    "name": "BEinCONTROL",
+    "owner": "Inge Rouwenhorst"
+  },
+  "kalterbouw.nl": {
+    "name": "Kalter Bouwbedrijf Genemuiden -",
+    "owner": "Unassigned"
+  },
+  "lv-bouw.nl": {
+    "name": "LV Bouw",
+    "owner": "Inge Rouwenhorst"
+  },
+  "sandersbetonwerken.nl": {
+    "name": "Sanders Betonwerken",
+    "owner": ""
+  },
+  "tbaug.de": {
+    "name": "TBauG Generalübernehmer GmbH",
+    "owner": "Selcuk Kavakpinar"
+  },
+  "shl.dk": {
+    "name": "Schmidt Hammer Lassen Architects",
+    "owner": "Inge Rouwenhorst"
+  },
+  "interstage.eu": {
+    "name": "InterStage B.V.",
+    "owner": "Robert Greidanus"
+  },
+  "dijkmanbouw.nl": {
+    "name": "Dijkman Bouw",
+    "owner": "Inge Rouwenhorst"
+  },
+  "acb.lv": {
+    "name": "ACB",
+    "owner": ""
+  },
+  "wattnu.be": {
+    "name": "Watt NU",
+    "owner": "Robert Greidanus"
+  },
+  "style26.nl": {
+    "name": "Style26 design & build B.V.",
+    "owner": "Inge Rouwenhorst"
+  },
+  "ib-nuber.de": {
+    "name": "Ingenieurbüro Nuber",
+    "owner": "Mathias Wolf"
+  },
+  "lcs-dk.com": {
+    "name": "lcs-dk.com",
+    "owner": "Rutger-Jan Loenen"
+  },
+  "proprevent.be": {
+    "name": "proprevent.be",
+    "owner": "Unknown"
+  },
+  "hollandscherm.nl": {
+    "name": "Holland Scherm",
+    "owner": "Nathalie Pereboom"
+  },
+  "albocaribbean.jajo.com": {
+    "name": "Janssen de Jong Groep",
+    "owner": "Unassigned"
+  },
+  "brightlands.com": {
+    "name": "Chemelot Campus Vastgoed C.V. (Brightland)",
+    "owner": "Inge Rouwenhorst"
+  },
+  "metselbedrijfzwaan.nl": {
+    "name": "Metselbedrijf Zwaan b.v.",
+    "owner": "Lilian Lubberink"
+  },
+  "aqua-lity.co.uk": {
+    "name": "Aquality",
+    "owner": "Rutger-Jan Loenen"
+  },
+  "kaiser-hochbau.de": {
+    "name": "Horst Barthel, Insevia GmbH",
+    "owner": "Unknown"
+  },
+  "teamwork-interiors.com": {
+    "name": "Teamwork interiors",
+    "owner": "Inge Rouwenhorst"
+  },
+  "actamarine.com": {
+    "name": "Acta Marine",
+    "owner": "Robert Greidanus"
+  },
+  "zimmer-architekten.de": {
+    "name": "Zimmer Architekten",
+    "owner": "Mathias Wolf"
+  },
+  "rolton.com": {
+    "name": "Rolton Group",
+    "owner": "Rutger-Jan Loenen"
+  },
+  "tommy.com": {
+    "name": "Tommy Hilfiger licensing",
+    "owner": "Unknown"
+  },
+  "bouwbedrijfvosman.nl": {
+    "name": "Bouwbedrijf Vosman",
+    "owner": ""
+  },
+  "dhbouwadvies.nl": {
+    "name": "Den Hollander Bouwadvies & Ontwerp",
+    "owner": "Robert Greidanus"
+  },
+  "aannemersbedrijfvonk.nl": {
+    "name": "Aannemersbedrijf Vonk",
+    "owner": "Unknown"
+  },
+  "vrolijks.com": {
+    "name": "Vrolijks Prefab Betonbouw",
+    "owner": "Inge Rouwenhorst"
+  },
+  "pp-tga.de": {
+    "name": "pp-tga.de",
+    "owner": "Unknown"
+  },
+  "blum-diez.de": {
+    "name": "Blum Diez",
+    "owner": "Unknown"
+  },
+  "living-inn.nl": {
+    "name": "Living Inn Ontwikkeling BV",
+    "owner": "Robert Greidanus"
+  },
+  "hofvansaksen.nl": {
+    "name": "Hof van Saksen",
+    "owner": "Robert Greidanus"
+  },
+  "etbmeursbv.nl": {
+    "name": "ETB Meurs BV",
+    "owner": "Inge Rouwenhorst"
+  },
+  "vru.nl": {
+    "name": "Veiligheidsregio Utrecht",
+    "owner": "Nathalie Pereboom"
+  },
+  "zleep.com": {
+    "name": "Zleep hotels",
+    "owner": "Unknown"
+  },
+  "jumbo.com": {
+    "name": "Jumbo Distributiecentra",
+    "owner": "Niels Verwoest"
+  },
+  "frigomekanik.com": {
+    "name": "FRİGO MEKANİK A.Ş",
+    "owner": "Rutger-Jan Loenen"
+  },
+  "tiptopvakmannen.nl": {
+    "name": "TipTop Vakmannen",
+    "owner": "Lilian Lubberink"
+  },
+  "lenvs.nl": {
+    "name": "L&VS Group (Alfa1 Consulting)",
+    "owner": "Arthur Dommers"
+  },
+  "quadrantbau.de": {
+    "name": "Quadrantbau",
+    "owner": "Unknown"
+  },
+  "divis.eu": {
+    "name": "DIVIS",
+    "owner": "Unknown"
+  },
+  "tobias-schmidt-steuerberatung.de": {
+    "name": "Tobias Schmidt Steuerberatung",
+    "owner": "Arthur Dommers"
+  },
+  "hermes-arzneimittel.com": {
+    "name": "HERMES Arzneimittel",
+    "owner": "Arthur Dommers"
+  },
+  "emsdetten.de": {
+    "name": "Stadt Emsdetten",
+    "owner": "Arthur Dommers"
+  },
+  "vebego.nl": {
+    "name": "Vebego Nederland",
+    "owner": "Inge Rouwenhorst"
+  },
+  "directbouwproductie.nl": {
+    "name": "directbouwproductie.nl",
+    "owner": "Unassigned"
+  },
+  "gsa.nl": {
+    "name": "GSA",
+    "owner": "Unknown"
+  },
+  "wzh.nl": {
+    "name": "Woonzorg Haaglanden (WZH)",
+    "owner": "Babs Verheij"
+  },
+  "nimobility.nl": {
+    "name": "nimobility.nl",
+    "owner": "Unassigned"
+  },
+  "tbi.nl": {
+    "name": "TBI SSC-ICT Diensten B.V.",
+    "owner": "Robert Greidanus"
+  },
+  "znb.nl": {
+    "name": "Zorgpartners Friesland",
+    "owner": "Niels Verwoest"
+  },
+  "t-mm.com": {
+    "name": "The- Modular Movement",
+    "owner": "Unknown"
+  },
+  "postfactuur.nl": {
+    "name": "postfactuur.nl",
+    "owner": "Unassigned"
+  },
+  "hbobouwenenergie.nl": {
+    "name": "HBO bouw & energie",
+    "owner": "Unknown"
+  },
+  "cvandervelde.nl": {
+    "name": "Cvandervelde",
+    "owner": "Unassigned"
+  },
+  "tijmenkroes.nl": {
+    "name": "Tijmen Kroes",
+    "owner": "Robert Greidanus"
+  },
+  "tonvanderburg.nl": {
+    "name": "Ton van der Burg",
+    "owner": ""
+  },
+  "paletvgo.nl": {
+    "name": "Palet Vastgoedonderhoud",
+    "owner": "Unassigned"
+  },
+  "protinus.nl": {
+    "name": "Protinus IT",
+    "owner": "Unknown"
+  },
+  "vbgroep.nl": {
+    "name": "Kaartgegevens Kaartgegevens ©2020 Kaartgegevens",
+    "owner": "Robert Greidanus"
+  },
+  "helmshoeve.com": {
+    "name": "helmshoeve.com",
+    "owner": "Unassigned"
+  },
+  "berghbouwsystemen.nl": {
+    "name": "Bergh Bouwsystemen",
+    "owner": "Inge Rouwenhorst"
+  },
+  "inkoop.exactonline.nl": {
+    "name": "Exact",
+    "owner": "Unassigned"
+  },
+  "process.esker.net": {
+    "name": "esker.net",
+    "owner": "Unassigned"
+  },
+  "receiptbank.me": {
+    "name": "Receipt Bank Limited",
+    "owner": "Unassigned"
+  },
+  "cellsignal.com": {
+    "name": "Cell Signaling Technology",
+    "owner": "Rutger-Jan Loenen"
+  },
+  "mpd.ae": {
+    "name": "Metropolitan Premium Properties",
+    "owner": "Unknown"
+  },
+  "nieuwreijerwaard.eu": {
+    "name": "GR Nieuw Reijerwaard (Gemeenschappelijke Regeling Nieuw Reijerwaard)",
+    "owner": "Arthur Dommers"
+  },
+  "stiebel-eltron.nl": {
+    "name": "STIEBEL ELTRON Nederland BV",
+    "owner": "Unknown"
+  },
+  "bkv.jobs": {
+    "name": "BKV",
+    "owner": "Arthur Dommers"
+  },
+  "explain.nl": {
+    "name": "Explain",
+    "owner": "Arthur Dommers"
+  },
+  "acantus.nl": {
+    "name": "Acantus | FW",
+    "owner": "Unknown"
+  },
+  "soluno.nl": {
+    "name": "Soluno BC Nederland",
+    "owner": "Unknown"
+  },
+  "itrainee.nl": {
+    "name": "iTrainee",
+    "owner": "Arthur Dommers"
+  },
+  "ggnet.nl": {
+    "name": "GGnet - FW",
+    "owner": "Wiebe Mensink"
+  },
+  "cedar.nl": {
+    "name": "Cedar B.V.",
+    "owner": "Arthur Dommers"
+  },
+  "woonservice.nl": {
+    "name": "Woonservice Westerbork - FW",
+    "owner": "Arthur Dommers"
+  },
+  "edsn.nl": {
+    "name": "EDSN (Energie Data Services Nederland)",
+    "owner": "Arthur Dommers"
+  },
+  "king.nl": {
+    "name": "King Nederland",
+    "owner": "Wiebe Mensink"
+  },
+  "schouwen-duiveland.nl": {
+    "name": "Gemeente Schouwen Duiveland",
+    "owner": "Arthur Dommers"
+  },
+  "mrdh.nl": {
+    "name": "Metropoolregio Rotterdam Den Haag",
+    "owner": "Arthur Dommers"
+  },
+  "anculus.nl": {
+    "name": "Anculus",
+    "owner": "Arthur Dommers"
+  },
+  "staphorst.nl": {
+    "name": "Gemeente Staphorst",
+    "owner": "Arthur Dommers"
+  },
+  "hegemanbouwpartners.nl": {
+    "name": "Hegeman Bouw Partners BV",
+    "owner": "Niels Verwoest"
+  },
+  "aedes.co": {
+    "name": "Aedes",
+    "owner": "Inge Rouwenhorst"
+  },
+  "conveni.nl": {
+    "name": "Conveni",
+    "owner": "Babs Verheij"
+  },
+  "henderiksklimaattechniek.nl": {
+    "name": "Henderiks Klimaattechniek",
+    "owner": "Inge Rouwenhorst"
+  },
+  "vandeklok.nl": {
+    "name": "Van de Klok BV (Raamcontract)",
+    "owner": "Robert Greidanus"
+  },
+  "iba.amsterdam.nl": {
+    "name": "Ingenieursbureau Amsterdam IBA (Gemeente Amsterdam)",
+    "owner": "Niels Verwoest"
+  },
+  "weboma.nl": {
+    "name": "Weboma",
+    "owner": "Robert Greidanus"
+  },
+  "dimencegroep.nl": {
+    "name": "DimenceGroep",
+    "owner": "Niels Verwoest"
+  },
+  "jobodebouwers.nl": {
+    "name": "Jobo de Bouwers",
+    "owner": "Inge Rouwenhorst"
+  },
+  "mat.jajo.nl": {
+    "name": "jajo.nl",
+    "owner": "Unassigned"
+  },
+  "rottinghuis.nl": {
+    "name": "Rottinghuis (VW)",
+    "owner": "Nathalie Pereboom"
+  },
+  "riboton.nl": {
+    "name": "Riboton BV",
+    "owner": "Unassigned"
+  },
+  "tahh.nl": {
+    "name": "Technisch Adviesbureau Hans Hegger",
+    "owner": "Inge Rouwenhorst"
+  },
+  "meerbouwrotterdam.nl": {
+    "name": "Meerbouw Rotterdam",
+    "owner": "Robert Greidanus"
+  },
+  "bbdw.nl": {
+    "name": "Built by the Wildt B.V. (BBDW)",
+    "owner": "Inge Rouwenhorst"
+  },
+  "gvb.nl": {
+    "name": "GVB",
+    "owner": "Babs Verheij"
+  },
+  "fastcom.nl": {
+    "name": "Unica Building Projects Datacenters",
+    "owner": "Robert Greidanus"
+  },
+  "ballast.com": {
+    "name": "Ballast",
+    "owner": "Unassigned"
+  },
+  "conferm.nl": {
+    "name": "CONFERM Powered by Remmers Bouwgroep",
+    "owner": "Unknown"
+  },
+  "hoeft-bau.de": {
+    "name": "Höft Bauunternehmen GmbH & Co. KG",
+    "owner": "Selcuk Kavakpinar"
+  },
+  "iqstaal.nl": {
+    "name": "IQStaal",
+    "owner": "Niels Verwoest"
+  },
+  "bouwbedrijfjongerius.nl": {
+    "name": "Bouwbedrijf Jongerius",
+    "owner": "Inge Rouwenhorst"
+  },
+  "goudriaanjongerius.nl": {
+    "name": "Goudriaan Jongerius",
+    "owner": "Babs Verheij"
+  },
+  "bethray.nl": {
+    "name": "Bethray Bouwmanagement",
+    "owner": "Lilian Lubberink"
+  },
+  "ballast.nedam.nl": {
+    "name": "Nedam-Automobielmaatschappij",
+    "owner": "Robert Greidanus"
+  },
+  "switchdatacenters.com": {
+    "name": "Switch Datacenter Group",
+    "owner": "Babs Verheij"
+  },
+  "parnassiagroep.nl": {
+    "name": "Parnassia Groep",
+    "owner": "Unknown"
+  },
+  "inelements.nl": {
+    "name": "Inelements",
+    "owner": ""
+  },
+  "helmbouwregie.nl": {
+    "name": "Helm Bouwregie",
+    "owner": "Peter Romeijn"
+  },
+  "vzvz.nl": {
+    "name": "VZVZ",
+    "owner": "Unknown"
+  },
+  "thuiswinkel.org": {
+    "name": "Thuiswinkel.org",
+    "owner": "Unknown"
+  },
+  "mstage.at": {
+    "name": "MSTAGE",
+    "owner": "Sarah Scheller"
+  },
+  "bbwind.de": {
+    "name": "BBWind Projektberatungsgesellschaft mbH",
+    "owner": "Arthur Dommers"
+  },
+  "gidynamics.nl": {
+    "name": "G.I. Dynamics",
+    "owner": "Unknown"
+  },
+  "doerk.nl": {
+    "name": "Doerk Advies",
+    "owner": "Robert Greidanus"
+  },
+  "goedbouwbedrijfshallen.nl": {
+    "name": "Goed-Bouw Bedrijfshallen",
+    "owner": "Inge Rouwenhorst"
+  },
+  "dekamarkt.nl": {
+    "name": "DekaMarkt",
+    "owner": "Unknown"
+  },
+  "bouwgroepgoesten.nl": {
+    "name": "Bouwgroep Goesten B.V.",
+    "owner": "Robert Greidanus"
+  },
+  "clausing.nl": {
+    "name": "Clausing Bouw Begeleiding BV",
+    "owner": "Inge Rouwenhorst"
+  },
+  "skymark.nl": {
+    "name": "Skymark B.V.",
+    "owner": ""
+  },
+  "bouwbedrijfjanvet.nl": {
+    "name": "bouwbedrijf Jan Vet",
+    "owner": "Inge Rouwenhorst"
+  },
+  "cosource.nl": {
+    "name": "CoSource",
+    "owner": "Robert Greidanus"
+  },
+  "complex.nl": {
+    "name": "Complex E-Techniek",
+    "owner": "Inge Rouwenhorst"
+  },
+  "devriesmakkum.nl": {
+    "name": "Royal Van Lent Shipyard B.V.",
+    "owner": "Robert Greidanus"
+  },
+  "anticimex.nl": {
+    "name": "Anticimex",
+    "owner": "Robert Greidanus"
+  },
+  "krabbenborgbouwmanagement.nl": {
+    "name": "Krabbenborg Bouwmanagement",
+    "owner": "Inge Rouwenhorst"
+  },
+  "gripinterieurprojecten.nl": {
+    "name": "GRIP Interieurprojecten",
+    "owner": "Inge Rouwenhorst"
+  },
+  "ptamiddennederland.nl": {
+    "name": "PTA Midden Nederland",
+    "owner": ""
+  },
+  "vanderven.nl": {
+    "name": "Aannemingsbedrijf Van der Ven",
+    "owner": "Niels Verwoest"
+  },
+  "verbakel.nl": {
+    "name": "Verbakel Bouwbedrijf",
+    "owner": "Peter Romeijn"
+  },
+  "fardoch.nl": {
+    "name": "fardoch.nl",
+    "owner": "Robert Greidanus"
+  },
+  "oekotec-gruppe.de": {
+    "name": "oekotec-gruppe.de",
+    "owner": "Mathias Wolf"
+  },
+  "tvision.de": {
+    "name": "tvision",
+    "owner": "Unassigned"
+  },
+  "rpf.bwl.de": {
+    "name": "Wirtschaftsberatung BWL",
+    "owner": "Mathias Wolf"
+  },
+  "zwolle.nl": {
+    "name": "Gemeente Zwolle (EdC)",
+    "owner": "Inge Rouwenhorst"
+  },
+  "zaffier.nl": {
+    "name": "Zaffier",
+    "owner": "Arthur Dommers"
+  },
+  "maakt-projecten.nl": {
+    "name": "Maakt Projecten",
+    "owner": "Inge Rouwenhorst"
+  },
+  "kondorwessels-amsterdam.nl": {
+    "name": "Kondor Wessels Amsterdam bv",
+    "owner": "Niels Verwoest"
+  },
+  "invoned.nl": {
+    "name": "InnovED",
+    "owner": "Inge Rouwenhorst"
+  },
+  "amc.nl": {
+    "name": "Stichting Amsterdam UMC – locatie AMC (Ed Controls)",
+    "owner": "Robert Greidanus"
+  },
+  "vsc.nl": {
+    "name": "Severfield Steel Construction Netherlands (oude Voortman Design & Build)",
+    "owner": "Robert Greidanus"
+  },
+  "deraadgroep.nl": {
+    "name": "De Raad Bouw B.V.",
+    "owner": "Babs Verheij"
+  },
+  "bambouwentechniek.nl": {
+    "name": "BAM FM Eindhoven",
+    "owner": "Robert Greidanus"
+  },
+  "klimaattechniek-hapert.nl": {
+    "name": "De Kort Luchttechnische installaties",
+    "owner": "Inge Rouwenhorst"
+  },
+  "slingerland-vastgoed.nl": {
+    "name": "Slingerland Vastgoed",
+    "owner": "Inge Rouwenhorst"
+  },
+  "batenburg-installatietechniek.nl": {
+    "name": "Batenburg Twello",
+    "owner": "Nathalie Pereboom"
+  },
+  "janssendejongbouw.nl": {
+    "name": "Janssen de Jong Bouw Zuid",
+    "owner": "Robert Greidanus"
+  },
+  "wessels-zeist.nl": {
+    "name": "Wessels Zeist bv",
+    "owner": "Niels Verwoest"
+  },
+  "wesselsrijssen.nl": {
+    "name": "Wessels Rijssen",
+    "owner": "Nathalie Pereboom"
+  },
+  "ufkesapeldoorn.nl": {
+    "name": "Ufkes Apeldoorn VW",
+    "owner": "Nathalie Pereboom"
+  },
+  "lvnl.nl": {
+    "name": "Luchtverkeersleiding Nederland (Ed Controls)",
+    "owner": "Babs Verheij"
+  },
+  "bouwbedrijvenjongen.nl": {
+    "name": "Jongen Bouwpartners Roermond VW",
+    "owner": "Niels Verwoest"
+  },
+  "huybregts-relou.nl": {
+    "name": "Huybregts Relou BV (VB Groep)",
+    "owner": "Robert Greidanus"
+  },
+  "batenburg-energietechniek.nl": {
+    "name": "Batenburg Energietechniek (Capelle)",
+    "owner": "Nathalie Pereboom"
+  },
+  "dejong.nl": {
+    "name": "A. de Jong Installatietechniek B.V.",
+    "owner": "Nathalie Pereboom"
+  },
+  "imetaal-staalbouw.nl": {
+    "name": "Imetaal Industriebau",
+    "owner": "Babs Verheij"
+  },
+  "vangendthallen.nl": {
+    "name": "Van Gendt Hallen B.V.",
+    "owner": "Lilian Lubberink"
+  },
+  "boulting.co.uk": {
+    "name": "BGEN Ltd",
+    "owner": "Rutger-Jan Loenen"
+  },
+  "uu.nl": {
+    "name": "Universiteit Utrecht",
+    "owner": "Arthur Dommers"
+  },
+  "noorderbreedte.eu": {
+    "name": "Noorderbreedte",
+    "owner": "Niels Verwoest"
+  },
+  "innax.nl": {
+    "name": "INNAX EdC",
+    "owner": "Babs Verheij"
+  },
+  "bs-bh.de": {
+    "name": "Brandschutz B. Hagenbusch",
+    "owner": "Mathias Wolf"
+  },
+  "schekman.nl": {
+    "name": "Batenburg Nijmegen",
+    "owner": "Nathalie Pereboom"
+  },
+  "kremersafbouw.nl": {
+    "name": "Kremers Afbouw B.V",
+    "owner": "Inge Rouwenhorst"
+  },
+  "stiebel-eltron-usa.com": {
+    "name": "Stiebel Eltron",
+    "owner": "Wiebe Mensink"
+  },
+  "goed-bouw.nl": {
+    "name": "Goed Bouw Bouwaannemers",
+    "owner": "Unknown"
+  },
+  "doc17.nl": {
+    "name": "DOC17",
+    "owner": "Inge Rouwenhorst"
+  },
+  "vanheurkelpen.nl": {
+    "name": "Van Heur Bouw & Onderhoud (VB groep)",
+    "owner": "Robert Greidanus"
+  },
+  "oskam.nl": {
+    "name": "Oskam Sloop & Infra",
+    "owner": "Unknown"
+  },
+  "benusbenus.nl": {
+    "name": "Bouwonderneming Gebroeders Benus",
+    "owner": "Nathalie Pereboom"
+  },
+  "edv.nl": {
+    "name": "Bouwbedrijf Eldering",
+    "owner": "Babs Verheij"
+  },
+  "gebr-verschoor.nl": {
+    "name": "BOUW- EN AANNEMINGSBEDRIJF GEBR. VERSCHOOR B.V.",
+    "owner": "Inge Rouwenhorst"
+  },
+  "osponline.nl": {
+    "name": "Batenburg Nijkerk",
+    "owner": "Nathalie Pereboom"
+  },
+  "albaconcepts.nl": {
+    "name": "Albe Advies BV",
+    "owner": "Inge Rouwenhorst"
+  },
+  "industriebouw.ballast-nedam.nl": {
+    "name": "SP Pro_Ballast-Nedam Industriebouw_1-8-21",
+    "owner": "Robert Greidanus"
+  },
+  "fardochbouwconsultancy.nl": {
+    "name": "Fàrdoch Bouwconsultancy",
+    "owner": "Inge Rouwenhorst"
+  },
+  "umt-ing.de": {
+    "name": "umt Umweltingenieure GmbH",
+    "owner": "Mathias Wolf"
+  },
+  "fireprevent.nl": {
+    "name": "Fire Prevent B.V.",
+    "owner": "Inge Rouwenhorst"
+  },
+  "cwicf.com": {
+    "name": "Clearwater International",
+    "owner": "Arthur Dommers"
+  },
+  "ip-bs.de": {
+    "name": "IP-BS Fey und Partner  Beratende Ingenieure mbB",
+    "owner": "Selcuk Kavakpinar"
+  },
+  "systemair.nl": {
+    "name": "Systemair B.V.",
+    "owner": "Babs Verheij"
+  },
+  "dohle.com": {
+    "name": "HIT Handelsgruppe GmbH & Co. KG",
+    "owner": "Mathias Wolf"
+  },
+  "rstotaalbouw.com": {
+    "name": "RS-Totaalbouw BV",
+    "owner": "Inge Rouwenhorst"
+  },
+  "d-tacs.com": {
+    "name": "D-Tacs",
+    "owner": "Johan Pijpers"
+  },
+  "jenploodgieters.nl": {
+    "name": "Installatie- en Loodgietersbedrijf J&P B.V.",
+    "owner": "Peter Romeijn"
+  },
+  "nl.mcd.com": {
+    "name": "McDonald's Nederland B.V.",
+    "owner": "Robert Greidanus"
+  },
+  "dutchview.norisq.com": {
+    "name": "norisq.com",
+    "owner": "Unassigned"
+  },
+  "berghbouw.nl": {
+    "name": "Bergh Bouw",
+    "owner": "Inge Rouwenhorst"
+  },
+  "ibizapm.com": {
+    "name": "Ibizapm",
+    "owner": "Niels Verwoest"
+  },
+  "chem.lu": {
+    "name": "Centre Hospitalier Emile Mayrisch",
+    "owner": "Sunil CJ"
+  },
+  "objectiefvgm.nl": {
+    "name": "Objectief Management BV",
+    "owner": "Unassigned"
+  },
+  "globalswitch.com": {
+    "name": "Global Switch",
+    "owner": "Peter Romeijn"
+  },
+  "avs-engineering.nl": {
+    "name": "A.V.S. Engineering BV",
+    "owner": "Inge Rouwenhorst"
+  },
+  "vbtbouw.nl": {
+    "name": "Visscher Bouw Techniek(VBT Bouw)",
+    "owner": "Inge Rouwenhorst"
+  },
+  "ib-schlingheider.de": {
+    "name": "IB-Schlingheider",
+    "owner": "Selcuk Kavakpinar"
+  },
+  "vellinga-pr.nl": {
+    "name": "Vellinga Project Realisatie",
+    "owner": "Inge Rouwenhorst"
+  },
+  "zacher-brandschutz.de": {
+    "name": "Zacher & Zacher Brandschutz GbR",
+    "owner": "Mathias Wolf"
+  },
+  "matoq.nl": {
+    "name": "Matoq dienstverlening",
+    "owner": "Inge Rouwenhorst"
+  },
+  "cef-see.org": {
+    "name": "CEF",
+    "owner": "Unknown"
+  },
+  "dakopbouwtotaal.nl": {
+    "name": "Dakopbouwtotaal",
+    "owner": "Inge Rouwenhorst"
+  },
+  "adamasgroep.nl": {
+    "name": "Adamasgroep",
+    "owner": "Inge Rouwenhorst"
+  },
+  "timmerbedrijfsander.nl": {
+    "name": "Timmerbedrijf Sander",
+    "owner": "Peter Romeijn"
+  },
+  "srbagroup.com": {
+    "name": "Srbagroup",
+    "owner": "Lilian Lubberink"
+  },
+  "locabouw.nl": {
+    "name": "Loca Bouw",
+    "owner": "Lilian Lubberink"
+  },
+  "bureautheunissen.nl": {
+    "name": "bouwkundig ontwerp- en adviesbureau Theunissen",
+    "owner": "Inge Rouwenhorst"
+  },
+  "ohmymood.com": {
+    "name": "Oh My Mood",
+    "owner": "Arthur Dommers"
+  },
+  "alvesto.nl": {
+    "name": "Alvesto",
+    "owner": "Unknown"
+  },
+  "hermes-holding.group": {
+    "name": "Hermes-Holding",
+    "owner": "Arthur Dommers"
+  },
+  "invorderingsbedrijf.nl": {
+    "name": "Invorderingsbedrijf",
+    "owner": "Unknown"
+  },
+  "nl.pfscm.org": {
+    "name": "PFSCM",
+    "owner": "Arthur Dommers"
+  },
+  "arval.at": {
+    "name": "Arval Austria",
+    "owner": "Sarah Scheller"
+  },
+  "designa.nl": {
+    "name": "Designa",
+    "owner": "Inge Rouwenhorst"
+  },
+  "energieberater-brandl.de": {
+    "name": "Energieberater Thomas Brandl",
+    "owner": "Sunil CJ"
+  },
+  "afi.global": {
+    "name": "afi.global",
+    "owner": "Rutger-Jan Loenen"
+  },
+  "metverhoeven.nl": {
+    "name": "Metverhoeven",
+    "owner": "Unassigned"
+  },
+  "hofresorts.com": {
+    "name": "hofresorts.com",
+    "owner": "Robert Greidanus"
+  },
+  "resolvegroup.nl": {
+    "name": "Resolve Group",
+    "owner": "Inge Rouwenhorst"
+  },
+  "harwoonie.nl": {
+    "name": "Harwoonie",
+    "owner": "Inge Rouwenhorst"
+  },
+  "pyloonvgm.nl": {
+    "name": "Pyloon Vastgoedmanagement B.V.",
+    "owner": "Lilian Lubberink"
+  },
+  "remahbouw.nl": {
+    "name": "Remah Bouw",
+    "owner": "Unknown"
+  },
+  "lohmar.de": {
+    "name": "Stadt Lohmar",
+    "owner": "Arthur Dommers"
+  },
+  "mmoser.com": {
+    "name": "M Moser Associates",
+    "owner": "Rutger-Jan Loenen"
+  },
+  "kampertbouw.nl": {
+    "name": "Kampert Bouw BV",
+    "owner": "Inge Rouwenhorst"
+  },
+  "iplussolutions.org": {
+    "name": "Stichting Iplussolutions",
+    "owner": "Arthur Dommers"
+  },
+  "bta-bollenstreek.nl": {
+    "name": "BTA Bollenstreek (voorheen Van der Knijff Bouwservice / VDK)",
+    "owner": "Inge Rouwenhorst"
+  },
+  "clbeheer.nl": {
+    "name": "Merel Vastgoedbeheer B.V. (voorheen Credit Linked Beheer)",
+    "owner": "Niels Verwoest"
+  },
+  "thehumanimpact.group": {
+    "name": "The Human Impact Advisors GmbH",
+    "owner": "Sarah Scheller"
+  },
+  "spitters.nl": {
+    "name": "Circet Nederland Waalre (voorheen Spitters B.V.)",
+    "owner": "Johan Pijpers"
+  },
+  "rentema-adviesbureau.nl": {
+    "name": "Rentema Adviesbureau Installatietechniek",
+    "owner": "Lilian Lubberink"
+  },
+  "regioplus.nl": {
+    "name": "RegioPlus",
+    "owner": "Arthur Dommers"
+  },
+  "snipsnaponsocial.nl": {
+    "name": "Snip Snap on Social",
+    "owner": "Arthur Dommers"
+  },
+  "tecis.de": {
+    "name": "tecis Finanzdienstleistungen",
+    "owner": "Sarah Scheller"
+  },
+  "bonbouw.nl": {
+    "name": "Bouwbedrijf Bon",
+    "owner": "Inge Rouwenhorst"
+  },
+  "huenesteinbouw.nl": {
+    "name": "Bouwbedrijf Huenestein",
+    "owner": "Lilian Lubberink"
+  },
+  "born-ermel.de": {
+    "name": "Dr. Born - Dr. Ermel GmbH",
+    "owner": "Arthur Dommers"
+  },
+  "casalt.nl": {
+    "name": "Casalt",
+    "owner": "Inge Rouwenhorst"
+  },
+  "ultrabath.nl": {
+    "name": "Ultrabath",
+    "owner": "Unassigned"
+  },
+  "nieuwenhuis-bouma.nl": {
+    "name": "Nieuwenhuis en Bouma B.V.",
+    "owner": "Lilian Lubberink"
+  },
+  "hvs-consulting.de": {
+    "name": "HvS Consulting GmbH",
+    "owner": "Arthur Dommers"
+  },
+  "sandersfritom.nl": {
+    "name": "Sanders Fritom",
+    "owner": "Inge Rouwenhorst"
+  },
+  "gmail.coml.com": {
+    "name": "Coml",
+    "owner": "Sarah Scheller"
+  },
+  "intertec.org": {
+    "name": "intertec.org",
+    "owner": "Rutger-Jan Loenen"
+  },
+  "aviko.nl": {
+    "name": "Aviko",
+    "owner": "Arthur Dommers"
+  },
+  "dezk.com": {
+    "name": "Dezk",
+    "owner": "Lilian Lubberink"
+  },
+  "beermann-partner.de": {
+    "name": "Dr Beermann WP Partner GmbH",
+    "owner": "Arthur Dommers"
+  },
+  "rwo.de": {
+    "name": "RWO GmbH",
+    "owner": "Arthur Dommers"
+  },
+  "afeer.nl": {
+    "name": "Afeer",
+    "owner": "Arthur Dommers"
+  },
+  "meinemacher.de": {
+    "name": "Meine Macher GmbH",
+    "owner": "Mathias Wolf"
+  },
+  "brand-schutz-loesungen.de": {
+    "name": "Brandschutz in Stuttgart: Brandschutzkonzepte & Brandschutzhelfer",
+    "owner": "Mathias Wolf"
+  },
+  "haantotaalbouw.nl": {
+    "name": "Haan Totaalbouw",
+    "owner": "Inge Rouwenhorst"
+  },
+  "uniekaas.nl": {
+    "name": "Uniekaas Holland BV",
+    "owner": "Arthur Dommers"
+  },
+  "wuppertaler-initiative.de": {
+    "name": "Wuppertal Initiative",
+    "owner": "Unassigned"
+  },
+  "fssc.com": {
+    "name": "FSSC Global Headoffice",
+    "owner": "Arthur Dommers"
+  },
+  "roys-dl.de": {
+    "name": "Roys-Dl",
+    "owner": "Unassigned"
+  },
+  "justsolution-elektrotechnik.de": {
+    "name": "Just Solution-Elektrotechnik GmbH",
+    "owner": "Mathias Wolf"
+  },
+  "selfstoragesystems.eu": {
+    "name": "Selfstorage Systemen B.V.",
+    "owner": "Inge Rouwenhorst"
+  },
+  "rocvantwente.nl": {
+    "name": "Roc Van Twente",
+    "owner": "Robert van der Veen"
+  },
+  "osvs.nl": {
+    "name": "Openbare Scholengroep Vlaardingen Schiedam (OSVS)",
+    "owner": "Niels Verwoest"
+  },
+  "daadbouw.nl": {
+    "name": "Daad Bouw",
+    "owner": "Peter Romeijn"
+  },
+  "akademien-kd.de": {
+    "name": "Akademien für Kirche und Diakonie GmbH",
+    "owner": "Arthur Dommers"
+  },
+  "vanlessen.nl": {
+    "name": "Bouwbedrijf Van Lessen",
+    "owner": "Inge Rouwenhorst"
+  },
+  "tlokb.nl": {
+    "name": "Toelatingsorganisatie Kwaliteitsborging Bouw",
+    "owner": "Robert Greidanus"
+  },
+  "nxfiltration.com": {
+    "name": "NX Filtration",
+    "owner": "Inge Rouwenhorst"
+  },
+  "hauraton.com": {
+    "name": "hauraton",
+    "owner": "Arthur Dommers"
+  },
+  "studiovrx.com": {
+    "name": "VRX architectuur arnhem",
+    "owner": "Unassigned"
+  },
+  "gooiconsult.nl": {
+    "name": "Gooiconsult BV",
+    "owner": "Arthur Dommers"
+  },
+  "compleet-groep.nl": {
+    "name": "Compleet Projectmanagement",
+    "owner": "Peter Romeijn"
+  },
+  "bobenheim-roxheim.de": {
+    "name": "Gemeindeverwaltung Bobenheim-Roxheim",
+    "owner": "Mathias Wolf"
+  },
+  "lighthouse-projectbegeleiding.nl": {
+    "name": "Lighthouse projectbegeleiding",
+    "owner": "Lilian Lubberink"
+  },
+  "area-os.com": {
+    "name": "AREA Occupier Solutions",
+    "owner": "Inge Rouwenhorst"
+  },
+  "sglcarbon.com": {
+    "name": "SGL CARBON GmbH",
+    "owner": "Mathias Wolf"
+  },
+  "protechnicon.nl": {
+    "name": "Protechnicon",
+    "owner": "Babs Verheij"
+  },
+  "aluchemie.com": {
+    "name": "Aluchemie",
+    "owner": "Inge Rouwenhorst"
+  },
+  "wvstahl.de": {
+    "name": "Wirtschaftsvereinigung Stahl",
+    "owner": "Arthur Dommers"
+  },
+  "l2a-agencement.com": {
+    "name": "L2A Agencement",
+    "owner": "Robert Greidanus"
+  },
+  "testarda.nl": {
+    "name": "Testarda",
+    "owner": "Lilian Lubberink"
+  },
+  "bm-bouwmanagement.nl": {
+    "name": "BM-Bouwmanagement",
+    "owner": "Inge Rouwenhorst"
+  },
+  "deveenhoutconstructiebv.nl": {
+    "name": "De Veen Houtconstructie BV",
+    "owner": "Inge Rouwenhorst"
+  },
+  "inkoopfacturen.nl": {
+    "name": "inkoopfacturen.nl",
+    "owner": "Unassigned"
+  },
+  "wn.nl": {
+    "name": "wn.nl",
+    "owner": "Unassigned"
+  },
+  "saltoservice.nl": {
+    "name": "Access Control Europe",
+    "owner": "Niels Verwoest"
+  },
+  "vanberkelaannemers.nl": {
+    "name": "Van Berkel Aannemers Leimuiden BV",
+    "owner": "Niels Verwoest"
+  },
+  "kw1c.nl": {
+    "name": "Koning Willem 1 College",
+    "owner": "Robert van der Veen"
+  },
+  "dakmeester.nl": {
+    "name": "Stichting Dakmeester",
+    "owner": "Robert Greidanus"
+  },
+  "novar.nl": {
+    "name": "Novar Nederland",
+    "owner": "Niels Verwoest"
+  },
+  "rotterdamfestivals.nl": {
+    "name": "Rotterdam Festivals",
+    "owner": "Unassigned"
+  },
+  "akor-nijverdal.nl": {
+    "name": "Akor Nijverdal",
+    "owner": "Nathalie Pereboom"
+  },
+  "rouwhorstbouw.nl": {
+    "name": "Rouwhorst Bouw",
+    "owner": "Lilian Lubberink"
+  },
+  "bohmerbouwmanagement.nl": {
+    "name": "Böhmer Bouwmanagement & Advies",
+    "owner": "Inge Rouwenhorst"
+  },
+  "brandschutz-best.de": {
+    "name": "Brandschutz Best",
+    "owner": "Mathias Wolf"
+  },
+  "civa-bouwpartners.nl": {
+    "name": "Civa-Bouwpartners",
+    "owner": "Lilian Lubberink"
+  },
+  "metiundo.io": {
+    "name": "Metiundo",
+    "owner": "Sarah Scheller"
+  },
+  "pieters-bouwheer.nl": {
+    "name": "Pieters-Bouwheer",
+    "owner": "Inge Rouwenhorst"
+  },
+  "pti.nl": {
+    "name": "pti",
+    "owner": "Wiebe Mensink"
+  },
+  "bezirk-oberbayern.de": {
+    "name": "Bezirk Oberbayern",
+    "owner": "Arthur Dommers"
+  },
+  "quadraatgebouwbeheer.nl": {
+    "name": "Quadraat gebouwbeheer",
+    "owner": "Lilian Lubberink"
+  },
+  "curriebrown.com": {
+    "name": "Currie & Brown",
+    "owner": "Mathias Wolf"
+  },
+  "facility-service.nl": {
+    "name": "Dré’s Facility Service",
+    "owner": "Inge Rouwenhorst"
+  },
+  "bcsg.de": {
+    "name": "BCS GMBH - BUILDING COMPLETE SOLUTIONS",
+    "owner": "Selcuk Kavakpinar"
+  },
+  "agema-gruppe.de": {
+    "name": "Konstragema GmbH",
+    "owner": "Selcuk Kavakpinar"
+  },
+  "kontakt.al": {
+    "name": "Kontakt LTD",
+    "owner": "Rutger-Jan Loenen"
+  },
+  "bluetuliphomes.nl": {
+    "name": "Blue Tulip Homes",
+    "owner": "Inge Rouwenhorst"
+  },
+  "plukon.nl": {
+    "name": "Plukon",
+    "owner": "Niels Verwoest"
+  },
+  "hovingbrandbescherming.nl": {
+    "name": "Hoving Brandbescherming-failliet",
+    "owner": "Niels Verwoest"
+  },
+  "faber-wijnberg.nl": {
+    "name": "Faber Wijnberg Installatietechniek",
+    "owner": "Nathalie Pereboom"
+  },
+  "mvanl.nl": {
+    "name": "MVA B.V. (dochterbedrijf Lenferink Vastgoedonderhoud)",
+    "owner": "Niels Verwoest"
+  },
+  "springrealestate.com": {
+    "name": "Spring Real Estate",
+    "owner": "Unassigned"
+  },
+  "arkplus.nl": {
+    "name": "ARK+",
+    "owner": "Inge Rouwenhorst"
+  },
+  "bass.nrw": {
+    "name": "Bass",
+    "owner": "Mathias Wolf"
+  },
+  "chandlerkbs.com": {
+    "name": "RBSM",
+    "owner": "Rutger-Jan Loenen"
+  },
+  "probevo.de": {
+    "name": "probevo",
+    "owner": "Selcuk Kavakpinar"
+  },
+  "bakkertzandt.nl": {
+    "name": "Technisch Installatiebedrijf Bakker",
+    "owner": "Inge Rouwenhorst"
+  },
+  "hollandsehoogtes.nl": {
+    "name": "Cannamax Operations BV",
+    "owner": "Inge Rouwenhorst"
+  },
+  "investium.nl": {
+    "name": "Investium Holding B.V.",
+    "owner": "Inge Rouwenhorst"
+  },
+  "inp-e.com": {
+    "name": "INP Deutschland GmbH",
+    "owner": "Arthur Dommers"
+  },
+  "alprokon.com": {
+    "name": "Alprokon",
+    "owner": "Inge Rouwenhorst"
+  },
+  "burovanstigt.nl": {
+    "name": "Buro van Stigt",
+    "owner": "Inge Rouwenhorst"
+  },
+  "housing-heroes.nl": {
+    "name": "Housing Heroes - Faillissement aangevraagd 22/4/2025",
+    "owner": "Lilian Lubberink"
+  },
+  "blueincite.de": {
+    "name": "Blueincite",
+    "owner": "Arthur Dommers"
+  },
+  "holdbuildings.com": {
+    "name": "Hold B.V.",
+    "owner": "Inge Rouwenhorst"
+  },
+  "ifource.nl": {
+    "name": "iFource",
+    "owner": "Inge Rouwenhorst"
+  },
+  "dewaarden.nl": {
+    "name": "Stichting de Waarden",
+    "owner": "Wiebe Mensink"
+  },
+  "biebouwadvies.nl": {
+    "name": "Biebouwadvies",
+    "owner": "Inge Rouwenhorst"
+  },
+  "marschnerblitzschutz.de": {
+    "name": "Marschner Blitzschutzbau GmbH & Co. KG",
+    "owner": "Mathias Wolf"
+  },
+  "upretail.com": {
+    "name": "Upretail",
+    "owner": "Lilian Lubberink"
+  },
+  "ing-ckr.de": {
+    "name": "Ingenieurbüro CKR",
+    "owner": "Mathias Wolf"
+  },
+  "abt.sr": {
+    "name": "Adviesbureau Bouw Techniek (ABT Suriname)",
+    "owner": "Inge Rouwenhorst"
+  },
+  "powerfield.nl": {
+    "name": "PowerField Netherlands B.V.",
+    "owner": "Robert Greidanus"
+  },
+  "ddeggroup.nl": {
+    "name": "Buitenplaats Vechtoever BV",
+    "owner": "Inge Rouwenhorst"
+  },
+  "apto.nl": {
+    "name": "Apto Architects",
+    "owner": "Inge Rouwenhorst"
+  },
+  "obenv.nl": {
+    "name": "OB&V holding BV",
+    "owner": "Robert Greidanus"
+  },
+  "projectz29.nl": {
+    "name": "Projectz 29",
+    "owner": "Inge Rouwenhorst"
+  },
+  "devriesenvanweel.nl": {
+    "name": "De Vries en van Weel Bouwgroep",
+    "owner": "Niels Verwoest"
+  },
+  "mainz.creditreform.de": {
+    "name": "Creditreform",
+    "owner": "Arthur Dommers"
+  },
+  "timmerbedrijfkooi.nl": {
+    "name": "Timmerbedrijf kooi BV",
+    "owner": "Inge Rouwenhorst"
+  },
+  "mundo.nl": {
+    "name": "Kinderopvang Mundo",
+    "owner": "Arthur Dommers"
+  },
+  "cosun.com": {
+    "name": "Cosun RD&I",
+    "owner": "Arthur Dommers"
+  },
+  "poelman-vof.nl": {
+    "name": "Poelman",
+    "owner": "Lilian Lubberink"
+  },
+  "schildersbedrijfhoogstraten.nl": {
+    "name": "Schildersbedrijf Hoogstraten Haarzuilens B.V.",
+    "owner": "Lilian Lubberink"
+  },
+  "ewz.nl": {
+    "name": "EWZ Adviseurs BV",
+    "owner": "Inge Rouwenhorst"
+  },
+  "pk.lueneburg.de": {
+    "name": "PK Lüneburg",
+    "owner": "Arthur Dommers"
+  },
+  "over.gvb.nl": {
+    "name": "GVB Veren",
+    "owner": "Babs Verheij"
+  },
+  "www.vd-bouw.nl": {
+    "name": "VD Ontwerp en realisatie BV",
+    "owner": "Lilian Lubberink"
+  },
+  "472studio.com": {
+    "name": "472 Studio Group",
+    "owner": "Rutger-Jan Loenen"
+  },
+  "nwz.nl": {
+    "name": "Noordwest Ziekenhuisgroep | EC",
+    "owner": "Lilian Lubberink"
+  },
+  "landefeld.de": {
+    "name": "Landefeld Druckluft und Hydraulik GmbH",
+    "owner": "Selcuk Kavakpinar"
+  },
+  "dzbeveiliging.nl": {
+    "name": "DZBeveiliging",
+    "owner": "Wiebe Mensink"
+  },
+  "lanowv.nl": {
+    "name": "LANOWV",
+    "owner": "Lilian Lubberink"
+  },
+  "trec.nl": {
+    "name": "TREC Development Services (TDS)",
+    "owner": "Lilian Lubberink"
+  },
+  "gourmet.nl": {
+    "name": "Gourmet",
+    "owner": "Lilian Lubberink"
+  },
+  "bouwmeestersbv.nl": {
+    "name": "Bouwmeesters BV",
+    "owner": "Niels Verwoest"
+  },
+  "pro-inox.pl": {
+    "name": "Pro-Inox",
+    "owner": "Rutger-Jan Loenen"
+  },
+  "akkermanbouwsupport.nl": {
+    "name": "Akkerman Bouwsupport",
+    "owner": "Inge Rouwenhorst"
+  },
+  "tga-planung-lindhorst.de": {
+    "name": "D. Lindhorst TGA Planung GmbH",
+    "owner": "Selcuk Kavakpinar"
+  },
+  "dejagerdetachering.com": {
+    "name": "De Jager Detachering B.V.",
+    "owner": "Niels Verwoest"
+  },
+  "agprojectpartners.nl": {
+    "name": "AG Projectpartners",
+    "owner": "Nathalie Pereboom"
+  },
+  "fabriserv.de": {
+    "name": "FabriServ Liegenschaftsbetreuung",
+    "owner": "Mathias Wolf"
+  },
+  "applexion.com": {
+    "name": "Applexion",
+    "owner": "Rutger-Jan Loenen"
+  },
+  "fyrian.nl": {
+    "name": "FYRIAN",
+    "owner": "Lilian Lubberink"
+  },
+  "scsoft.de": {
+    "name": "SCSoft-ConceptGmbH",
+    "owner": "Arthur Dommers"
+  },
+  "veluwseonderwijsgroep.nl": {
+    "name": "Veluwse Onderwijsgroep",
+    "owner": "Inge Rouwenhorst"
+  },
+  "wemesprojecten.nl": {
+    "name": "Wemes Projecten B.V.",
+    "owner": "Lilian Lubberink"
+  },
+  "hak4t.com": {
+    "name": "Hak4t groep",
+    "owner": "Niels Verwoest"
+  },
+  "huisintveldbouw.nl": {
+    "name": "Huis in 't Veld Interim Management",
+    "owner": "Lilian Lubberink"
+  },
+  "orangeim.nl": {
+    "name": "OrangeIM",
+    "owner": "Lilian Lubberink"
+  },
+  "pqr.nl": {
+    "name": "PQR",
+    "owner": "Wiebe Mensink"
+  },
+  "cubecold.com": {
+    "name": "CubeCold (FW)",
+    "owner": "Arthur Dommers"
+  },
+  "stadt-speyer.de": {
+    "name": "Stadtverwaltung Speyer                                                                                                                                                                                                                                                          ",
+    "owner": "Mathias Wolf"
+  },
+  "verhaegh-bouw.nl": {
+    "name": "Verhaegh Bouw",
+    "owner": "Robert Greidanus"
+  },
+  "betonbouwcombinatie.nl": {
+    "name": "BBC Betonbouw",
+    "owner": "Inge Rouwenhorst"
+  },
+  "cardonpartners.be": {
+    "name": "Cardon & partners",
+    "owner": "Arthur Dommers"
+  },
+  "pelsrijcken.nl": {
+    "name": "Pels Rijcken (FW)",
+    "owner": "Arthur Dommers"
+  },
+  "ddock.com": {
+    "name": "D/Dock",
+    "owner": "Lilian Lubberink"
+  },
+  "dorenbosarchitekten.nl": {
+    "name": "Dorenbos Architecten",
+    "owner": "Lilian Lubberink"
+  },
+  "vreeburginstallatieadvies.nl": {
+    "name": "Vreeburg Installatie Advies",
+    "owner": "Inge Rouwenhorst"
+  },
+  "hwbv.nl": {
+    "name": "H&W Totaaldak B.V.",
+    "owner": "Babs Verheij"
+  },
+  "dutchview.com": {
+    "name": "Ed Controls",
+    "owner": "Arthur Dommers"
+  },
+  "pkwaterbouw.nl": {
+    "name": "PK Waterbouw",
+    "owner": "Lilian Lubberink"
+  },
+  "se-aeropa.be": {
+    "name": "S.E. Aeropa",
+    "owner": "Inge Rouwenhorst"
+  },
+  "bv3vai.nl": {
+    "name": "BV3 Vastgoed Architecten Ingenieurs",
+    "owner": "Inge Rouwenhorst"
+  },
+  "10yards.group": {
+    "name": "10 yards",
+    "owner": "Lilian Lubberink"
+  },
+  "decathlon.com": {
+    "name": "Decathlon",
+    "owner": "Arthur Dommers"
+  },
+  "dve-ps.nl": {
+    "name": "DVE Project Support",
+    "owner": "Lilian Lubberink"
+  },
+  "tomarkbouw.nl": {
+    "name": "tomarkbouw.nl",
+    "owner": "Robert Greidanus"
+  },
+  "walravensafety.nl": {
+    "name": "Walraven Safety",
+    "owner": "Inge Rouwenhorst"
+  },
+  "feelsecureprojects.nl": {
+    "name": "Feel Secure",
+    "owner": "Lilian Lubberink"
+  },
+  "qomplex.eu": {
+    "name": "Qomplex",
+    "owner": "Lilian Lubberink"
+  },
+  "polyplan-kreikenbaum.eu": {
+    "name": "Polyplan-Kreikenbaum",
+    "owner": "Arthur Dommers"
+  },
+  "betonuitvoering.nl": {
+    "name": "betonuitvoering.nl",
+    "owner": "Inge Rouwenhorst"
+  },
+  "polestarcapital.nl": {
+    "name": "Polestar Capital",
+    "owner": "Arthur Dommers"
+  },
+  "euroconstruct.net": {
+    "name": "Euroconstruct",
+    "owner": "Inge Rouwenhorst"
+  },
+  "inter-groep.nl": {
+    "name": "INTERKOZIJN B.V.",
+    "owner": "Niels Verwoest"
+  },
+  "noordwijzer.nl": {
+    "name": "Noordwijzer",
+    "owner": "Robert Greidanus"
+  },
+  "firda.nl": {
+    "name": "Firda",
+    "owner": "Robert van der Veen"
+  },
+  "bbmt.nl": {
+    "name": "BBMT",
+    "owner": "Niels Verwoest"
+  },
+  "qwinq.nl": {
+    "name": "Qwinq",
+    "owner": "Inge Rouwenhorst"
+  },
+  "fipro-consulting.de": {
+    "name": "FiPro Consulting",
+    "owner": "Mathias Wolf"
+  },
+  "xyclegroup.com": {
+    "name": "Xycle",
+    "owner": "Peter Romeijn"
+  },
+  "advisiq.nl": {
+    "name": "Advisiq",
+    "owner": "Inge Rouwenhorst"
+  },
+  "steef.tech": {
+    "name": "STEEF Technische Ondersteuning",
+    "owner": "Inge Rouwenhorst"
+  },
+  "vanpijkereninterim.nl": {
+    "name": "Van Pijkeren Interim B.V.",
+    "owner": "Lilian Lubberink"
+  },
+  "bouwvisieplus.nl": {
+    "name": "Bouwvisie+",
+    "owner": "Inge Rouwenhorst"
+  },
+  "upcycle-bouw.nl": {
+    "name": "Upcycle Bouw",
+    "owner": "Inge Rouwenhorst"
+  },
+  "devriesbouwconcept.nl": {
+    "name": "De Vries bouwconcept ",
+    "owner": "Inge Rouwenhorst"
+  },
+  "franziskus.net": {
+    "name": "Franziskus (FW)",
+    "owner": "Arthur Dommers"
+  },
+  "inbomabv.nl": {
+    "name": "Inboma",
+    "owner": "Inge Rouwenhorst"
+  },
+  "keistadtotaalprojecten.nl": {
+    "name": "Keistad totaal projecten (Interior Finishers B.V.)",
+    "owner": "Inge Rouwenhorst"
+  },
+  "pia-automation.com": {
+    "name": "PIA Automation",
+    "owner": "Lilian Lubberink"
+  },
+  "woutersprojecten.nl": {
+    "name": "Wouters Projecten",
+    "owner": "Kristine Kirakosyan"
+  },
+  "reusen.nl": {
+    "name": "Bouwbedrijf Reusen B.V.",
+    "owner": "Lilian Lubberink"
+  },
+  "mkb.de": {
+    "name": "Mindener Kreisbahnen GmbH",
+    "owner": "Selcuk Kavakpinar"
+  },
+  "greimel.net": {
+    "name": "GREIMEL IT-Systemhaus GmbH",
+    "owner": "Mathias Wolf"
+  },
+  "sv-elektro-busch.de": {
+    "name": "SV Büro Elektro Daniel Busch",
+    "owner": "Selcuk Kavakpinar"
+  },
+  "ristobv.nl": {
+    "name": "RistoBV",
+    "owner": "Inge Rouwenhorst"
+  },
+  "rienksadviseurs.nl": {
+    "name": "Rienks Adviseurs (Ontwikkelingscombinatie KJ Plein CV)",
+    "owner": "Inge Rouwenhorst"
+  },
+  "bouwserviceoolders.nl": {
+    "name": "Bouwservice Oolders",
+    "owner": "Inge Rouwenhorst"
+  },
+  "jajo.com": {
+    "name": "Janssen de Jong Groep",
+    "owner": "Rutger-Jan Loenen"
+  },
+  "rvmgroep.nl": {
+    "name": "RVM Groep Vestiging Den Haag",
+    "owner": "Niels Verwoest"
+  },
+  "m8projects.nl": {
+    "name": "M8projects B.V.",
+    "owner": "Lilian Lubberink"
+  },
+  "www.jaehne-bau.de": {
+    "name": "Jähne Baubetreuung & Beratung",
+    "owner": "Selcuk Kavakpinar"
+  },
+  "hooghwerff.nl": {
+    "name": "Aannemingsbedrijf P. & G. Hooghwerff",
+    "owner": "Lilian Lubberink"
+  },
+  "zvhbzo.nl": {
+    "name": "Zorg- en Veiligheidshuis Brabant Zuidoost",
+    "owner": "Arthur Dommers"
+  },
+  "ambytion-cm.com": {
+    "name": "Ambytion",
+    "owner": "Inge Rouwenhorst"
+  },
+  "gertjansen.nl": {
+    "name": "Bouwbedrijf Gert Jansen",
+    "owner": "Inge Rouwenhorst"
+  },
+  "tmdafbouw.nl": {
+    "name": "TMD Afbouw BV",
+    "owner": "Inge Rouwenhorst"
+  },
+  "dockbeheer.nl": {
+    "name": "Dock Beheer BV",
+    "owner": "Lilian Lubberink"
+  },
+  "1komma5grad.com": {
+    "name": "1KOMMA5°",
+    "owner": "Arthur Dommers"
+  },
+  "varobouw.nl": {
+    "name": "VARO Bouw",
+    "owner": "Robert Greidanus"
+  },
+  "bume.nl": {
+    "name": "Bumé Bouw en Onderhoud",
+    "owner": "Robert Greidanus"
+  },
+  "dbl-lunteren.nl": {
+    "name": "DBL Architecten (D.B.L. Ontwerp- en Tekenbureau B.V.)",
+    "owner": "Inge Rouwenhorst"
+  },
+  "buildingretail.nl": {
+    "name": "Building Retail",
+    "owner": "Robert Greidanus"
+  },
+  "quintadosbugalhos.com": {
+    "name": "Bugalhos Unip. lda",
+    "owner": "Inge Rouwenhorst"
+  },
+  "d-vl.de": {
+    "name": "Diepenbrock Versicherungsmakler GmbH & Co. KG",
+    "owner": "Arthur Dommers"
+  },
+  "vandenheuvelengelen.nl": {
+    "name": "Van den Heuvel Engelen Infra B.V.",
+    "owner": "Peter Romeijn"
+  },
+  "energyretrofit.nl": {
+    "name": "ENERGY RETROFIT",
+    "owner": "Lilian Lubberink"
+  },
+  "witworkx.nl": {
+    "name": "Witworkx",
+    "owner": "Lilian Lubberink"
+  },
+  "pleijsierbouwenonderhoud.nl": {
+    "name": "Pleijsier Bouw en Onderhoud",
+    "owner": "Babs Verheij"
+  },
+  "stamonderhoud.com": {
+    "name": "Stam onderhoud",
+    "owner": "Inge Rouwenhorst"
+  },
+  "diageo.com": {
+    "name": "Diageo",
+    "owner": "Rutger-Jan Loenen"
+  },
+  "bcn-groep.nl": {
+    "name": "BCN-Groep BV",
+    "owner": "Lilian Lubberink"
+  },
+  "houtengineeringmanagement.com": {
+    "name": "HOUT Engineering Management",
+    "owner": "Lilian Lubberink"
+  },
+  "sanseninternational.tax": {
+    "name": "Sansen International Tax Lawyers",
+    "owner": "Arthur Dommers"
+  },
+  "autron.nl": {
+    "name": "Autron B.V.",
+    "owner": "Inge Rouwenhorst"
+  },
+  "vandalenschilders.nl": {
+    "name": "Van Dalen Schilderwerken",
+    "owner": "Inge Rouwenhorst"
+  },
+  "brandschutz-st.de": {
+    "name": "Stieven Treder Brandschutz",
+    "owner": "Mathias Wolf"
+  },
+  "bentukbalok.com": {
+    "name": "Bentuk Balok",
+    "owner": "Rutger-Jan Loenen"
+  },
+  "ebs-brandschutz.de": {
+    "name": "EBS Brandschutz GmbH",
+    "owner": "Mathias Wolf"
+  },
+  "kamphuis-timmerwerken.nl": {
+    "name": "Kamphuis Timmerwerken",
+    "owner": "Inge Rouwenhorst"
+  },
+  "normay.com": {
+    "name": "Moess BV / Normay BV",
+    "owner": "Lilian Lubberink"
+  },
+  "mcfegganbrown.co.uk": {
+    "name": "McFeggan Brown",
+    "owner": "Rutger-Jan Loenen"
+  },
+  "diboo.nl": {
+    "name": "Diboo BV",
+    "owner": "Niels Verwoest"
+  },
+  "hermanns.de": {
+    "name": "HERMANNS HTI-Bau GmbH u. Co. KG",
+    "owner": "Selcuk Kavakpinar"
+  },
+  "defuijk.nl": {
+    "name": "de Fuijk",
+    "owner": "Lilian Lubberink"
+  },
+  "teamunscripted.nl": {
+    "name": "Teamunscripted",
+    "owner": "Lilian Lubberink"
+  },
+  "kwaliteitsborger.nl": {
+    "name": "Kwaliteitsborger.nl",
+    "owner": "Inge Rouwenhorst"
+  },
+  "brinkersbouwmanagement.nl": {
+    "name": "Brinkers bouwmanagement",
+    "owner": "Inge Rouwenhorst"
+  },
+  "lcgroenprojecten.nl": {
+    "name": "LC Groenprojecten",
+    "owner": "Lilian Lubberink"
+  },
+  "arkesteijnbouwadvies.nl": {
+    "name": "Arkesteijn bouwadvies",
+    "owner": "Inge Rouwenhorst"
+  },
+  "res.wemake.nl": {
+    "name": "WeMake Projects BV",
+    "owner": "Lilian Lubberink"
+  },
+  "mgzl.nl": {
+    "name": "St. Meander Groep Zuid Limburg",
+    "owner": "Inge Rouwenhorst"
+  },
+  "mariodeboer.nl": {
+    "name": "Mario de Boer Bouwmanagement",
+    "owner": "Lilian Lubberink"
+  },
+  "bomhardip.com": {
+    "name": "BomhardIP",
+    "owner": "Arthur Dommers"
+  },
+  "degroot-bouwbegeleiding.nl": {
+    "name": "De Groot Bouwbegeleiding",
+    "owner": "Lilian Lubberink"
+  },
+  "adviesbureau-hageman.nl": {
+    "name": "Adviesbureau Hageman",
+    "owner": "Babs Verheij"
+  },
+  "oostingh.eu": {
+    "name": "Oostingh BV",
+    "owner": "Lilian Lubberink"
+  },
+  "lasschebouw.nl": {
+    "name": "Lassche Bouw",
+    "owner": "Inge Rouwenhorst"
+  },
+  "rikselij.nl": {
+    "name": "RIK ontwerp en bouwadvies",
+    "owner": "Lilian Lubberink"
+  },
+  "inspectplus.nl": {
+    "name": "Inspect+",
+    "owner": "Inge Rouwenhorst"
+  },
+  "hankel.de": {
+    "name": "Ingenieurbüro für Brandschutz Hankel",
+    "owner": "Selcuk Kavakpinar"
+  },
+  "btlocalbusiness.co.uk": {
+    "name": "United Communications LTD",
+    "owner": "Arthur Dommers"
+  },
+  "qualityfloor.nl": {
+    "name": "Qualityfloor B.V.",
+    "owner": "Lilian Lubberink"
+  },
+  "verstoep.nl": {
+    "name": "Verstoep Ontwikkeling",
+    "owner": "Inge Rouwenhorst"
+  },
+  "parella-group.com": {
+    "name": "Parella",
+    "owner": "Niels Verwoest"
+  },
+  "fullhousevastgoed.nl": {
+    "name": "Fullhouse Vastgoed",
+    "owner": "Niels Verwoest"
+  },
+  "arkesteijnpena.nl": {
+    "name": "Arkesteijn Projectbegeleiding & Advies BV",
+    "owner": "Inge Rouwenhorst"
+  },
+  "keukenhof.nl": {
+    "name": "Keukenhof",
+    "owner": "Babs Verheij"
+  },
+  "bouwersvanmorgen.n": {
+    "name": "Bouwers van Morgen",
+    "owner": "Robert Greidanus"
+  },
+  "hwd-duurzaam.nl": {
+    "name": "HWD Duurzaam",
+    "owner": "Inge Rouwenhorst"
+  },
+  "vandenbergbouwkundigen.nl": {
+    "name": "Van den Berg Bouwkundigen",
+    "owner": "Lilian Lubberink"
+  },
+  "evema.nl": {
+    "name": "Evema Telecom b.v.",
+    "owner": "Babs Verheij"
+  },
+  "mbwbouw.nl": {
+    "name": "MBW Bouw",
+    "owner": "Niels Verwoest"
+  },
+  "ecobouw.nu": {
+    "name": "ECO",
+    "owner": "Inge Rouwenhorst"
+  },
+  "klinikum-landsberg.de": {
+    "name": "Klinikum Landsberg am Lech",
+    "owner": "Sarah Scheller"
+  },
+  "xs4all.nl": {
+    "name": "Hogey International BV",
+    "owner": "Lilian Lubberink"
+  },
+  "wolterinck-ba.nl": {
+    "name": "Wolterinck Bouw & Advies",
+    "owner": "Peter Romeijn"
+  },
+  "hotmail.nl": {
+    "name": "Timmerwerk Slagter bv",
+    "owner": "Inge Rouwenhorst"
+  },
+  "welvaarts.com": {
+    "name": "Welvaarts",
+    "owner": "Unassigned"
+  },
+  "cerfix.nl": {
+    "name": "Cerfix Constructies BV",
+    "owner": "Inge Rouwenhorst"
+  },
+  "hapam.com": {
+    "name": "Hapam",
+    "owner": "Nathalie Pereboom"
+  },
+  "partner.ac": {
+    "name": "Partner Accountants",
+    "owner": "Sarah Scheller"
+  },
+  "reix.nl": {
+    "name": "REIX",
+    "owner": "Peter Romeijn"
+  },
+  "thijsenco.nl": {
+    "name": "Thijs Engineering & Consultancy bv",
+    "owner": "Inge Rouwenhorst"
+  },
+  "penta-architecten.nl": {
+    "name": "Penta Architecten",
+    "owner": "Nathalie Pereboom"
+  },
+  "schroijenbouwadvies.nl": {
+    "name": "Schroijen Bouwadvies",
+    "owner": "Inge Rouwenhorst"
+  },
+  "www.abtwassenaar.nl": {
+    "name": "abtWassenaar B.V.",
+    "owner": "Babs Verheij"
+  },
+  "mailinator.com": {
+    "name": "Dutchview",
+    "owner": ""
+  },
+  "keesrosbouw.nl": {
+    "name": "Kees Ros Bouw B.V.",
+    "owner": "Robert Greidanus"
+  },
+  "dagbouw.nl": {
+    "name": "dagbouw",
+    "owner": "Inge Rouwenhorst"
+  }
+}

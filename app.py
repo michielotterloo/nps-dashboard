@@ -5,6 +5,7 @@ import plotly.graph_objects as go
 from pathlib import Path
 from io import BytesIO
 import requests
+import json
 import warnings
 
 warnings.filterwarnings("ignore")
@@ -24,6 +25,46 @@ LABELS = {"EDC": "Ed Controls", "FW": "Flexwhere"}
 NPS_TARGETS = {"EDC": 50, "FW": 32}
 EXCEL_PATH = Path(__file__).parent / "data" / "NPS Dutchview.xlsx"
 EXCLUDED_DOMAINS = {"dutchview.com", "mailinator.com"}
+GENERIC_EMAIL_DOMAINS = {
+    "gmail.com", "hotmail.com", "outlook.com", "live.nl", "live.com",
+    "yahoo.com", "icloud.com", "me.com", "msn.com", "ziggo.nl",
+    "kpnmail.nl", "xs4all.nl", "planet.nl", "hetnet.nl", "home.nl",
+    "upcmail.nl", "casema.nl", "chello.nl", "quicknet.nl", "tele2.nl",
+    "online.nl", "solcon.nl", "zonnet.nl", "versatel.nl", "wxs.nl",
+    "gmail.de", "web.de", "gmx.de", "gmx.net", "t-online.de",
+    "freenet.de", "arcor.de", "yahoo.de", "hotmail.de", "outlook.de",
+    "googlemail.com",
+}
+CUSTOMER_LOOKUP_PATH = Path(__file__).parent / "data" / "customer_lookup.json"
+
+
+@st.cache_data(ttl=3600)
+def load_customer_lookup():
+    """Load domain → customer name/owner mapping from pre-built lookup."""
+    if not CUSTOMER_LOOKUP_PATH.exists():
+        return {}
+    with open(CUSTOMER_LOOKUP_PATH) as f:
+        return json.load(f)
+
+
+def classify_domain(domain, customer_lookup):
+    """Classify a domain into: Klant (in CRM), Particulier (generic email), Overig."""
+    d = (domain or "").lower().strip()
+    if d in customer_lookup:
+        return "Klant"
+    elif d in GENERIC_EMAIL_DOMAINS:
+        return "Particulier"
+    else:
+        return "Overig"
+
+
+def domain_to_name(domain, customer_lookup):
+    """Convert domain to customer name if known."""
+    d = (domain or "").lower().strip()
+    entry = customer_lookup.get(d)
+    if entry:
+        return entry.get("name") or domain
+    return domain
 
 
 @st.cache_data(ttl=3600)
@@ -92,6 +133,14 @@ def load_product(prefix):
     resp = resp[~resp["DOMAIN"].str.lower().isin(EXCLUDED_DOMAINS)]
     resp = resp.sort_values("DATE").reset_index(drop=True)
 
+    # Enrich with customer names from HubSpot
+    customer_lookup = load_customer_lookup()
+    resp["CUSTOMER"] = resp["DOMAIN"].apply(lambda d: domain_to_name(d, customer_lookup))
+    resp["DOMAIN_TYPE"] = resp["DOMAIN"].apply(lambda d: classify_domain(d, customer_lookup))
+    resp["OWNER"] = resp["DOMAIN"].apply(
+        lambda d: (customer_lookup.get((d or "").lower().strip()) or {}).get("owner") or ""
+    )
+
     # Add time columns
     resp["MONTH"] = resp["DATE"].dt.to_period("M").astype(str)
     resp["WEEK"] = resp["DATE"].dt.strftime("%G-W%V")
@@ -115,6 +164,7 @@ def load_product(prefix):
         "monthly": monthly,
         "weekly": weekly,
         "customers": customers,
+        "customer_lookup": customer_lookup,
     }
 
 
@@ -168,9 +218,12 @@ def build_weekly(resp):
 
 def build_customers(resp):
     cust_agg = (
-        resp.dropna(subset=["SCORE", "DOMAIN"])
-        .groupby("DOMAIN")
+        resp.dropna(subset=["SCORE", "CUSTOMER"])
+        .groupby("CUSTOMER")
         .agg(
+            DOMAIN=("DOMAIN", "first"),
+            DOMAIN_TYPE=("DOMAIN_TYPE", "first"),
+            OWNER=("OWNER", "first"),
             Responses=("SCORE", "count"),
             Avg_Score=("SCORE", "mean"),
             Promoters=("NPS_CAT", lambda x: (x == "Promoter (8-10)").sum()),
@@ -511,14 +564,46 @@ with tab2:
         st.plotly_chart(fig_area, width="stretch")
 
 with tab3:
-    min_responses = st.slider("Minimum responses", 1, 100, 10, key="min_resp")
-    cust_filtered = customers[customers["Responses"] >= min_responses].copy()
+    # Domain type filter
+    filter_col1, filter_col2 = st.columns([1, 3])
+    with filter_col1:
+        domain_type_filter = st.multiselect(
+            "Type",
+            ["Klant", "Overig", "Particulier"],
+            default=["Klant", "Overig"],
+            key="domain_type_filter",
+        )
+    with filter_col2:
+        min_responses = st.slider("Minimum responses", 1, 100, 10, key="min_resp")
+
+    cust_filtered = customers[
+        (customers["Responses"] >= min_responses) &
+        (customers["DOMAIN_TYPE"].isin(domain_type_filter))
+    ].copy()
+
+    # Show summary counts per type
+    type_counts = customers.groupby("DOMAIN_TYPE").agg(
+        Klanten=("CUSTOMER", "count"),
+        Responses=("Responses", "sum"),
+    ).reindex(["Klant", "Overig", "Particulier"]).fillna(0).astype(int)
+    sc1, sc2, sc3 = st.columns(3)
+    with sc1:
+        k = type_counts.loc["Klant"] if "Klant" in type_counts.index else pd.Series({"Klanten": 0, "Responses": 0})
+        st.markdown(f'<div style="background:#1e293b;border-radius:8px;padding:0.6rem;text-align:center;border-left:3px solid #3b82f6"><span style="color:#94a3b8;font-size:0.75rem">Klanten (CRM)</span><br><span style="font-weight:700;color:#3b82f6">{k["Klanten"]}</span> <span style="color:#64748b;font-size:0.75rem">({k["Responses"]} responses)</span></div>', unsafe_allow_html=True)
+    with sc2:
+        o = type_counts.loc["Overig"] if "Overig" in type_counts.index else pd.Series({"Klanten": 0, "Responses": 0})
+        st.markdown(f'<div style="background:#1e293b;border-radius:8px;padding:0.6rem;text-align:center;border-left:3px solid #f59e0b"><span style="color:#94a3b8;font-size:0.75rem">Overig (niet in CRM)</span><br><span style="font-weight:700;color:#f59e0b">{o["Klanten"]}</span> <span style="color:#64748b;font-size:0.75rem">({o["Responses"]} responses)</span></div>', unsafe_allow_html=True)
+    with sc3:
+        p = type_counts.loc["Particulier"] if "Particulier" in type_counts.index else pd.Series({"Klanten": 0, "Responses": 0})
+        st.markdown(f'<div style="background:#1e293b;border-radius:8px;padding:0.6rem;text-align:center;border-left:3px solid #64748b"><span style="color:#94a3b8;font-size:0.75rem">Particulier (gmail etc.)</span><br><span style="font-weight:700;color:#64748b">{p["Klanten"]}</span> <span style="color:#64748b;font-size:0.75rem">({p["Responses"]} responses)</span></div>', unsafe_allow_html=True)
+
+    st.markdown("<br>", unsafe_allow_html=True)
 
     col1, col2 = st.columns(2)
     with col1:
-        top_10 = cust_filtered.nlargest(15, "NPS")
+        top_15 = cust_filtered.nlargest(15, "NPS")
         fig_top = px.bar(
-            top_10, x="NPS", y="DOMAIN", orientation="h",
+            top_15, x="NPS", y="CUSTOMER", orientation="h",
             title=f"Top 15 Klanten (min. {min_responses} responses)",
             template="plotly_dark",
             color="NPS",
@@ -530,9 +615,9 @@ with tab3:
         st.plotly_chart(fig_top, width="stretch")
 
     with col2:
-        bottom_10 = cust_filtered.nsmallest(15, "NPS")
+        bottom_15 = cust_filtered.nsmallest(15, "NPS")
         fig_bot = px.bar(
-            bottom_10, x="NPS", y="DOMAIN", orientation="h",
+            bottom_15, x="NPS", y="CUSTOMER", orientation="h",
             title=f"Bottom 15 Klanten (min. {min_responses} responses)",
             template="plotly_dark",
             color="NPS",
@@ -544,11 +629,12 @@ with tab3:
         st.plotly_chart(fig_bot, width="stretch")
 
     st.subheader("Alle Klanten")
-    cust_display = cust_filtered[["DOMAIN", "Responses", "NPS", "Avg_Score", "Promoters", "Detractors"]].copy()
+    cust_display = cust_filtered[["CUSTOMER", "DOMAIN_TYPE", "OWNER", "Responses", "NPS", "Avg_Score", "Promoters", "Detractors"]].copy()
     cust_display["NPS"] = cust_display["NPS"].round(1)
     cust_display["Avg_Score"] = cust_display["Avg_Score"].round(2)
     cust_display = cust_display.rename(columns={
-        "DOMAIN": "Klant", "Avg_Score": "Gem. Score",
+        "CUSTOMER": "Klant", "DOMAIN_TYPE": "Type", "OWNER": "Account Manager",
+        "Avg_Score": "Gem. Score",
     })
 
     search_cust = st.text_input("Zoek klant", key="search_cust")
@@ -560,17 +646,32 @@ with tab3:
     # --- Klant detail drill-down ---
     st.markdown("---")
     st.subheader("Klant Detail")
-    domain_list = cust_filtered["DOMAIN"].tolist()
-    selected_domain = st.selectbox(
+    customer_list = cust_filtered["CUSTOMER"].tolist()
+    selected_customer = st.selectbox(
         "Selecteer een klant",
-        options=[""] + domain_list,
+        options=[""] + customer_list,
         format_func=lambda x: "Kies een klant..." if x == "" else x,
         key="selected_customer",
     )
 
-    if selected_domain:
-        cust_resp = resp_filtered[resp_filtered["DOMAIN"] == selected_domain].copy()
+    if selected_customer:
+        cust_resp = resp_filtered[resp_filtered["CUSTOMER"] == selected_customer].copy()
         cust_scored = cust_resp.dropna(subset=["SCORE"])
+
+        # Show account manager if known
+        cust_row = cust_filtered[cust_filtered["CUSTOMER"] == selected_customer].iloc[0]
+        owner = cust_row.get("OWNER", "")
+        dtype = cust_row.get("DOMAIN_TYPE", "")
+        domain = cust_row.get("DOMAIN", "")
+        info_parts = []
+        if dtype:
+            info_parts.append(f"**Type:** {dtype}")
+        if owner:
+            info_parts.append(f"**Account Manager:** {owner}")
+        if domain:
+            info_parts.append(f"**Domein:** {domain}")
+        if info_parts:
+            st.markdown(" · ".join(info_parts))
 
         # KPI row for selected customer
         c1, c2, c3, c4 = st.columns(4)
@@ -596,7 +697,7 @@ with tab3:
                 line=dict(color="#3b82f6", width=2),
             ))
             fig_cust.update_layout(
-                title=f"NPS Trend — {selected_domain}",
+                title=f"NPS Trend — {selected_customer}",
                 template="plotly_dark", height=300,
                 xaxis_title="Maand", yaxis_title="NPS",
                 yaxis=dict(range=[-100, 100]),
@@ -612,7 +713,7 @@ with tab3:
             st.plotly_chart(fig_cust, width="stretch")
 
         # Responses table
-        st.markdown(f"**Responses van {selected_domain}**")
+        st.markdown(f"**Responses van {selected_customer}**")
         cust_show = cust_resp[["DATE", "SCORE", "NPS_CAT", "MESSAGE", "PLATFORM"]].sort_values("DATE", ascending=False)
         cust_show = cust_show.rename(columns={
             "DATE": "Datum", "SCORE": "Score", "NPS_CAT": "Categorie",
@@ -647,12 +748,13 @@ with tab4:
             resp_display["MESSAGE"].fillna("").str.contains(search_text, case=False)
         ]
 
-    display_cols = ["DATE", "DOMAIN", "SCORE", "NPS_CAT", "MESSAGE", "PLATFORM"]
+    display_cols = ["DATE", "CUSTOMER", "DOMAIN_TYPE", "SCORE", "NPS_CAT", "MESSAGE", "PLATFORM"]
     available_cols = [c for c in display_cols if c in resp_display.columns]
     resp_show = resp_display[available_cols].sort_values("DATE", ascending=False).head(500)
     resp_show = resp_show.rename(columns={
-        "DATE": "Datum", "DOMAIN": "Klant", "SCORE": "Score",
-        "NPS_CAT": "Categorie", "MESSAGE": "Feedback", "PLATFORM": "Platform",
+        "DATE": "Datum", "CUSTOMER": "Klant", "DOMAIN_TYPE": "Type",
+        "SCORE": "Score", "NPS_CAT": "Categorie", "MESSAGE": "Feedback",
+        "PLATFORM": "Platform",
     })
     if "Feedback" in resp_show.columns:
         resp_show["Feedback"] = resp_show["Feedback"].astype(str).replace("nan", "")
