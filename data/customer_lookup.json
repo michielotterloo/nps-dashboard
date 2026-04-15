@@ -6546,5 +6546,141 @@
   "bribus.nl": {
     "name": "Bribus",
     "owner": ""
+  },
+  "ext.groupepvcp.com": {
+    "name": "Groupe PVCP",
+    "owner": "Robert Greidanus"
+  },
+  "schilder.vdmeijs.nl": {
+    "name": "Van der Meijs BV",
+    "owner": "Robert Greidanus"
+  },
+  "phch.jajo.com": {
+    "name": "Janssen de Jong Groep",
+    "owner": "Rutger-Jan Loenen"
+  },
+  "gsuite.cbbarnhem.nl": {
+    "name": "Centraal Bureau Bouwbegeleiding",
+    "owner": "Robert Greidanus"
+  },
+  "wij.groningen.nl": {
+    "name": "Gemeente Groningen (Flexwhere) ",
+    "owner": "Arthur Dommers"
+  },
+  "student.rocvantwente.nl": {
+    "name": "Roc Van Twente",
+    "owner": "Robert van der Veen"
+  },
+  "external.equans.com": {
+    "name": "Equans",
+    "owner": "Sunil CJ"
+  },
+  "student.aventus.nl": {
+    "name": "Aventus",
+    "owner": "Robert van der Veen"
+  },
+  "bhv.jajo.com": {
+    "name": "Janssen de Jong Groep",
+    "owner": "Rutger-Jan Loenen"
+  },
+  "ext.urw.com": {
+    "name": "Unibail-Rodamco-Westfield",
+    "owner": "Lilian Lubberink"
+  },
+  "vd-bouw.nl": {
+    "name": "VD Ontwerp en realisatie BV",
+    "owner": "Lilian Lubberink"
+  },
+  "abtwassenaar.nl": {
+    "name": "abtWassenaar B.V.",
+    "owner": "Babs Verheij"
+  },
+  "borrenbergsgroep.nl": {
+    "name": "Borrenbergs",
+    "owner": "Peter Romeijn"
+  },
+  "athlon.com": {
+    "name": "Decathlon",
+    "owner": "Arthur Dommers"
+  },
+  "kuijpersbouw.nl": {
+    "name": "Kuijpers HQ",
+    "owner": "Babs Verheij"
+  },
+  "innocentdrinks.co.uk": {
+    "name": "Innocent drinks (Fresh Trading Manufacturing B.V)",
+    "owner": "Robert Greidanus"
+  },
+  "schildersbedrijf.com": {
+    "name": "Schildersbedrijf Hoek",
+    "owner": "Lilian Lubberink"
+  },
+  "batenburgbv.nl": {
+    "name": "Batenburg Techniek B.V.",
+    "owner": "Nathalie Pereboom"
+  },
+  "debrandmeesters.nl": {
+    "name": "Brandmeester BV",
+    "owner": "Unknown"
+  },
+  "hofmann-haus-ils.com": {
+    "name": "Hofmann Haus GmbH",
+    "owner": "Mathias Wolf"
+  },
+  "bouwcenter.nu": {
+    "name": "Bouwcenter Nobel | Keukens, Sanitair en Tuin",
+    "owner": "Unknown"
+  },
+  "mariheijmans.nl": {
+    "name": "Heijmans Groep",
+    "owner": "Robert Greidanus"
+  },
+  "oosterhoff.eu": {
+    "name": "Oosterhoff",
+    "owner": "Babs Verheij"
+  },
+  "nieuwenhuisbouwontwerp.nl": {
+    "name": "Nieuwenhuis Bouw",
+    "owner": "Nathalie Pereboom"
+  },
+  "goossentepasbouw.nl": {
+    "name": "Goossen Te Pas",
+    "owner": "Nathalie Pereboom"
+  },
+  "burgland.nl": {
+    "name": "Burgland Bouw BV",
+    "owner": "Babs Verheij"
+  },
+  "k-plus-s.com": {
+    "name": "K+ Adviesgroep B.V.",
+    "owner": "Lilian Lubberink"
+  },
+  "nieuwenhuisbouwbedrijf.nl": {
+    "name": "Nieuwenhuis Bouw",
+    "owner": "Nathalie Pereboom"
+  },
+  "gc-nijkerk.nl": {
+    "name": "Gemeente Nijkerk",
+    "owner": "Unknown"
+  },
+  "dutchview.co.uk": {
+    "name": "Ed Controls",
+    "owner": "Arthur Dommers"
+  },
+  "syntechklimaatservice.nl": {
+    "name": "Klimaatservice Holland BV",
+    "owner": "Babs Verheij"
+  },
+  "online.nl": {
+    "name": "Batenburg Nijkerk",
+    "owner": "Nathalie Pereboom"
+  },
+  "johtenbrinke.nl": {
+    "name": "Ten Brinke Zuid",
+    "owner": "Unassigned"
+  },
+  "abcbessels.nl": {
+    "name": "Bessels architecten & ingenieurs",
+    "owner": "Inge Rouwenhorst"
   }
 }
