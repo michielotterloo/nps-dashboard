@@ -49,8 +49,8 @@ def load_customer_lookup():
 
 def classify_domain(domain, customer_lookup):
     """Classify a domain into: Klant (in CRM), Particulier (generic email), Overig."""
-    d = (domain or "").lower().strip()
-    if d in customer_lookup:
+    d = str(domain).lower().strip() if pd.notna(domain) else ""
+    if d and d in customer_lookup:
         return "Klant"
     elif d in GENERIC_EMAIL_DOMAINS:
         return "Particulier"
@@ -60,7 +60,9 @@ def classify_domain(domain, customer_lookup):
 
 def domain_to_name(domain, customer_lookup):
     """Convert domain to customer name if known."""
-    d = (domain or "").lower().strip()
+    if pd.isna(domain):
+        return "Onbekend"
+    d = str(domain).lower().strip()
     entry = customer_lookup.get(d)
     if entry:
         return entry.get("name") or domain
@@ -138,7 +140,7 @@ def load_product(prefix):
     resp["CUSTOMER"] = resp["DOMAIN"].apply(lambda d: domain_to_name(d, customer_lookup))
     resp["DOMAIN_TYPE"] = resp["DOMAIN"].apply(lambda d: classify_domain(d, customer_lookup))
     resp["OWNER"] = resp["DOMAIN"].apply(
-        lambda d: (customer_lookup.get((d or "").lower().strip()) or {}).get("owner") or ""
+        lambda d: (customer_lookup.get(str(d).lower().strip()) or {}).get("owner") or "" if pd.notna(d) else ""
     )
 
     # Add time columns
